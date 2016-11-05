@@ -1,6 +1,6 @@
 FROM openanalytics/r-base
 
-MAINTAINER Tobias Verbeke "tobias.verbeke@openanalytics.eu"
+MAINTAINER Camilo Herrera "ch@camiloherrera.co"
 
 # system libraries of general use
 RUN apt-get update && apt-get install -y \
@@ -19,7 +19,7 @@ RUN apt-get update && apt-get install -y \
     libmpfr-dev
 
 # basic shiny functionality
-RUN R -e "install.packages(c('shiny', 'rmarkdown'), repos='https://cloud.r-project.org/')"
+RUN R -e "install.packages(c('shiny', 'rmarkdown','tidyverse','lubridate','shinydashboard','ggplot2','ggvis','googleVis','rpivotTable','DT','xts','dygraphs'), repos='https://cloud.r-project.org/')"
 
 # install dependencies of the euler app
 RUN R -e "install.packages('Rmpfr', repos='https://cloud.r-project.org/')"
