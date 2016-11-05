@@ -1,0 +1,125 @@
+"";"AREA";"Dia";"Casos";"cumsum";"P0"
+"1";"Gestión del Servicio";1;1;1;39
+"2";"Gestión del Servicio";2;1;2;38
+"3";"Gestión del Servicio";3;1;3;37
+"4";"Gestión del Servicio";4;2;5;36
+"5";"Gestión del Servicio";5;1;6;34
+"6";"Gestión del Servicio";6;1;7;33
+"7";"Gestión del Servicio";7;1;8;32
+"8";"Gestión del Servicio";8;1;9;31
+"9";"Gestión del Servicio";9;1;10;30
+"10";"Gestión del Servicio";10;1;11;29
+"11";"Gestión del Servicio";11;1;12;28
+"12";"Gestión del Servicio";12;1;13;27
+"13";"Gestión del Servicio";13;2;15;26
+"14";"Gestión del Servicio";14;1;16;24
+"15";"Gestión del Servicio";15;1;17;23
+"16";"Gestión del Servicio";16;2;19;22
+"17";"Gestión del Servicio";17;1;20;20
+"18";"Gestión del Servicio";18;1;21;19
+"19";"Gestión del Servicio";19;1;22;18
+"20";"Gestión del Servicio";20;1;23;17
+"21";"Gestión del Servicio";21;1;24;16
+"22";"Gestión del Servicio";22;2;26;15
+"23";"Gestión del Servicio";23;1;27;13
+"24";"Gestión del Servicio";24;1;28;12
+"25";"Gestión del Servicio";25;2;30;11
+"26";"Gestión del Servicio";26;1;31;9
+"27";"Gestión del Servicio";27;1;32;8
+"28";"Gestión del Servicio";28;1;33;7
+"29";"Gestión del Servicio";29;2;35;6
+"30";"Gestión del Servicio";30;2;37;4
+"31";"Gestión del Servicio";31;1;38;2
+"32";"Infraestructura Informatica";1;65;65;2708
+"33";"Infraestructura Informatica";2;74;139;2643
+"34";"Infraestructura Informatica";3;79;218;2569
+"35";"Infraestructura Informatica";4;105;323;2490
+"36";"Infraestructura Informatica";5;101;424;2385
+"37";"Infraestructura Informatica";6;104;528;2284
+"38";"Infraestructura Informatica";7;76;604;2180
+"39";"Infraestructura Informatica";8;74;678;2104
+"40";"Infraestructura Informatica";9;106;784;2030
+"41";"Infraestructura Informatica";10;86;870;1924
+"42";"Infraestructura Informatica";11;83;953;1838
+"43";"Infraestructura Informatica";12;73;1026;1755
+"44";"Infraestructura Informatica";13;101;1127;1682
+"45";"Infraestructura Informatica";14;97;1224;1581
+"46";"Infraestructura Informatica";15;86;1310;1484
+"47";"Infraestructura Informatica";16;100;1410;1398
+"48";"Infraestructura Informatica";17;87;1497;1298
+"49";"Infraestructura Informatica";18;87;1584;1211
+"50";"Infraestructura Informatica";19;94;1678;1124
+"51";"Infraestructura Informatica";20;95;1773;1030
+"52";"Infraestructura Informatica";21;98;1871;935
+"53";"Infraestructura Informatica";22;86;1957;837
+"54";"Infraestructura Informatica";23;79;2036;751
+"55";"Infraestructura Informatica";24;85;2121;672
+"56";"Infraestructura Informatica";25;84;2205;587
+"57";"Infraestructura Informatica";26;99;2304;503
+"58";"Infraestructura Informatica";27;109;2413;404
+"59";"Infraestructura Informatica";28;91;2504;295
+"60";"Infraestructura Informatica";29;75;2579;204
+"61";"Infraestructura Informatica";30;94;2673;129
+"62";"Infraestructura Informatica";31;34;2707;35
+"63";"Sistemas de Informacion";1;18;18;785
+"64";"Sistemas de Informacion";2;17;35;767
+"65";"Sistemas de Informacion";3;26;61;750
+"66";"Sistemas de Informacion";4;27;88;724
+"67";"Sistemas de Informacion";5;29;117;697
+"68";"Sistemas de Informacion";6;27;144;668
+"69";"Sistemas de Informacion";7;23;167;641
+"70";"Sistemas de Informacion";8;21;188;618
+"71";"Sistemas de Informacion";9;29;217;597
+"72";"Sistemas de Informacion";10;21;238;568
+"73";"Sistemas de Informacion";11;25;263;547
+"74";"Sistemas de Informacion";12;20;283;522
+"75";"Sistemas de Informacion";13;29;312;502
+"76";"Sistemas de Informacion";14;27;339;473
+"77";"Sistemas de Informacion";15;27;366;446
+"78";"Sistemas de Informacion";16;27;393;419
+"79";"Sistemas de Informacion";17;28;421;392
+"80";"Sistemas de Informacion";18;22;443;364
+"81";"Sistemas de Informacion";19;27;470;342
+"82";"Sistemas de Informacion";20;23;493;315
+"83";"Sistemas de Informacion";21;23;516;292
+"84";"Sistemas de Informacion";22;25;541;269
+"85";"Sistemas de Informacion";23;24;565;244
+"86";"Sistemas de Informacion";24;22;587;220
+"87";"Sistemas de Informacion";25;26;613;198
+"88";"Sistemas de Informacion";26;28;641;172
+"89";"Sistemas de Informacion";27;35;676;144
+"90";"Sistemas de Informacion";28;31;707;109
+"91";"Sistemas de Informacion";29;30;737;78
+"92";"Sistemas de Informacion";30;32;769;48
+"93";"Sistemas de Informacion";31;15;784;16
+"94";"Telecomunicaciones";1;7;7;336
+"95";"Telecomunicaciones";2;10;17;329
+"96";"Telecomunicaciones";3;10;27;319
+"97";"Telecomunicaciones";4;11;38;309
+"98";"Telecomunicaciones";5;10;48;298
+"99";"Telecomunicaciones";6;11;59;288
+"100";"Telecomunicaciones";7;9;68;277
+"101";"Telecomunicaciones";8;5;73;268
+"102";"Telecomunicaciones";9;17;90;263
+"103";"Telecomunicaciones";10;11;101;246
+"104";"Telecomunicaciones";11;8;109;235
+"105";"Telecomunicaciones";12;10;119;227
+"106";"Telecomunicaciones";13;14;133;217
+"107";"Telecomunicaciones";14;11;144;203
+"108";"Telecomunicaciones";15;21;165;192
+"109";"Telecomunicaciones";16;10;175;171
+"110";"Telecomunicaciones";17;10;185;161
+"111";"Telecomunicaciones";18;10;195;151
+"112";"Telecomunicaciones";19;10;205;141
+"113";"Telecomunicaciones";20;10;215;131
+"114";"Telecomunicaciones";21;14;229;121
+"115";"Telecomunicaciones";22;14;243;107
+"116";"Telecomunicaciones";23;12;255;93
+"117";"Telecomunicaciones";24;8;263;81
+"118";"Telecomunicaciones";25;12;275;73
+"119";"Telecomunicaciones";26;13;288;61
+"120";"Telecomunicaciones";27;14;302;48
+"121";"Telecomunicaciones";28;9;311;34
+"122";"Telecomunicaciones";29;9;320;25
+"123";"Telecomunicaciones";30;12;332;16
+"124";"Telecomunicaciones";31;3;335;4

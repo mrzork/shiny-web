@@ -1,0 +1,2045 @@
+"";"Especialista";"Servicio";"Total";"vencidos";"prob"
+"1";"Alberto Claver - Usuario INDRA (ACIND077)";"Indra Esp-Atención de Requerimientos";1;1;1
+"2";"Alberto Claver - Usuario INDRA (ACIND077)";"Indra Esp-Resolución de Incidentes";2;1;0,5
+"3";"Alberto Claver Bernues";"Indra Esp-Resolución de Incidentes";1;0;0
+"4";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Ampliación de Cuota";25;0;0
+"5";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Bloqueos Frecuentes";28;0;0
+"6";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Comunicación Unificada (Lync)";138;1;0,0072463768115942
+"7";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Configuración de Impresión";1;0;0
+"8";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Filtro Correo Corporativo";12;0;0
+"9";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestion Cuentas de Correo";369;1;0,002710027100271
+"10";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión Cuentas de Red";253;4;0,0158102766798419
+"11";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión Cuentas de Servicio";149;2;0,0134228187919463
+"12";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión de Alertas";49;0;0
+"13";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión de Excepciones";60;0;0
+"14";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión de Servicios básicos de Redes";85;1;0,0117647058823529
+"15";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión de Servidores Sistema Operativo Windows";13;0;0
+"16";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestion Permisos Recurso Compartido";52;1;0,0192307692307692
+"17";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión Permisos VPN";3;0;0
+"18";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Gestión servicios de Seguridades";11;0;0
+"19";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Listas de Distribución Correo";27;1;0,037037037037037
+"20";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Monitoreo y soporte Servicios básicos de Redes";6;0;0
+"21";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Monitoreo y soporte Servicios de Seguridades";1;0;0
+"22";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Reporte Archivos";2;0;0
+"23";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio Acceso Red";13;1;0,0769230769230769
+"24";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio Correo";138;22;0,159420289855072
+"25";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio de Hardware de Soporte Central";1;0;0
+"26";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio de Navegación";1;0;0
+"27";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio de Sistema Operativo";228;8;0,0350877192982456
+"28";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio FTP";1;0;0
+"29";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio Red Inalámbrica";1;0;0
+"30";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Restablecer Servicio SW PC";11;0;0
+"31";"Alejandro Ararat Soto - Usuario INDRA (ACIND034)";"Sitio Web";12;0;0
+"32";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Actualización SW PC";14;6;0,428571428571429
+"33";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Alistamiento Sala de Formación";8;1;0,125
+"34";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Alistamiento Sala de Reuniones o Auditorio";4;0;0
+"35";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Conexión Terceros";2;0;0
+"36";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Configuración";5;1;0,2
+"37";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Configuración de Impresión";11;2;0,181818181818182
+"38";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Configuración en Windows";59;4;0,0677966101694915
+"39";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Daño Equipos de Impresión y Digitalización";1;0;0
+"40";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Instalación SW PC";29;1;0,0344827586206897
+"41";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Mantenimiento";16;3;0,1875
+"42";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Restablecer Servicio de Dispositivo Móvil";2;0;0
+"43";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Restablecer Servicio Equipos/Periféricos";113;12;0,106194690265487
+"44";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Restablecer Servicio SW PC";157;27;0,171974522292994
+"45";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Restablecer Servicio Windows";374;46;0,122994652406417
+"46";"Alexander Orozco Fonseca - Usuario INDRA (ACIND032)";"Soporte Interno Microinformática";209;16;0,076555023923445
+"47";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Actualización SW PC";14;0;0
+"48";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Asignación Equipo";49;0;0
+"49";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Conexión Terceros";1;0;0
+"50";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Desinstalación SW PC";13;0;0
+"51";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Gestion SW Tecnología";25;2;0,08
+"52";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Instalacion  o adquisiscion  Nuevo SW PC- ARI";53;2;0,0377358490566038
+"53";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Instalación SW PC";853;62;0,0726846424384525
+"54";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Mantenimiento";1;0;0
+"55";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Préstamo Equipo";5;0;0
+"56";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Restablecer APP Locker";10;1;0,1
+"57";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Retiro Equipo";2;0;0
+"58";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Soporte Interno Microinformática";19;1;0,0526315789473684
+"59";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Traspaso Equipo";1;0;0
+"60";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Traspaso Licencia";10;0;0
+"61";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Verficación Inconsistencias CMDB";2;0;0
+"62";"Alexander Vahos Avendaño - Usuario INDRA (ACIND029)";"Verificación de Inventario Informática de Usuario";1;0;0
+"63";"Alfredo Alexander Castro Rodriguez";"Asignación Enlace Telecontrol";2;0;0
+"64";"Alfredo Alexander Castro Rodriguez";"Asignación Enlace Telecontrol Externo";4;0;0
+"65";"Alfredo Alexander Castro Rodriguez";"Asignación Enlace Videoseguridad";1;0;0
+"66";"Alfredo Alexander Castro Rodriguez";"Configuración - Telco";6;0;0
+"67";"Alfredo Alexander Castro Rodriguez";"Instalación Punto de Red";2;0;0
+"68";"Alfredo Alexander Castro Rodriguez";"Monitoreo/Reporte de Tráfico - Telco";1;0;0
+"69";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio de Radio";2;0;0
+"70";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio de Telefonía Fija o Móvil";1;0;0
+"71";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio Red Datos";9;0;0
+"72";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio Telecontrol";34;2;0,0588235294117647
+"73";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio Telecontrol Externo";1;0;0
+"74";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio Telecontrol Reconectadores";5;0;0
+"75";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio Telemedida";7;0;0
+"76";"Alfredo Alexander Castro Rodriguez";"Restablecer Servicio Videoseguridad";10;0;0
+"77";"Alfredo Alexander Castro Rodriguez";"Revisión - Telco";3;0;0
+"78";"Alfredo Cuellar Caicedo";"Asignación - Cable - Red";53;1;0,0188679245283019
+"79";"Alfredo Cuellar Caicedo";"Asignación Perfil o Pin Telefónico";12;2;0,166666666666667
+"80";"Alfredo Cuellar Caicedo";"Asignación Telefonía Fija";26;0;0
+"81";"Alfredo Cuellar Caicedo";"Cambio Telefonía Fija";1;0;0
+"82";"Alfredo Cuellar Caicedo";"Cancelación Línea o Extensión";2;0;0
+"83";"Alfredo Cuellar Caicedo";"Configuración - Telco";5;0;0
+"84";"Alfredo Cuellar Caicedo";"Devolución Equipo de Telefonía Fija";1;0;0
+"85";"Alfredo Cuellar Caicedo";"Generación - Reporte - Telefonía";5;0;0
+"86";"Alfredo Cuellar Caicedo";"Implementación - Red Inalámbrica";2;0;0
+"87";"Alfredo Cuellar Caicedo";"Instalación Punto de Red";45;0;0
+"88";"Alfredo Cuellar Caicedo";"Modificación Perfil o Pin Telefónico";3;0;0
+"89";"Alfredo Cuellar Caicedo";"Monitoreo/Reporte de Tráfico - Telco";2;0;0
+"90";"Alfredo Cuellar Caicedo";"Restablecer Servicio de Telefonía Fija";4;0;0
+"91";"Alfredo Cuellar Caicedo";"Restablecer Servicio de Telefonía Fija o Móvil";105;0;0
+"92";"Alfredo Cuellar Caicedo";"Restablecer Servicio Punto de Red";52;8;0,153846153846154
+"93";"Alfredo Cuellar Caicedo";"Restablecer Servicio Red Datos";5;1;0,2
+"94";"Alfredo Cuellar Caicedo";"Restablecer Servicio Red Inalámbrica";2;0;0
+"95";"Alfredo Cuellar Caicedo";"Restablecer Servicio Telecontrol";33;0;0
+"96";"Alfredo Cuellar Caicedo";"Restablecer Servicio Telecontrol Reconectadores";1;0;0
+"97";"Alfredo Cuellar Caicedo";"Restablecer Servicio Teleprotecciones";1;0;0
+"98";"Alfredo Cuellar Caicedo";"Restablecer Servicio Videoseguridad";2;0;0
+"99";"Alfredo Cuellar Caicedo";"Revisión - Telco";8;0;0
+"100";"Alfredo Cuellar Caicedo";"Servicios TI No Catalogados";2;1;0,5
+"101";"Alfredo Cuellar Caicedo";"Soporte Videoconferencia";1;0;0
+"102";"Alfredo Cuellar Caicedo";"Traslado Punto de Red";36;0;0
+"103";"Alfredo Cuellar Caicedo";"Traslado Telefonía Fija";11;0;0
+"104";"Alfredo Cuellar Caicedo";"Traspaso Telefonía Fija";2;0;0
+"105";"Alfredo Cuellar Caicedo";"Verificación de Inventario";3;0;0
+"106";"Ana Maria Huertas - Usuario INDRA (ACIND078)";"Indra Esp-Atención de Requerimientos";2;0;0
+"107";"Ana Maria Huertas - Usuario INDRA (ACIND078)";"Indra Esp-Resolución de Incidentes";5;4;0,8
+"108";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Bloqueos Frecuentes";3;0;0
+"109";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Comunicación Unificada (Lync)";30;1;0,0333333333333333
+"110";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Configuración de Impresión";1;0;0
+"111";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Desinfección de Equipo";35;0;0
+"112";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Filtro Correo Corporativo";98;0;0
+"113";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestion Cuentas de Correo";101;1;0,0099009900990099
+"114";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión Cuentas de Red";53;2;0,0377358490566038
+"115";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión Cuentas de Servicio";34;3;0,0882352941176471
+"116";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión de Alertas";39;0;0
+"117";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión de Excepciones";30;1;0,0333333333333333
+"118";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión de Servicios básicos de Redes";63;3;0,0476190476190476
+"119";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión de Servidores Sistema Operativo Windows";62;2;0,032258064516129
+"120";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión Permisos FTP";1;0;0
+"121";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestion Permisos Recurso Compartido";5;0;0
+"122";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Gestión servicios de Seguridades";202;4;0,0198019801980198
+"123";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Listas de Distribución Correo";31;3;0,0967741935483871
+"124";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Monitoreo y soporte Servicios básicos de Redes";15;2;0,133333333333333
+"125";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Monitoreo y soporte Servicios de Seguridades";15;1;0,0666666666666667
+"126";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Restablecer Servicio Acceso Red";22;0;0
+"127";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Restablecer Servicio Correo";133;10;0,075187969924812
+"128";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Restablecer Servicio de Navegación";19;0;0
+"129";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Restablecer Servicio de Sistema Operativo";38;1;0,0263157894736842
+"130";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Restablecer Servicio SW PC";43;0;0
+"131";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Restablecer Servicio VPN";2;0;0
+"132";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Sitio Web";215;9;0,0418604651162791
+"133";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Soporte Aplicación Antivirus";29;0;0
+"134";"Andres Felipe Velasco - Usuario INDRA (ACIND037)";"Verificación y bloqueo de páginas/correo no deseados";1;0;0
+"135";"Angela Maria Angarita Medina - Usuario INDRA (ACIND071)";"Verificación y bloqueo de páginas/correo no deseados";2;0;0
+"136";"Angelica Maria Urruchurtu Espinosa";"Análisis de Casos";7;0;0
+"137";"Angelica Maria Urruchurtu Espinosa";"Oportunidad de Mejora";1;0;0
+"138";"Angelica Maria Urruchurtu Espinosa";"Solicitud de Capacitación Aranda";2;0;0
+"139";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Actualizar aplicaciones Granja";2;2;1
+"140";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Gestión de Alertas";8;4;0,5
+"141";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Gestión de Excepciones";2;0;0
+"142";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Gestión de Servicios básicos de Redes";4;1;0,25
+"143";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Gestión de Servidores Sistema Operativo Windows";29;15;0,517241379310345
+"144";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Gestión permisos Navegación";2;1;0,5
+"145";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Gestión Permisos VPN";1;0;0
+"146";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Gestión Plataforma de Virtualización";1;0;0
+"147";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Monitoreo y soporte Servicios de Seguridades";2;2;1
+"148";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Monitoreo y soporte Sistema Operativo Unix";3;0;0
+"149";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Monitoreo y soporte Sistema Operativo Windows";1;0;0
+"150";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Respaldo";2;0;0
+"151";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Restablecer Servicio Acceso Red";6;4;0,666666666666667
+"152";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Restablecer Servicio de Sistema Operativo";3;2;0,666666666666667
+"153";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Sitio Web";2;0;0
+"154";"Armando Restrepo Posada Nieto - Usuario INDRA (ACIND014)";"Soporte imágenes virtuales";1;0;0
+"155";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Administración de Servidores Sistema Operativo Unix";35;0;0
+"156";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Crear, modificar o borrar usuarios en BD";183;0;0
+"157";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Gestión de Alertas";66;2;0,0303030303030303
+"158";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Gestión de Bases de Datos";514;4;0,00778210116731518
+"159";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Gestión de Excepciones";92;4;0,0434782608695652
+"160";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Monitoreo y Soporte Base de Datos";43;0;0
+"161";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Monitoreo y soporte Sistema Operativo Unix";11;0;0
+"162";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Monitoreo y soporte Sistema Operativo Windows";1;0;0
+"163";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Respaldo";18;0;0
+"164";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Restablecer Servicio de Motores de Bases de Datos";8;2;0,25
+"165";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Restauración Backup BD";23;0;0
+"166";"Bladimir Osorio Roque - Usuario INDRA (ACIND047)";"Soporte Hardware equipos SCADA";2;0;0
+"167";"Braian Felipe Leon Fernandez - Usuario - WI MOBILE (ACWIM001)";"Mantenimiento TP";1;1;1
+"168";"Braian Felipe Leon Fernandez - Usuario - WI MOBILE (ACWIM001)";"Reposición TP";1;1;1
+"169";"Camilo Alberto Herrera Rozo - Usuario INDRA (ACIND068)";"Ajustes al Catálogo";5;0;0
+"170";"Carlos Andres Blanco Micolta";"Asignación Enlace Telemedida";1;0;0
+"171";"Carlos Andres Blanco Micolta";"Monitoreo/Reporte de Tráfico - Telco";1;0;0
+"172";"Carlos Andres Blanco Micolta";"Restablecer Servicio de Navegación";1;0;0
+"173";"Carlos Andres Blanco Micolta";"Restablecer Servicio de Radio";6;1;0,166666666666667
+"174";"Carlos Andres Blanco Micolta";"Restablecer Servicio Red Datos";6;0;0
+"175";"Carlos Andres Blanco Micolta";"Restablecer Servicio Telecontrol";42;1;0,0238095238095238
+"176";"Carlos Andres Blanco Micolta";"Restablecer Servicio Telecontrol Reconectadores";3;0;0
+"177";"Carlos Andres Blanco Micolta";"Restablecer Servicio Telemedida";7;1;0,142857142857143
+"178";"Carlos Andres Blanco Micolta";"Restablecer Servicio Teleprotecciones";1;0;0
+"179";"Carlos Andres Blanco Micolta";"Restablecer Servicio Videoseguridad";2;0;0
+"180";"Carlos Andres Blanco Micolta";"Revisión - Telco";3;1;0,333333333333333
+"181";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Actualizar aplicaciones Granja";13;1;0,0769230769230769
+"182";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Asignación Equipo";2;0;0
+"183";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Desbloqueo Conexión de sesión a Desktop virtual";2;0;0
+"184";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Gestión de Alertas";4;0;0
+"185";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Gestión de Excepciones";4;0;0
+"186";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Gestión de imágenes";6;0;0
+"187";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Gestión de Servidores Sistema Operativo Windows";26;3;0,115384615384615
+"188";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Gestion Permisos Recurso Compartido";110;4;0,0363636363636364
+"189";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Gestión Plataforma de Virtualización";61;0;0
+"190";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Monitoreo y soporte Sistema Operativo Windows";2;0;0
+"191";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Monitoreo y soporte Virtualización";64;0;0
+"192";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Respaldo";3;0;0
+"193";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Restablecer Servicio Acceso Red";9;3;0,333333333333333
+"194";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Restablecer Servicio Aplicación Publicada";640;1;0,0015625
+"195";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Restablecer Servicio de Sistema Operativo";31;1;0,032258064516129
+"196";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Restablecer Servicio Escritorio Virtual";23;0;0
+"197";"Carlos Andres Castrillon Bustamante - Usuario INDRA (ACIND065)";"Soporte imágenes virtuales";2;0;0
+"198";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Actualización Individual  Datos Comercial";247;4;0,0161943319838057
+"199";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Actualización Masiva Datos Comercial";57;1;0,0175438596491228
+"200";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Análisis de Lentitud SI Comercial";32;3;0,09375
+"201";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Asesoría/Consulta Funcional - Comercial";106;31;0,292452830188679
+"202";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Asignación de Usuario Sistemas Comerciales";1;0;0
+"203";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Bloqueo Sistema Comercial SI Comercial";2;0;0
+"204";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";3;1;0,333333333333333
+"205";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Errores de Conexión al Sistema SI Comercial";25;3;0,12
+"206";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Errores de Funcionalidad SI Comercial";114;15;0,131578947368421
+"207";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Gestión de Excepciones";1;0;0
+"208";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Modificación de Perfil Sistemas Comerciales";1;1;1
+"209";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Modificación de Usuario Sistemas Comerciales";1;0;0
+"210";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Parametrización Sistemas Comerciales";20;0;0
+"211";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Reportes o Extracción de Información SI Comercial";32;0;0
+"212";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Revisión de Sop Loc Comercial";10;3;0,3
+"213";"Carlos Fernando Nuñez Trochez - Usuario INDRA (ACIND083)";"Solución Req-Sop Loc Comercial";3;1;0,333333333333333
+"214";"Cesar Augusto Gomez Lopez";"Actualización Datos Sistemas de Recursos";30;2;0,0666666666666667
+"215";"Cesar Augusto Gomez Lopez";"Análisis de Lentitud SI de Recursos";13;1;0,0769230769230769
+"216";"Cesar Augusto Gomez Lopez";"Asesoría/Consulta Funcional - Recursos";51;14;0,274509803921569
+"217";"Cesar Augusto Gomez Lopez";"Asignación de Usuario Sistemas Comerciales";2;0;0
+"218";"Cesar Augusto Gomez Lopez";"Asignación de Usuario Sistemas de Recursos";29;3;0,103448275862069
+"219";"Cesar Augusto Gomez Lopez";"Bloqueo Sistema Gestión de Recursos";2;0;0
+"220";"Cesar Augusto Gomez Lopez";"Corrección en Autorizaciones SI de Recursos";4;1;0,25
+"221";"Cesar Augusto Gomez Lopez";"Corrección Errores de Conexión SI de Recursos";39;0;0
+"222";"Cesar Augusto Gomez Lopez";"Corrección Errores de Funcionalidad SI de Recursos";84;12;0,142857142857143
+"223";"Cesar Augusto Gomez Lopez";"Creación de Perfil Sistemas de Recursos";1;0;0
+"224";"Cesar Augusto Gomez Lopez";"Eliminación de Perfil Sistemas de Recursos";1;0;0
+"225";"Cesar Augusto Gomez Lopez";"Eliminación de Usuario Sistemas de Recursos";18;0;0
+"226";"Cesar Augusto Gomez Lopez";"Modificación de Perfil Sistemas de Recursos";8;3;0,375
+"227";"Cesar Augusto Gomez Lopez";"Modificación de Usuario Sistemas de Recursos";27;4;0,148148148148148
+"228";"Cesar Augusto Gomez Lopez";"Parametrización Sistemas de Recursos";65;10;0,153846153846154
+"229";"Cesar Augusto Gomez Lopez";"Reportes o Extracción de Información SI de Recursos";5;1;0,2
+"230";"Cesar Augusto Gomez Lopez";"Revisión Interfaz";6;0;0
+"231";"Cesar Augusto Gomez Lopez";"Soporte Interno SSII de Recursos";4;0;0
+"232";"Christian Calvo - Usuario INDRA (ACIND072)";"Actualización Individual  Datos Comercial";347;0;0
+"233";"Christian Calvo - Usuario INDRA (ACIND072)";"Actualización Masiva Datos Comercial";60;0;0
+"234";"Christian Calvo - Usuario INDRA (ACIND072)";"Análisis de Lentitud SI Comercial";23;0;0
+"235";"Christian Calvo - Usuario INDRA (ACIND072)";"Asesoría/Consulta Funcional - Comercial";40;2;0,05
+"236";"Christian Calvo - Usuario INDRA (ACIND072)";"Bloqueo Sistema Comercial SI Comercial";1;0;0
+"237";"Christian Calvo - Usuario INDRA (ACIND072)";"Corrección en Autorizaciones SI Comercial";1;0;0
+"238";"Christian Calvo - Usuario INDRA (ACIND072)";"Creación de Perfil Sistemas Comerciales";1;0;0
+"239";"Christian Calvo - Usuario INDRA (ACIND072)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";11;0;0
+"240";"Christian Calvo - Usuario INDRA (ACIND072)";"Errores de Conexión al Sistema SI Comercial";62;1;0,0161290322580645
+"241";"Christian Calvo - Usuario INDRA (ACIND072)";"Errores de Funcionalidad SI Comercial";60;0;0
+"242";"Christian Calvo - Usuario INDRA (ACIND072)";"Gestión de Alertas";1;0;0
+"243";"Christian Calvo - Usuario INDRA (ACIND072)";"Gestión de Excepciones";1;0;0
+"244";"Christian Calvo - Usuario INDRA (ACIND072)";"Parametrización Sistemas Comerciales";12;0;0
+"245";"Christian Calvo - Usuario INDRA (ACIND072)";"Reportes o Extracción de Información SI Comercial";38;0;0
+"246";"Christian Calvo - Usuario INDRA (ACIND072)";"Revisión de Sop Loc Comercial";41;2;0,0487804878048781
+"247";"Christian Calvo - Usuario INDRA (ACIND072)";"Solución Req-Sop Loc Comercial";5;0;0
+"248";"Christian Calvo - Usuario INDRA (ACIND073)";"Actualización Individual  Datos Comercial";214;0;0
+"249";"Christian Calvo - Usuario INDRA (ACIND073)";"Actualización Masiva Datos Comercial";38;0;0
+"250";"Christian Calvo - Usuario INDRA (ACIND073)";"Análisis de Lentitud SI Comercial";1;0;0
+"251";"Christian Calvo - Usuario INDRA (ACIND073)";"Asesoría/Consulta Funcional - Comercial";47;1;0,0212765957446809
+"252";"Christian Calvo - Usuario INDRA (ACIND073)";"Bloqueo Sistema Comercial SI Comercial";2;0;0
+"253";"Christian Calvo - Usuario INDRA (ACIND073)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";9;0;0
+"254";"Christian Calvo - Usuario INDRA (ACIND073)";"Errores de Conexión al Sistema SI Comercial";15;0;0
+"255";"Christian Calvo - Usuario INDRA (ACIND073)";"Errores de Funcionalidad SI Comercial";38;0;0
+"256";"Christian Calvo - Usuario INDRA (ACIND073)";"Modificación de Usuario Sistemas Comerciales";2;0;0
+"257";"Christian Calvo - Usuario INDRA (ACIND073)";"Parametrización Sistemas Comerciales";17;0;0
+"258";"Christian Calvo - Usuario INDRA (ACIND073)";"Reportes o Extracción de Información SI Comercial";19;0;0
+"259";"Christian Calvo - Usuario INDRA (ACIND073)";"Revisión de Sop Loc Comercial";7;0;0
+"260";"Christian Calvo - Usuario INDRA (ACIND073)";"Solución Req-Sop Loc Comercial";14;0;0
+"261";"Christian Eduardo Figueroa S";"Restablecer Servicio Red Inalámbrica";4;0;0
+"262";"Claudia Lorena Cortes Garzon";"Actualización Datos Sistemas de Recursos";36;1;0,0277777777777778
+"263";"Claudia Lorena Cortes Garzon";"Análisis de Lentitud SI de Recursos";1;0;0
+"264";"Claudia Lorena Cortes Garzon";"Asesoría/Consulta Funcional - Recursos";33;0;0
+"265";"Claudia Lorena Cortes Garzon";"Asignación de Usuario Sistemas de Recursos";33;8;0,242424242424242
+"266";"Claudia Lorena Cortes Garzon";"Bloqueo Sistema Gestión de Recursos";5;0;0
+"267";"Claudia Lorena Cortes Garzon";"Corrección Errores de Conexión SI de Recursos";21;1;0,0476190476190476
+"268";"Claudia Lorena Cortes Garzon";"Corrección Errores de Funcionalidad SI de Recursos";85;0;0
+"269";"Claudia Lorena Cortes Garzon";"Desbloqueo Usuario/Cambio Contraseña SI de Recursos";6;0;0
+"270";"Claudia Lorena Cortes Garzon";"Eliminación de Usuario Sistemas de Recursos";56;7;0,125
+"271";"Claudia Lorena Cortes Garzon";"Modificación de Perfil Sistemas de Recursos";2;0;0
+"272";"Claudia Lorena Cortes Garzon";"Modificación de Usuario Sistemas de Recursos";18;0;0
+"273";"Claudia Lorena Cortes Garzon";"Parametrización Sistemas de Recursos";79;2;0,0253164556962025
+"274";"Claudia Lorena Cortes Garzon";"Reportes o Extracción de Información SI de Recursos";21;1;0,0476190476190476
+"275";"Claudia Lorena Cortes Garzon";"Servicios TI No Catalogados";1;0;0
+"276";"Claudia Lorena Cortes Garzon";"Soporte Interno SSII de Recursos";23;2;0,0869565217391304
+"277";"Claudia Marcela Diaz Tenorio - Usuario INDRA (ACIND050)";"Verificación y bloqueo de páginas/correo no deseados";2;0;0
+"278";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Actualizar aplicaciones Granja";44;0;0
+"279";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Asignación Equipo";27;0;0
+"280";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Desbloqueo Conexión de sesión a Desktop virtual";2;0;0
+"281";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Gestión de Alertas";9;0;0
+"282";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Gestión de Excepciones";11;0;0
+"283";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Gestión de imágenes";26;0;0
+"284";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Gestión de Servidores Sistema Operativo Windows";17;0;0
+"285";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Gestion Permisos Recurso Compartido";25;1;0,04
+"286";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Gestión Plataforma de Virtualización";91;1;0,010989010989011
+"287";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Monitoreo y soporte Sistema Operativo Windows";6;0;0
+"288";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Monitoreo y soporte Virtualización";72;0;0
+"289";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Respaldo";2;0;0
+"290";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Restablecer Servicio Acceso Red";8;0;0
+"291";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Restablecer Servicio Aplicación Publicada";409;0;0
+"292";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Restablecer Servicio de Hardware de Soporte Central";2;0;0
+"293";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Restablecer Servicio de Sistema Operativo";22;0;0
+"294";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Restablecer Servicio Escritorio Virtual";19;0;0
+"295";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Restablecer Servicio Servidor Virtual";3;0;0
+"296";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Soporte imágenes virtuales";2;0;0
+"297";"Cristhian Raul Martinez Urbano - Usuario INDRA (ACIND040)";"Verficación Inconsistencias CMDB";1;0;0
+"298";"Daniel Alejandro Ramirez Cuervo";"Actualización Individual  Datos Comercial";373;10;0,0268096514745308
+"299";"Daniel Alejandro Ramirez Cuervo";"Actualización Masiva Datos Comercial";86;6;0,0697674418604651
+"300";"Daniel Alejandro Ramirez Cuervo";"Análisis de Lentitud SI Comercial";4;1;0,25
+"301";"Daniel Alejandro Ramirez Cuervo";"Asesoría/Consulta Funcional - Comercial";56;3;0,0535714285714286
+"302";"Daniel Alejandro Ramirez Cuervo";"Bloqueo Sistema Comercial SI Comercial";2;0;0
+"303";"Daniel Alejandro Ramirez Cuervo";"Corrección en Autorizaciones SI Comercial";3;0;0
+"304";"Daniel Alejandro Ramirez Cuervo";"Corrección Errores de Conexión al Sistema SI Comercial";11;5;0,454545454545455
+"305";"Daniel Alejandro Ramirez Cuervo";"Corrección Errores de Funcionalidad SI Comercial";63;20;0,317460317460317
+"306";"Daniel Alejandro Ramirez Cuervo";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";2;0;0
+"307";"Daniel Alejandro Ramirez Cuervo";"Errores de Conexión al Sistema SI Comercial";35;5;0,142857142857143
+"308";"Daniel Alejandro Ramirez Cuervo";"Errores de Funcionalidad SI Comercial";125;24;0,192
+"309";"Daniel Alejandro Ramirez Cuervo";"Gestión de Alertas";2;0;0
+"310";"Daniel Alejandro Ramirez Cuervo";"Gestión de Excepciones";9;0;0
+"311";"Daniel Alejandro Ramirez Cuervo";"Indra Col-Resolución de Incidentes";4;4;1
+"312";"Daniel Alejandro Ramirez Cuervo";"Modificación de Usuario Sistemas Comerciales";7;0;0
+"313";"Daniel Alejandro Ramirez Cuervo";"Parametrización Sistemas Comerciales";40;5;0,125
+"314";"Daniel Alejandro Ramirez Cuervo";"Reportes o Extracción de Información SI Comercial";62;2;0,032258064516129
+"315";"Daniel Alejandro Ramirez Cuervo";"Revisión de Sop Loc Comercial";16;2;0,125
+"316";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Actualización SW PC";1;0;0
+"317";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Asignación Equipo";393;54;0,137404580152672
+"318";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Conexión Terceros";43;15;0,348837209302326
+"319";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Gestión de Alertas";3;0;0
+"320";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Gestion puesto de trabajo";1;0;0
+"321";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Instalación SW PC";11;2;0,181818181818182
+"322";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Mantenimiento";6;0;0
+"323";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Préstamo Equipo";114;5;0,043859649122807
+"324";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Restablecer APP Locker";5;0;0
+"325";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Retiro Equipo";160;2;0,0125
+"326";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Soporte Interno Microinformática";33;4;0,121212121212121
+"327";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Traslado Equipo";86;5;0,0581395348837209
+"328";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Traspaso Equipo";60;2;0,0333333333333333
+"329";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Traspaso Licencia";1;0;0
+"330";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Verficación Inconsistencias CMDB";10;2;0,2
+"331";"David Jose Betancourt Castrillon - Usuario INDRA (ACIND039)";"Verificación de Inventario Informática de Usuario";6;0;0
+"332";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Ampliación de Cuota";3;0;0
+"333";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Bloqueos Frecuentes";19;3;0,157894736842105
+"334";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Comunicación Unificada (Lync)";17;1;0,0588235294117647
+"335";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Filtro Correo Corporativo";10;0;0
+"336";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestion Cuentas de Correo";83;1;0,0120481927710843
+"337";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestión Cuentas de Red";32;0;0
+"338";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestión Cuentas de Servicio";54;0;0
+"339";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestión de Excepciones";2;0;0
+"340";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestión de Servicios básicos de Redes";6;0;0
+"341";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestión Permisos FTP";4;2;0,5
+"342";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestion Permisos Recurso Compartido";8;0;0
+"343";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Gestión servicios de Seguridades";10;0;0
+"344";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Listas de Distribución Correo";18;2;0,111111111111111
+"345";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Monitoreo y soporte Servicios básicos de Redes";2;0;0
+"346";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Monitoreo y soporte Servicios de Seguridades";1;0;0
+"347";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Reporte Archivos";1;0;0
+"348";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Restablecer Servicio Acceso Red";3;0;0
+"349";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Restablecer Servicio Correo";27;1;0,037037037037037
+"350";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Restablecer Servicio de Hardware de Soporte Central";2;2;1
+"351";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Restablecer Servicio de Navegación";13;0;0
+"352";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Restablecer Servicio FTP";1;0;0
+"353";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Restablecer Servicio SW PC";9;0;0
+"354";"David Naranjo Torres - Usuario INDRA (ACIND089)";"Sitio Web";3;0;0
+"355";"Diana Alejandra Paz Agelvis - Usuario INDRA (ACIND020)";"Análisis de Casos";14;4;0,285714285714286
+"356";"Diana Alejandra Paz Agelvis - Usuario INDRA (ACIND020)";"Oportunidad de Mejora";1;0;0
+"357";"Diana Ximena Vargas Fajardo - Usuario INDRA (ACIND008)";"Ajustes al Catálogo";12;1;0,0833333333333333
+"358";"Diana Ximena Vargas Fajardo - Usuario INDRA (ACIND008)";"Análisis de Casos";19;13;0,684210526315789
+"359";"Diana Ximena Vargas Fajardo - Usuario INDRA (ACIND008)";"Parametrización Sistemas de Recursos";1;0;0
+"360";"Diana Ximena Vargas Fajardo - Usuario INDRA (ACIND008)";"Postulación Articulo a BD Conocimiento";5;2;0,4
+"361";"Diana Ximena Vargas Fajardo - Usuario INDRA (ACIND008)";"Revisión de Servicio TIC No Catalogado";3;0;0
+"362";"Diana Ximena Vargas Fajardo - Usuario INDRA (ACIND008)";"Solicitud de Capacitación Aranda";59;2;0,0338983050847458
+"363";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Bloqueos Frecuentes";9;1;0,111111111111111
+"364";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Comunicación Unificada (Lync)";5;1;0,2
+"365";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestion Cuentas de Correo";9;3;0,333333333333333
+"366";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión Cuentas de Red";2;0;0
+"367";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión Cuentas de Servicio";7;1;0,142857142857143
+"368";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión de Alertas";11;4;0,363636363636364
+"369";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión de Excepciones";24;3;0,125
+"370";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión de Servicios básicos de Redes";18;3;0,166666666666667
+"371";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión de Servidores Sistema Operativo Windows";21;3;0,142857142857143
+"372";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión Permisos FTP";9;1;0,111111111111111
+"373";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión permisos Navegación";3;0;0
+"374";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestion Permisos Recurso Compartido";5;1;0,2
+"375";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión Permisos VPN";56;8;0,142857142857143
+"376";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Gestión servicios de Seguridades";28;1;0,0357142857142857
+"377";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Monitoreo y soporte Servicios básicos de Redes";9;1;0,111111111111111
+"378";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Monitoreo y soporte Servicios de Seguridades";1;0;0
+"379";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Reporte Archivos";2;0;0
+"380";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio Acceso Red";4;1;0,25
+"381";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio Correo";68;48;0,705882352941177
+"382";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio de Navegación";5;1;0,2
+"383";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio de Sistema Operativo";132;1;0,00757575757575758
+"384";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio FTP";2;1;0,5
+"385";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio Navegación Visitantes";2;0;0
+"386";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio Red Inalámbrica";1;0;0
+"387";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio SW PC";22;0;0
+"388";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Restablecer Servicio VPN";2;0;0
+"389";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Sitio Web";6;1;0,166666666666667
+"390";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Soporte Aplicación Antivirus";1;0;0
+"391";"Diego Armando Ruiz Giraldo - Usuario INDRA (ACIND033)";"Verficación Inconsistencias CMDB";2;2;1
+"392";"Diego Felipe Loango Caviedes";"Actualización Datos Sistemas de Recursos";2;0;0
+"393";"Diego Felipe Loango Caviedes";"Análisis de Lentitud SI de Recursos";1;0;0
+"394";"Diego Felipe Loango Caviedes";"Asesoría/Consulta funcional - Merc Mayorista";2;0;0
+"395";"Diego Felipe Loango Caviedes";"Asesoría/Consulta Funcional - Recursos";6;0;0
+"396";"Diego Felipe Loango Caviedes";"Asignación de Usuario Sistemas de Recursos";1;0;0
+"397";"Diego Felipe Loango Caviedes";"Bloqueo Sistema Gestión de Recursos";2;1;0,5
+"398";"Diego Felipe Loango Caviedes";"Corrección Errores de Conexión SI de Distribución";1;0;0
+"399";"Diego Felipe Loango Caviedes";"Corrección Errores de Conexión SI de Generación";1;0;0
+"400";"Diego Felipe Loango Caviedes";"Corrección Errores de Conexión SI de Recursos";1;0;0
+"401";"Diego Felipe Loango Caviedes";"Corrección Errores de Conexión SI Merc Mayorista";1;0;0
+"402";"Diego Felipe Loango Caviedes";"Corrección Errores de Funcionalidad SI de Generación";8;0;0
+"403";"Diego Felipe Loango Caviedes";"Corrección Errores de Funcionalidad SI de Recursos";2;0;0
+"404";"Diego Felipe Loango Caviedes";"Corrección Errores de Funcionalidad SI Merc Mayorista";6;0;0
+"405";"Diego Felipe Loango Caviedes";"Parametrización Sistemas de Generación";1;0;0
+"406";"Diego Felipe Loango Caviedes";"Parametrización Sistemas de Recursos";5;1;0,2
+"407";"Diego Felipe Loango Caviedes";"Servicios TI No Catalogados";1;1;1
+"408";"Diego Fernando Garces Ibañez";"Actualización Datos Distribución";63;1;0,0158730158730159
+"409";"Diego Fernando Garces Ibañez";"Análisis de Lentitud SI de Distribución";2;0;0
+"410";"Diego Fernando Garces Ibañez";"Asesoría/Consulta funcional - Distribución";1;0;0
+"411";"Diego Fernando Garces Ibañez";"Asignación de Usuario Distribución";1;1;1
+"412";"Diego Fernando Garces Ibañez";"Corrección Errores de Conexión SI de Distribución";3;0;0
+"413";"Diego Fernando Garces Ibañez";"Corrección Errores de Funcionalidad SI de Distribución";10;0;0
+"414";"Diego Fernando Garces Ibañez";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";2;1;0,5
+"415";"Diego Fernando Garces Ibañez";"Eliminación de Usuario Sistemas de Distribución";6;0;0
+"416";"Diego Fernando Garces Ibañez";"Parametrización Sistemas de Distribución";8;0;0
+"417";"Diego Fernando Garces Ibañez";"Reportes o Extracción de Información SI de Distribución";2;0;0
+"418";"Diego Fernando Garces Ibañez";"Revisión de Sop Loc Distribución";1;0;0
+"419";"Diego Fernando Maradiago Delgado";"Actualización Datos Distribución";6;0;0
+"420";"Diego Fernando Maradiago Delgado";"Actualización Individual  Datos Comercial";17;0;0
+"421";"Diego Fernando Maradiago Delgado";"Asesoría/Consulta Funcional - Comercial";5;1;0,2
+"422";"Diego Fernando Maradiago Delgado";"Asesoría/Consulta funcional - Distribución";17;10;0,588235294117647
+"423";"Diego Fernando Maradiago Delgado";"Asignación de Usuario Sistemas Comerciales";20;1;0,05
+"424";"Diego Fernando Maradiago Delgado";"Bloqueo Sistema Comercial SI Comercial";3;0;0
+"425";"Diego Fernando Maradiago Delgado";"Corrección Errores de Conexión al Sistema SI Comercial";1;0;0
+"426";"Diego Fernando Maradiago Delgado";"Corrección Errores de Funcionalidad SI de Distribución";1;0;0
+"427";"Diego Fernando Maradiago Delgado";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";1;0;0
+"428";"Diego Fernando Maradiago Delgado";"Eliminación de Usuario Sistemas Comerciales";21;4;0,19047619047619
+"429";"Diego Fernando Maradiago Delgado";"Eliminación de Usuario Sistemas de Distribución";3;0;0
+"430";"Diego Fernando Maradiago Delgado";"Errores de Conexión al Sistema SI Comercial";10;0;0
+"431";"Diego Fernando Maradiago Delgado";"Errores de Funcionalidad SI Comercial";45;1;0,0222222222222222
+"432";"Diego Fernando Maradiago Delgado";"Modificación de Perfil Sistemas Comerciales";7;0;0
+"433";"Diego Fernando Maradiago Delgado";"Modificación de Usuario Sistemas Comerciales";6;2;0,333333333333333
+"434";"Diego Fernando Maradiago Delgado";"Modificación de Usuario Sistemas de Distribución";1;0;0
+"435";"Diego Fernando Maradiago Delgado";"Parametrización Sistemas Comerciales";26;0;0
+"436";"Diego Fernando Maradiago Delgado";"Parametrización Sistemas de Distribución";1;0;0
+"437";"Diego Fernando Maradiago Delgado";"Reportes o Extracción de Información SI Comercial";16;0;0
+"438";"Diego Fernando Maradiago Delgado";"Revisión de Sop Loc Comercial";3;0;0
+"439";"Diego Fernando Maradiago Delgado";"Servicios TI No Catalogados";1;0;0
+"440";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Actualización SW PC";4;0;0
+"441";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Alistamiento Sala de Reuniones o Auditorio";1;0;0
+"442";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Configuración";7;0;0
+"443";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Configuración de Impresión";3;1;0,333333333333333
+"444";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Configuración en Windows";18;0;0
+"445";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Instalación SW PC";17;1;0,0588235294117647
+"446";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Mantenimiento";16;2;0,125
+"447";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Restablecer Servicio de Dispositivo Móvil";1;0;0
+"448";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Restablecer Servicio Equipos/Periféricos";41;13;0,317073170731707
+"449";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Restablecer Servicio SW PC";24;9;0,375
+"450";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Restablecer Servicio Windows";57;17;0,298245614035088
+"451";"Diego Fernando Rivera López  - Usuario INDRA (ACIND031)";"Soporte Interno Microinformática";118;10;0,0847457627118644
+"452";"Diego German Cardoza Mottoa";"Actualización Datos Distribución";3;0;0
+"453";"Diego German Cardoza Mottoa";"Actualización Individual  Datos Comercial";416;36;0,0865384615384615
+"454";"Diego German Cardoza Mottoa";"Actualización Masiva Datos Comercial";142;8;0,0563380281690141
+"455";"Diego German Cardoza Mottoa";"Análisis de Lentitud SI Comercial";20;6;0,3
+"456";"Diego German Cardoza Mottoa";"Asesoría/Consulta Funcional - Comercial";46;6;0,130434782608696
+"457";"Diego German Cardoza Mottoa";"Asesoría/Consulta funcional - Distribución";45;4;0,0888888888888889
+"458";"Diego German Cardoza Mottoa";"Asignación de Usuario Distribución";2;0;0
+"459";"Diego German Cardoza Mottoa";"Asignación de Usuario Sistemas Comerciales";72;3;0,0416666666666667
+"460";"Diego German Cardoza Mottoa";"Bloqueo Sistema Comercial SI Comercial";4;1;0,25
+"461";"Diego German Cardoza Mottoa";"Corrección en Autorizaciones SI Comercial";2;0;0
+"462";"Diego German Cardoza Mottoa";"Corrección en Autorizaciones SI de Distribución";2;0;0
+"463";"Diego German Cardoza Mottoa";"Corrección Errores de Conexión al Sistema SI Comercial";11;0;0
+"464";"Diego German Cardoza Mottoa";"Corrección Errores de Conexión SI de Distribución";12;0;0
+"465";"Diego German Cardoza Mottoa";"Corrección Errores de Funcionalidad SI Comercial";40;14;0,35
+"466";"Diego German Cardoza Mottoa";"Corrección Errores de Funcionalidad SI de Distribución";10;2;0,2
+"467";"Diego German Cardoza Mottoa";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";25;1;0,04
+"468";"Diego German Cardoza Mottoa";"Eliminación de Usuario Sistemas Comerciales";48;8;0,166666666666667
+"469";"Diego German Cardoza Mottoa";"Eliminación de Usuario Sistemas de Distribución";2;0;0
+"470";"Diego German Cardoza Mottoa";"Errores de Conexión al Sistema SI Comercial";55;1;0,0181818181818182
+"471";"Diego German Cardoza Mottoa";"Errores de Funcionalidad SI Comercial";166;21;0,126506024096386
+"472";"Diego German Cardoza Mottoa";"Gestión de Alertas";4;0;0
+"473";"Diego German Cardoza Mottoa";"Gestión de Excepciones";10;0;0
+"474";"Diego German Cardoza Mottoa";"Modificación de Perfil Sistemas Comerciales";17;3;0,176470588235294
+"475";"Diego German Cardoza Mottoa";"Modificación de Usuario Sistemas Comerciales";14;0;0
+"476";"Diego German Cardoza Mottoa";"Modificación de Usuario Sistemas de Distribución";1;0;0
+"477";"Diego German Cardoza Mottoa";"Parametrización Sistemas Comerciales";96;6;0,0625
+"478";"Diego German Cardoza Mottoa";"Parametrización Sistemas de Distribución";5;0;0
+"479";"Diego German Cardoza Mottoa";"Reportes o Extracción de Información SI Comercial";121;18;0,148760330578512
+"480";"Diego German Cardoza Mottoa";"Reportes o Extracción de Información SI de Distribución";3;0;0
+"481";"Diego German Cardoza Mottoa";"Revisión de Sop Loc Comercial";57;5;0,087719298245614
+"482";"Diego German Cardoza Mottoa";"Solución Req-Sop Loc Comercial";1;0;0
+"483";"Diego German Cardoza Mottoa";"Soporte Interno SSII de Comercial";1;1;1
+"484";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Actualización Datos Distribución";758;10;0,0131926121372032
+"485";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Actualización Individual  Datos Comercial";36;7;0,194444444444444
+"486";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Actualización Masiva Datos Comercial";12;1;0,0833333333333333
+"487";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Actualización Precios";6;0;0
+"488";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Actualización UUCC";17;1;0,0588235294117647
+"489";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Análisis de Lentitud SI Comercial";2;1;0,5
+"490";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Análisis de Lentitud SI de Distribución";44;1;0,0227272727272727
+"491";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Asesoría/Consulta Funcional - Comercial";8;1;0,125
+"492";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Asesoría/Consulta funcional - Distribución";54;13;0,240740740740741
+"493";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Asignación de Usuario Distribución";108;14;0,12962962962963
+"494";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Bloqueo Sistema Distribución";39;0;0
+"495";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Corrección en Autorizaciones SI de Distribución";2;0;0
+"496";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Corrección Errores de Conexión al Sistema SI Comercial";6;1;0,166666666666667
+"497";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Corrección Errores de Conexión SI de Distribución";46;2;0,0434782608695652
+"498";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Corrección Errores de Funcionalidad SI Comercial";19;4;0,210526315789474
+"499";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Corrección Errores de Funcionalidad SI de Distribución";218;17;0,0779816513761468
+"500";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";25;1;0,04
+"501";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Eliminación de Usuario Sistemas de Distribución";69;2;0,0289855072463768
+"502";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Modificación de Usuario Sistemas de Distribución";12;2;0,166666666666667
+"503";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Parametrización Sistemas Comerciales";2;0;0
+"504";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Parametrización Sistemas de Distribución";96;18;0,1875
+"505";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Reportes o Extracción de Información SI Comercial";10;3;0,3
+"506";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Reportes o Extracción de Información SI de Distribución";115;6;0,0521739130434783
+"507";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Revisión de Sop Loc Distribución";2;0;0
+"508";"Diego Mauricio Montes - Usuario INDRA (ACIND019)";"Solución Req-Sop Loc Distribución";4;3;0,75
+"509";"Edwin Gomez - Usuario INDRA (ACIND018)";"Actualización SW PC";3;0;0
+"510";"Edwin Gomez - Usuario INDRA (ACIND018)";"Alistamiento Sala de Reuniones o Auditorio";3;2;0,666666666666667
+"511";"Edwin Gomez - Usuario INDRA (ACIND018)";"Configuración";4;0;0
+"512";"Edwin Gomez - Usuario INDRA (ACIND018)";"Configuración - Perfil";5;0;0
+"513";"Edwin Gomez - Usuario INDRA (ACIND018)";"Configuración de Impresión";36;9;0,25
+"514";"Edwin Gomez - Usuario INDRA (ACIND018)";"Configuración en Windows";71;0;0
+"515";"Edwin Gomez - Usuario INDRA (ACIND018)";"Daño Equipos de Impresión y Digitalización";1;0;0
+"516";"Edwin Gomez - Usuario INDRA (ACIND018)";"Gestión de Alertas";3;0;0
+"517";"Edwin Gomez - Usuario INDRA (ACIND018)";"Instalación SW PC";27;1;0,037037037037037
+"518";"Edwin Gomez - Usuario INDRA (ACIND018)";"Mantenimiento";18;0;0
+"519";"Edwin Gomez - Usuario INDRA (ACIND018)";"Restablecer Servicio Equipos/Periféricos";52;4;0,0769230769230769
+"520";"Edwin Gomez - Usuario INDRA (ACIND018)";"Restablecer Servicio SW PC";80;2;0,025
+"521";"Edwin Gomez - Usuario INDRA (ACIND018)";"Restablecer Servicio TP";1;1;1
+"522";"Edwin Gomez - Usuario INDRA (ACIND018)";"Restablecer Servicio Windows";118;5;0,0423728813559322
+"523";"Edwin Gomez - Usuario INDRA (ACIND018)";"Soporte Interno Microinformática";214;7;0,0327102803738318
+"524";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Asesoría/Consulta Telefonía";1;0;0
+"525";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Asignación Enlace Telecontrol";1;0;0
+"526";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Asignación Enlace Telecontrol Externo";10;1;0,1
+"527";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Asignación Enlace Videoseguridad";2;0;0
+"528";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio de Navegación";3;0;0
+"529";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio de Telefonía Fija o Móvil";3;0;0
+"530";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio FTP";1;0;0
+"531";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio Red Datos";2;0;0
+"532";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio Telecontrol";113;3;0,0265486725663717
+"533";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio Telecontrol Reconectadores";303;2;0,0066006600660066
+"534";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio Telemedida";6;0;0
+"535";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Restablecer Servicio Videoseguridad";1;0;0
+"536";"Elkin Javier Rojas Lozada - Usuario GNFT (ACGNF008)";"Revisión - Telco";3;0;0
+"537";"Fabian Mauricio Arango Montemiranda";"Actualización Datos Distribución";89;2;0,0224719101123595
+"538";"Fabian Mauricio Arango Montemiranda";"Actualización Datos Sistemas de Generación";5;0;0
+"539";"Fabian Mauricio Arango Montemiranda";"Análisis de Lentitud SI de Distribución";17;0;0
+"540";"Fabian Mauricio Arango Montemiranda";"Análisis de Lentitud SI de Generación";8;2;0,25
+"541";"Fabian Mauricio Arango Montemiranda";"Asesoría/Consulta funcional - Distribución";6;0;0
+"542";"Fabian Mauricio Arango Montemiranda";"Asesoría/Consulta funcional - Generación";1;0;0
+"543";"Fabian Mauricio Arango Montemiranda";"Asignación de Usuario Distribución";31;0;0
+"544";"Fabian Mauricio Arango Montemiranda";"Asignación de Usuario Sistemas de Generación";7;1;0,142857142857143
+"545";"Fabian Mauricio Arango Montemiranda";"Bloqueo Sistema Distribución";1;0;0
+"546";"Fabian Mauricio Arango Montemiranda";"Bloqueo Sistema Generación";1;0;0
+"547";"Fabian Mauricio Arango Montemiranda";"Corrección Errores de Conexión SI de Distribución";21;1;0,0476190476190476
+"548";"Fabian Mauricio Arango Montemiranda";"Corrección Errores de Conexión SI de Generación";12;0;0
+"549";"Fabian Mauricio Arango Montemiranda";"Corrección Errores de Funcionalidad SI de Distribución";38;0;0
+"550";"Fabian Mauricio Arango Montemiranda";"Corrección Errores de Funcionalidad SI de Generación";18;0;0
+"551";"Fabian Mauricio Arango Montemiranda";"Corrección Errores de Funcionalidad SI de Recursos";2;0;0
+"552";"Fabian Mauricio Arango Montemiranda";"Creación de Perfil Sistemas de Generación";2;0;0
+"553";"Fabian Mauricio Arango Montemiranda";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";14;3;0,214285714285714
+"554";"Fabian Mauricio Arango Montemiranda";"Desbloqueo Usuario/Cambio Contraseña SI de Generación";6;0;0
+"555";"Fabian Mauricio Arango Montemiranda";"Eliminación de Usuario Sistemas de Distribución";14;0;0
+"556";"Fabian Mauricio Arango Montemiranda";"Eliminación de Usuario Sistemas de Generación";3;0;0
+"557";"Fabian Mauricio Arango Montemiranda";"Modificación de Perfil Sistemas de Generación";2;0;0
+"558";"Fabian Mauricio Arango Montemiranda";"Modificación de Usuario Sistemas de Distribución";3;0;0
+"559";"Fabian Mauricio Arango Montemiranda";"Modificación de Usuario Sistemas de Generación";1;0;0
+"560";"Fabian Mauricio Arango Montemiranda";"Parametrización Merc Mayorista";2;0;0
+"561";"Fabian Mauricio Arango Montemiranda";"Parametrización Sistemas de Distribución";36;0;0
+"562";"Fabian Mauricio Arango Montemiranda";"Parametrización Sistemas de Generación";4;1;0,25
+"563";"Fabian Mauricio Arango Montemiranda";"Parametrización Sistemas de Recursos";1;0;0
+"564";"Fabian Mauricio Arango Montemiranda";"Reportes o Extracción de Información SI Comercial";1;1;1
+"565";"Fabian Mauricio Arango Montemiranda";"Reportes o Extracción de Información SI de Distribución";29;0;0
+"566";"Fabian Mauricio Arango Montemiranda";"Verificación de Inventario SSII";1;0;0
+"567";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Ampliación de Cuota";2;0;0
+"568";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Bloqueos Frecuentes";5;1;0,2
+"569";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Comunicación Unificada (Lync)";5;1;0,2
+"570";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Funcionalidad de Grabado en Conferencia Web";2;0;0
+"571";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestion Cuentas de Correo";7;0;0
+"572";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión Cuentas de Red";14;3;0,214285714285714
+"573";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión Cuentas de Servicio";24;2;0,0833333333333333
+"574";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión de Alertas";16;4;0,25
+"575";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión de Excepciones";27;1;0,037037037037037
+"576";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión de Servicios básicos de Redes";98;14;0,142857142857143
+"577";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión de Servidores Sistema Operativo Windows";5;0;0
+"578";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión Permisos FTP";21;2;0,0952380952380952
+"579";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión permisos Navegación";50;9;0,18
+"580";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestion Permisos Recurso Compartido";2;0;0
+"581";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión Permisos VPN";228;25;0,109649122807018
+"582";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Gestión servicios de Seguridades";59;1;0,0169491525423729
+"583";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Listas de Distribución Correo";5;0;0
+"584";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Monitoreo y soporte Servicios básicos de Redes";15;2;0,133333333333333
+"585";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Monitoreo y soporte Servicios de Seguridades";50;4;0,08
+"586";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio Acceso Red";8;2;0,25
+"587";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio Correo";45;21;0,466666666666667
+"588";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio de Hardware de Soporte Central";3;0;0
+"589";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio de Navegación";249;28;0,112449799196787
+"590";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio de Sistema Operativo";22;1;0,0454545454545455
+"591";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio FTP";6;0;0
+"592";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio Navegación Visitantes";2;2;1
+"593";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio Red Inalámbrica";12;0;0
+"594";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio SW PC";89;3;0,0337078651685393
+"595";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecer Servicio VPN";12;2;0,166666666666667
+"596";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Restablecimiento de Red (Segundo Nivel)";1;0;0
+"597";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Sitio Web";12;3;0,25
+"598";"Fabio Alonso Diaz Rozo - Usuario INDRA (ACIND038)";"Verficación Inconsistencias CMDB";1;1;1
+"599";"Fernando Baldellou Bonillo - Usuario INDRA (ACIND087)";"Indra Esp-Atención de Requerimientos";3;3;1
+"600";"Fernando Fernandez Marulanda - Usuario GNFT (ACGNF001)";"Asesoría/Consulta Telefonía";1;0;0
+"601";"Fernando Fernandez Marulanda - Usuario GNFT (ACGNF001)";"Gestión Cuentas de Red";1;0;0
+"602";"Fernando Fernandez Marulanda - Usuario GNFT (ACGNF001)";"Implementación - Red Inalámbrica";1;0;0
+"603";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Actualizar aplicaciones Granja";20;0;0
+"604";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Asignación Equipo";1;0;0
+"605";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Gestión de Alertas";4;0;0
+"606";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Gestión de imágenes";26;0;0
+"607";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Gestión de Servidores Sistema Operativo Windows";17;0;0
+"608";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Gestion Permisos Recurso Compartido";101;1;0,0099009900990099
+"609";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Gestión Plataforma de Virtualización";79;1;0,0126582278481013
+"610";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Monitoreo y soporte Sistema Operativo Windows";55;0;0
+"611";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Monitoreo y soporte Virtualización";74;0;0
+"612";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Restablecer Servicio Acceso Red";18;0;0
+"613";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Restablecer Servicio Aplicación Publicada";528;1;0,00189393939393939
+"614";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Restablecer Servicio de Sistema Operativo";13;0;0
+"615";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Restablecer Servicio Escritorio Virtual";21;0;0
+"616";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Restablecer Servicio Servidor Virtual";2;0;0
+"617";"Freddy Javier Castro Martinez - Usuario INDRA (ACIND069)";"Soporte imágenes virtuales";3;0;0
+"618";"Geovanny Ortiz Hernandez";"Actualización Datos Sistemas de Recursos";14;0;0
+"619";"Geovanny Ortiz Hernandez";"Actualización Masiva Datos Comercial";5;0;0
+"620";"Geovanny Ortiz Hernandez";"Asesoría/Consulta Funcional - Comercial";2;0;0
+"621";"Geovanny Ortiz Hernandez";"Asesoría/Consulta Funcional - Recursos";13;1;0,0769230769230769
+"622";"Geovanny Ortiz Hernandez";"Asignación de Usuario Sistemas Comerciales";3;0;0
+"623";"Geovanny Ortiz Hernandez";"Asignación de Usuario Sistemas de Recursos";14;0;0
+"624";"Geovanny Ortiz Hernandez";"Bloqueo Sistema Gestión de Recursos";1;0;0
+"625";"Geovanny Ortiz Hernandez";"Corrección en Autorizaciones SI de Recursos";2;0;0
+"626";"Geovanny Ortiz Hernandez";"Corrección Errores de Conexión SI de Recursos";4;0;0
+"627";"Geovanny Ortiz Hernandez";"Corrección Errores de Funcionalidad SI de Recursos";10;0;0
+"628";"Geovanny Ortiz Hernandez";"Creación de Perfil Sistemas de Recursos";1;0;0
+"629";"Geovanny Ortiz Hernandez";"Desbloqueo Usuario/Cambio Contraseña SI de Recursos";1;0;0
+"630";"Geovanny Ortiz Hernandez";"Eliminación de Usuario Sistemas de Recursos";18;0;0
+"631";"Geovanny Ortiz Hernandez";"Modificación de Usuario Sistemas Comerciales";2;0;0
+"632";"Geovanny Ortiz Hernandez";"Modificación de Usuario Sistemas de Recursos";2;1;0,5
+"633";"Geovanny Ortiz Hernandez";"Parametrización Sistemas de Recursos";12;0;0
+"634";"Geovanny Ortiz Hernandez";"Reportes o Extracción de Información SI de Recursos";2;0;0
+"635";"Geovanny Ortiz Hernandez";"Soporte Interno SSII de Recursos";2;0;0
+"636";"Gestion del Servicio_EPSA";"Actualización Datos Sistemas de Recursos";2;0;0
+"637";"Gestion del Servicio_EPSA";"Actualización Individual  Datos Comercial";1;0;0
+"638";"Gestion del Servicio_EPSA";"Actualización Masiva Datos Comercial";1;0;0
+"639";"Gestion del Servicio_EPSA";"Asesoría/Consulta Funcional - Recursos";1;0;0
+"640";"Gestion del Servicio_EPSA";"Asesoría/Consulta Telefonía";1;0;0
+"641";"Gestion del Servicio_EPSA";"Asignación Perfil o Pin Telefónico";1;0;0
+"642";"Gestion del Servicio_EPSA";"Corrección Errores de Funcionalidad SI Comercial";1;1;1
+"643";"Gestion del Servicio_EPSA";"Corrección Errores de Funcionalidad SI de Recursos";1;0;0
+"644";"Gestion del Servicio_EPSA";"Gestión Permisos VPN";1;0;0
+"645";"Gestion del Servicio_EPSA";"Instalación SW PC";1;1;1
+"646";"Gestion del Servicio_EPSA";"Modificación de Usuario Sistemas de Distribución";1;0;0
+"647";"Gestion del Servicio_EPSA";"Recuperación de Archivos";1;1;1
+"648";"Gestion del Servicio_EPSA";"Reportes o Extracción de Información SI Comercial";1;0;0
+"649";"Gestion del Servicio_EPSA";"Restablecer Servicio Red Inalámbrica";1;0;0
+"650";"Gestion del Servicio_EPSA";"Restablecer Servicio Windows";1;0;0
+"651";"Gestion del Servicio_EPSA";"Revisión de Servicio TIC No Catalogado";1;0;0
+"652";"Grupo MAS";"Acceso Red Visitantes";1;0;0
+"653";"Grupo MAS";"Asignación de Usuario Sistemas de Recursos";3;0;0
+"654";"Grupo MAS";"Asignación Equipo";4;0;0
+"655";"Grupo MAS";"Asignación Telefonía Móvil";1;0;0
+"656";"Grupo MAS";"Cambio Línea Celular";1;0;0
+"657";"Grupo MAS";"Cambio Plan Telefonía Celular";2;0;0
+"658";"Grupo MAS";"Desbloqueo Cuenta Red";2;0;0
+"659";"Grupo MAS";"Desbloqueo Cuenta SSII SAU";2;0;0
+"660";"Grupo MAS";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";1;0;0
+"661";"Grupo MAS";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";1;0;0
+"662";"Grupo MAS";"Gestión Permisos VPN";1;0;0
+"663";"Grupo MAS";"Instalación SW PC";2;0;0
+"664";"Grupo MAS";"Otros Procedimientos";1;1;1
+"665";"Grupo MAS";"Préstamo Equipo";1;0;0
+"666";"Grupo MAS";"Procedimientos TI";1;0;0
+"667";"Grupo MAS";"Reposición Equipo Telefonía Fija";1;0;0
+"668";"Grupo MAS";"Restablecer Servicio de Kiosko Virtual";2;0;0
+"669";"Grupo MAS";"Restablecer Servicio SW PC";2;0;0
+"670";"Grupo SAU";"Asignación Equipo";3;0;0
+"671";"Grupo SAU";"Asignación Telefonía Fija";1;0;0
+"672";"Grupo SAU";"Asignación Telefonía Móvil";1;0;0
+"673";"Grupo SAU";"Cambio Línea Celular";1;0;0
+"674";"Grupo SAU";"Configuración en Windows";1;0;0
+"675";"Grupo SAU";"Desbloqueo Cuenta Red";2;0;0
+"676";"Grupo SAU";"Desbloqueo Cuenta SSII SAU";2;0;0
+"677";"Grupo SAU";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";1;0;0
+"678";"Grupo SAU";"Gestion Cuentas de Correo";1;0;0
+"679";"Grupo SAU";"Gestión Cuentas de Red";2;0;0
+"680";"Grupo SAU";"Liberar Puesto de Trabajo";1;0;0
+"681";"Grupo SAU";"Procedimientos TI";1;0;0
+"682";"Grupo SAU";"Reporte de Elementos a Cargo";3;2;0,666666666666667
+"683";"Grupo SAU";"Reposición Equipo de Radio";1;0;0
+"684";"Grupo SAU";"Reposición Equipo Telefonía Móvil";1;0;0
+"685";"Grupo SAU";"Traslado Equipo";1;0;0
+"686";"Grupo SAU";"Traspaso Telefonía Móvil";2;0;0
+"687";"Gustavo Adolfo Gonzalez Villani";"Actualización Datos Sistemas de Recursos";166;0;0
+"688";"Gustavo Adolfo Gonzalez Villani";"Actualización Individual  Datos Comercial";3;0;0
+"689";"Gustavo Adolfo Gonzalez Villani";"Actualización Masiva Datos Comercial";4;0;0
+"690";"Gustavo Adolfo Gonzalez Villani";"Análisis de Lentitud SI de Recursos";39;0;0
+"691";"Gustavo Adolfo Gonzalez Villani";"Asesoría/Consulta Funcional - Comercial";2;0;0
+"692";"Gustavo Adolfo Gonzalez Villani";"Asesoría/Consulta Funcional - Recursos";27;0;0
+"693";"Gustavo Adolfo Gonzalez Villani";"Asignación de Usuario Sistemas Comerciales";1;0;0
+"694";"Gustavo Adolfo Gonzalez Villani";"Asignación de Usuario Sistemas de Recursos";173;1;0,00578034682080925
+"695";"Gustavo Adolfo Gonzalez Villani";"Avance de Requerimientos";1;0;0
+"696";"Gustavo Adolfo Gonzalez Villani";"Baja de Usuario Sistemas de Recursos";1;0;0
+"697";"Gustavo Adolfo Gonzalez Villani";"Bloqueo Sistema Gestión de Recursos";1;0;0
+"698";"Gustavo Adolfo Gonzalez Villani";"Corrección en Autorizaciones SI de Recursos";3;0;0
+"699";"Gustavo Adolfo Gonzalez Villani";"Corrección Errores de Conexión SI de Recursos";100;2;0,02
+"700";"Gustavo Adolfo Gonzalez Villani";"Corrección Errores de Funcionalidad SI de Recursos";242;1;0,00413223140495868
+"701";"Gustavo Adolfo Gonzalez Villani";"Desbloqueo Usuario/Cambio Contraseña SI de Recursos";3;0;0
+"702";"Gustavo Adolfo Gonzalez Villani";"Eliminación de Usuario Sistemas Comerciales";1;0;0
+"703";"Gustavo Adolfo Gonzalez Villani";"Eliminación de Usuario Sistemas de Recursos";80;1;0,0125
+"704";"Gustavo Adolfo Gonzalez Villani";"Errores de Conexión al Sistema SI Comercial";3;0;0
+"705";"Gustavo Adolfo Gonzalez Villani";"Errores de Funcionalidad SI Comercial";3;0;0
+"706";"Gustavo Adolfo Gonzalez Villani";"Modificación de Perfil Sistemas de Recursos";6;0;0
+"707";"Gustavo Adolfo Gonzalez Villani";"Modificación de Usuario Sistemas de Recursos";82;0;0
+"708";"Gustavo Adolfo Gonzalez Villani";"Parametrización Sistemas Comerciales";5;0;0
+"709";"Gustavo Adolfo Gonzalez Villani";"Parametrización Sistemas de Recursos";132;0;0
+"710";"Gustavo Adolfo Gonzalez Villani";"Reportes o Extracción de Información SI Comercial";3;0;0
+"711";"Gustavo Adolfo Gonzalez Villani";"Reportes o Extracción de Información SI de Recursos";30;0;0
+"712";"Gustavo Adolfo Gonzalez Villani";"Revisión Interfaz";8;0;0
+"713";"Gustavo Adolfo Gonzalez Villani";"Soporte Interno SSII de Recursos";62;0;0
+"714";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Asignación Equipo";89;12;0,134831460674157
+"715";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Asignación Equipo Impr o Dig";3;1;0,333333333333333
+"716";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Configuración de Impresión";8;3;0,375
+"717";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Daño Equipos de Impresión y Digitalización";1;1;1
+"718";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Desinstalación SW PC";1;0;0
+"719";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Gestión de Alertas";23;0;0
+"720";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Instalación APPLocker";3;1;0,333333333333333
+"721";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Instalación SW PC";23;3;0,130434782608696
+"722";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Mantenimiento";37;5;0,135135135135135
+"723";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Mantenimiento Impresión";2;0;0
+"724";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Préstamo Equipo";24;0;0
+"725";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Restablecer APP Locker";32;1;0,03125
+"726";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Restablecer Servicio Equipos de Impresión y Digitalización";14;6;0,428571428571429
+"727";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Restablecer Servicio Equipos/Periféricos";21;10;0,476190476190476
+"728";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Restablecer Servicio SW PC";6;0;0
+"729";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Restablecer Servicio TP";4;4;1
+"730";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Retiro Equipo";36;0;0
+"731";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Servicio de Mantenimiento Integral Correctivo a Terminales Portatiles";1;0;0
+"732";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Soporte Interno Microinformática";47;6;0,127659574468085
+"733";"Harold Andres Salazar Hurtado - Usuario INDRA (ACIND028)";"Traslado Equipo";1;0;0
+"734";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Actualizar aplicaciones Granja";108;7;0,0648148148148148
+"735";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Gestión de Alertas";27;1;0,037037037037037
+"736";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Gestión de Excepciones";14;1;0,0714285714285714
+"737";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Gestión de Servidores Sistema Operativo Windows";17;3;0,176470588235294
+"738";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Monitoreo y soporte Sistema Operativo Windows";2;0;0
+"739";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Postulación Articulo a BD Conocimiento";2;0;0
+"740";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Recuperación de Archivos";67;13;0,194029850746269
+"741";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Respaldo";109;13;0,119266055045872
+"742";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Restauración Backup BD";2;1;0,5
+"743";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Servicios TI No Catalogados";1;0;0
+"744";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Verficación Inconsistencias CMDB";9;1;0,111111111111111
+"745";"Hernan Cifuentes Serna - Usuario INDRA (ACIND035)";"Verificación de Inventario Infraestructura Central";15;0;0
+"746";"Hernando Cadena - Usuario INDRA (ACIND066)";"Ampliación de Cuota";1;0;0
+"747";"Hernando Cadena - Usuario INDRA (ACIND066)";"Análisis de Lentitud SI de Recursos";26;0;0
+"748";"Hernando Cadena - Usuario INDRA (ACIND066)";"Corrección Errores de Funcionalidad SI de Recursos";377;1;0,0026525198938992
+"749";"Hernando Cadena - Usuario INDRA (ACIND066)";"Gestión Cuentas de Servicio";13;0;0
+"750";"Hernando Cadena - Usuario INDRA (ACIND066)";"Gestión de Alertas";22;1;0,0454545454545455
+"751";"Hernando Cadena - Usuario INDRA (ACIND066)";"Gestión de Excepciones";17;0;0
+"752";"Hernando Cadena - Usuario INDRA (ACIND066)";"Gestión de Servicios básicos de Redes";6;0;0
+"753";"Hernando Cadena - Usuario INDRA (ACIND066)";"Gestión de Servidores Sistema Operativo Windows";99;14;0,141414141414141
+"754";"Hernando Cadena - Usuario INDRA (ACIND066)";"Gestion Permisos Recurso Compartido";9;4;0,444444444444444
+"755";"Hernando Cadena - Usuario INDRA (ACIND066)";"Gestión servicios de Seguridades";51;1;0,0196078431372549
+"756";"Hernando Cadena - Usuario INDRA (ACIND066)";"Monitoreo y soporte Servicios básicos de Redes";1;1;1
+"757";"Hernando Cadena - Usuario INDRA (ACIND066)";"Parametrización Sistemas de Recursos";34;3;0,0882352941176471
+"758";"Hernando Cadena - Usuario INDRA (ACIND066)";"Reporte Archivos";1;0;0
+"759";"Hernando Cadena - Usuario INDRA (ACIND066)";"Restablecer Servicio Acceso Red";2;0;0
+"760";"Hernando Cadena - Usuario INDRA (ACIND066)";"Restablecer Servicio de Navegación";1;1;1
+"761";"Hernando Cadena - Usuario INDRA (ACIND066)";"Restablecer Servicio de Sistema Operativo";10;0;0
+"762";"Hernando Cadena - Usuario INDRA (ACIND066)";"Restablecer Servicio SW PC";1;0;0
+"763";"Hernando Cadena - Usuario INDRA (ACIND066)";"Restablecer Servicio Windows";1;0;0
+"764";"Hernando Cadena - Usuario INDRA (ACIND066)";"Sitio Web";21;1;0,0476190476190476
+"765";"Hernando Cadena - Usuario INDRA (ACIND066)";"Soporte en línea SSII";1;0;0
+"766";"Hugo Manuel Lafuente Matesanz";"Indra Esp-Atención de Requerimientos";4;4;1
+"767";"Jaime Alberto Mantilla Mejia - Usuario INDRA (ACIND021)";"Ajustes al Catálogo";2;0;0
+"768";"Jaime Alberto Mantilla Mejia - Usuario INDRA (ACIND021)";"Postulación Articulo a BD Conocimiento";4;1;0,25
+"769";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Actualizar aplicaciones Granja";1;0;0
+"770";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Gestión de Alertas";17;0;0
+"771";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Gestión de Excepciones";9;0;0
+"772";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Gestión de imágenes";3;1;0,333333333333333
+"773";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Gestión de Servidores Sistema Operativo Windows";40;1;0,025
+"774";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Gestion Permisos Recurso Compartido";2;0;0
+"775";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Gestión Plataforma de Virtualización";38;7;0,184210526315789
+"776";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Monitoreo y soporte Sistema Operativo Windows";6;2;0,333333333333333
+"777";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Monitoreo y soporte Virtualización";23;3;0,130434782608696
+"778";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Respaldo";1;0;0
+"779";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Restablecer Servicio Aplicación Publicada";29;0;0
+"780";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Restablecer Servicio Citrix";1;0;0
+"781";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Restablecer Servicio de Sistema Operativo";2;1;0,5
+"782";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Restablecer Servicio Escritorio Virtual";3;0;0
+"783";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Restablecer Servicio Servidor Virtual";1;0;0
+"784";"Jaime Garrido Mendoza - Usuario INDRA (ACIND012)";"Soporte imágenes virtuales";4;0;0
+"785";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Asignación de Usuario Sistemas de Recursos";15;0;0
+"786";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Autorizaciones SAP";36;0;0
+"787";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Bloqueo Sistema Gestión de Recursos";2;0;0
+"788";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Eliminación de Usuario Sistemas de Recursos";11;0;0
+"789";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Gestión Basis SAP";24;0;0
+"790";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Modificación de Perfil Sistemas de Recursos";3;0;0
+"791";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Modificación de Usuario Sistemas de Recursos";39;0;0
+"792";"Javier Eduardo Tenorio Arias - Usuario INDRA (ACIND010)";"Monitoreo y Soporte Basis SAP";3;0;0
+"793";"Jefferson Garcia Benavides";"Actualización Datos Distribución";97;0;0
+"794";"Jefferson Garcia Benavides";"Actualización Datos Sistemas de Generación";9;0;0
+"795";"Jefferson Garcia Benavides";"Actualización Datos Sistemas de Recursos";2;0;0
+"796";"Jefferson Garcia Benavides";"Actualización Individual  Datos Comercial";8;3;0,375
+"797";"Jefferson Garcia Benavides";"Análisis de Lentitud SI de Distribución";5;0;0
+"798";"Jefferson Garcia Benavides";"Análisis de Lentitud SI de Generación";4;0;0
+"799";"Jefferson Garcia Benavides";"Asesoría/Consulta Funcional - Comercial";4;0;0
+"800";"Jefferson Garcia Benavides";"Asesoría/Consulta funcional - Distribución";5;0;0
+"801";"Jefferson Garcia Benavides";"Asesoría/Consulta funcional - Generación";2;0;0
+"802";"Jefferson Garcia Benavides";"Asesoría/Consulta Funcional - Recursos";2;1;0,5
+"803";"Jefferson Garcia Benavides";"Asignación de Usuario Distribución";33;0;0
+"804";"Jefferson Garcia Benavides";"Asignación de Usuario Sistemas Comerciales";5;1;0,2
+"805";"Jefferson Garcia Benavides";"Asignación de Usuario Sistemas de Generación";6;0;0
+"806";"Jefferson Garcia Benavides";"Asignación de Usuario Sistemas de Recursos";1;1;1
+"807";"Jefferson Garcia Benavides";"Bloqueo Sistema Distribución";10;0;0
+"808";"Jefferson Garcia Benavides";"Bloqueo Sistema Generación";1;0;0
+"809";"Jefferson Garcia Benavides";"Corrección Errores de Conexión SI de Distribución";8;1;0,125
+"810";"Jefferson Garcia Benavides";"Corrección Errores de Conexión SI de Generación";9;1;0,111111111111111
+"811";"Jefferson Garcia Benavides";"Corrección Errores de Funcionalidad SI de Distribución";34;2;0,0588235294117647
+"812";"Jefferson Garcia Benavides";"Corrección Errores de Funcionalidad SI de Generación";20;6;0,3
+"813";"Jefferson Garcia Benavides";"Corrección Errores de Funcionalidad SI de Recursos";7;2;0,285714285714286
+"814";"Jefferson Garcia Benavides";"Creación de Perfil Sistemas de Distribución";1;0;0
+"815";"Jefferson Garcia Benavides";"Creación de Perfil Sistemas de Generación";1;0;0
+"816";"Jefferson Garcia Benavides";"Desarrollo de Mejora SI Merc Mayorista";3;0;0
+"817";"Jefferson Garcia Benavides";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";23;2;0,0869565217391304
+"818";"Jefferson Garcia Benavides";"Desbloqueo Usuario/Cambio Contraseña SI de Generación";7;0;0
+"819";"Jefferson Garcia Benavides";"Eliminación de Usuario Sistemas de Distribución";10;2;0,2
+"820";"Jefferson Garcia Benavides";"Eliminación de Usuario Sistemas de Generación";7;0;0
+"821";"Jefferson Garcia Benavides";"Eliminación de Usuario Sistemas de Recursos";1;0;0
+"822";"Jefferson Garcia Benavides";"Errores de Funcionalidad SI Comercial";1;0;0
+"823";"Jefferson Garcia Benavides";"Modificación de Perfil Sistemas de Distribución";2;0;0
+"824";"Jefferson Garcia Benavides";"Modificación de Perfil Sistemas de Generación";3;0;0
+"825";"Jefferson Garcia Benavides";"Modificación de Usuario Sistemas Comerciales";1;0;0
+"826";"Jefferson Garcia Benavides";"Modificación de Usuario Sistemas de Distribución";3;0;0
+"827";"Jefferson Garcia Benavides";"Modificación de Usuario Sistemas de Generación";7;2;0,285714285714286
+"828";"Jefferson Garcia Benavides";"Parametrización Merc Mayorista";2;0;0
+"829";"Jefferson Garcia Benavides";"Parametrización Sistemas de Distribución";44;0;0
+"830";"Jefferson Garcia Benavides";"Parametrización Sistemas de Generación";1;0;0
+"831";"Jefferson Garcia Benavides";"Parametrización Sistemas de Recursos";1;0;0
+"832";"Jefferson Garcia Benavides";"Reportes o Extracción de Información SI Comercial";1;0;0
+"833";"Jefferson Garcia Benavides";"Reportes o Extracción de Información SI de Distribución";33;0;0
+"834";"Jefferson Garcia Benavides";"Reportes o Extracción de Información SI de Generación";1;0;0
+"835";"Jefferson Garcia Benavides";"Revisión de Sop Loc Distribución";1;0;0
+"836";"Jefferson Garcia Benavides";"Servicios TI No Catalogados";1;0;0
+"837";"Jefferson Garcia Benavides";"Verificación de Inventario SSII";1;0;0
+"838";"Jefri Eduardo Ocoro Caicedo";"Actualización Datos Distribución";211;0;0
+"839";"Jefri Eduardo Ocoro Caicedo";"Actualización Individual  Datos Comercial";84;2;0,0238095238095238
+"840";"Jefri Eduardo Ocoro Caicedo";"Actualización Masiva Datos Comercial";1;0;0
+"841";"Jefri Eduardo Ocoro Caicedo";"Análisis de Lentitud SI de Distribución";13;0;0
+"842";"Jefri Eduardo Ocoro Caicedo";"Asesoría/Consulta Funcional - Comercial";2;0;0
+"843";"Jefri Eduardo Ocoro Caicedo";"Asesoría/Consulta funcional - Distribución";36;0;0
+"844";"Jefri Eduardo Ocoro Caicedo";"Asignación de Usuario Distribución";35;3;0,0857142857142857
+"845";"Jefri Eduardo Ocoro Caicedo";"Asignación de Usuario Sistemas Comerciales";3;0;0
+"846";"Jefri Eduardo Ocoro Caicedo";"Bloqueo Sistema Distribución";6;0;0
+"847";"Jefri Eduardo Ocoro Caicedo";"Corrección Errores de Conexión SI de Distribución";21;0;0
+"848";"Jefri Eduardo Ocoro Caicedo";"Corrección Errores de Funcionalidad SI Comercial";1;0;0
+"849";"Jefri Eduardo Ocoro Caicedo";"Corrección Errores de Funcionalidad SI de Distribución";30;0;0
+"850";"Jefri Eduardo Ocoro Caicedo";"Desarrollo de Mejora SI de Distribución";4;0;0
+"851";"Jefri Eduardo Ocoro Caicedo";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";1;0;0
+"852";"Jefri Eduardo Ocoro Caicedo";"Eliminación de Usuario Sistemas de Distribución";13;0;0
+"853";"Jefri Eduardo Ocoro Caicedo";"Eliminación de Usuario Sistemas de Recursos";1;0;0
+"854";"Jefri Eduardo Ocoro Caicedo";"Errores de Funcionalidad SI Comercial";4;0;0
+"855";"Jefri Eduardo Ocoro Caicedo";"Modificación de Perfil Sistemas de Distribución";1;0;0
+"856";"Jefri Eduardo Ocoro Caicedo";"Modificación de Usuario Sistemas de Distribución";26;0;0
+"857";"Jefri Eduardo Ocoro Caicedo";"Parametrización Sistemas Comerciales";3;0;0
+"858";"Jefri Eduardo Ocoro Caicedo";"Parametrización Sistemas de Distribución";80;1;0,0125
+"859";"Jefri Eduardo Ocoro Caicedo";"Reportes o Extracción de Información SI Comercial";2;0;0
+"860";"Jefri Eduardo Ocoro Caicedo";"Reportes o Extracción de Información SI de Distribución";54;0;0
+"861";"Jefri Eduardo Ocoro Caicedo";"Solución Req-Sop Loc Distribución";2;0;0
+"862";"Jefri Eduardo Ocoro Caicedo";"Soporte Interno SSII de Distribución";1;0;0
+"863";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Ampliación de Cuota";9;0;0
+"864";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Bloqueos Frecuentes";34;2;0,0588235294117647
+"865";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Comunicación Unificada (Lync)";37;1;0,027027027027027
+"866";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Filtro Correo Corporativo";13;0;0
+"867";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestion Cuentas de Correo";126;3;0,0238095238095238
+"868";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión Cuentas de Red";68;1;0,0147058823529412
+"869";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión Cuentas de Servicio";85;1;0,0117647058823529
+"870";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión de Alertas";11;0;0
+"871";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión de Excepciones";25;0;0
+"872";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión de Servicios básicos de Redes";180;2;0,0111111111111111
+"873";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión de Servidores Sistema Operativo Windows";25;0;0
+"874";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión Permisos FTP";20;1;0,05
+"875";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión permisos Navegación";11;0;0
+"876";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestion Permisos Recurso Compartido";68;1;0,0147058823529412
+"877";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Gestión servicios de Seguridades";56;1;0,0178571428571429
+"878";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Listas de Distribución Correo";29;1;0,0344827586206897
+"879";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Monitoreo y soporte Servicios básicos de Redes";18;0;0
+"880";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Monitoreo y soporte Servicios de Seguridades";14;0;0
+"881";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Reporte Archivos";1;0;0
+"882";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Restablecer Servicio Acceso Red";49;2;0,0408163265306122
+"883";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Restablecer Servicio Correo";54;3;0,0555555555555556
+"884";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Restablecer Servicio de Navegación";6;0;0
+"885";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Restablecer Servicio de Sistema Operativo";87;21;0,241379310344828
+"886";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Restablecer Servicio FTP";6;0;0
+"887";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Restablecer Servicio Red Inalámbrica";1;0;0
+"888";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Restablecer Servicio SW PC";26;0;0
+"889";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Sitio Web";66;0;0
+"890";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Soporte Aplicación Antivirus";3;2;0,666666666666667
+"891";"Jenifer Quintero Camacho - Usuario INDRA (ACIND054)";"Verificación y bloqueo de páginas/correo no deseados";1;0;0
+"892";"Jesus Antonio Valencia - Usuario GNFT (ACGNF003)";"Asignación Enlace Telecontrol";2;0;0
+"893";"Jesus Antonio Valencia - Usuario GNFT (ACGNF003)";"Asignación Enlace Telecontrol Externo";6;0;0
+"894";"Jesus Antonio Valencia - Usuario GNFT (ACGNF003)";"Restablecer Servicio Red Datos";1;0;0
+"895";"Jesus Antonio Valencia - Usuario GNFT (ACGNF003)";"Restablecer Servicio Telecontrol";29;0;0
+"896";"Jhon Freddy Marin";"Actualización Datos Sistemas de Recursos";265;5;0,0188679245283019
+"897";"Jhon Freddy Marin";"Análisis de Lentitud SI de Recursos";4;1;0,25
+"898";"Jhon Freddy Marin";"Asesoría/Consulta Funcional - Recursos";34;5;0,147058823529412
+"899";"Jhon Freddy Marin";"Asignación de Usuario Sistemas de Recursos";35;6;0,171428571428571
+"900";"Jhon Freddy Marin";"Bloqueo Sistema Gestión de Recursos";6;1;0,166666666666667
+"901";"Jhon Freddy Marin";"Corrección en Autorizaciones SI de Recursos";5;1;0,2
+"902";"Jhon Freddy Marin";"Corrección Errores de Conexión SI de Recursos";67;1;0,0149253731343284
+"903";"Jhon Freddy Marin";"Corrección Errores de Funcionalidad SI de Recursos";252;29;0,115079365079365
+"904";"Jhon Freddy Marin";"Creación de Perfil Sistemas de Recursos";1;0;0
+"905";"Jhon Freddy Marin";"Desbloqueo Usuario/Cambio Contraseña SI de Recursos";9;1;0,111111111111111
+"906";"Jhon Freddy Marin";"Eliminación de Usuario Sistemas de Recursos";41;4;0,0975609756097561
+"907";"Jhon Freddy Marin";"Modificación de Perfil Sistemas de Recursos";2;1;0,5
+"908";"Jhon Freddy Marin";"Modificación de Usuario Sistemas de Recursos";26;2;0,0769230769230769
+"909";"Jhon Freddy Marin";"Parametrización Sistemas de Recursos";113;3;0,0265486725663717
+"910";"Jhon Freddy Marin";"Reportes o Extracción de Información SI de Recursos";39;5;0,128205128205128
+"911";"Jhon Freddy Marin";"Servicios TI No Catalogados";13;9;0,692307692307692
+"912";"Jhon Freddy Marin";"Soporte Interno SSII de Recursos";1;0;0
+"913";"Jhon Freddy Marin";"Verificación de Inventario SSII";2;0;0
+"914";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Administración de Servidores Sistema Operativo Unix";5;0;0
+"915";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Crear, modificar o borrar usuarios en BD";4;0;0
+"916";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Gestión de Alertas";17;2;0,117647058823529
+"917";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Gestión de Bases de Datos";41;1;0,024390243902439
+"918";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Gestión de Excepciones";43;0;0
+"919";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Monitoreo y Soporte Base de Datos";13;1;0,0769230769230769
+"920";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Monitoreo y soporte Sistema Operativo Unix";5;0;0
+"921";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Monitoreo y soporte Sistema Operativo Windows";1;0;0
+"922";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Respaldo";3;0;0
+"923";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Restablecer Servicio de Motores de Bases de Datos";15;3;0,2
+"924";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Restablecer Servicio de Sistema Operativo";13;0;0
+"925";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Restauración Backup BD";3;0;0
+"926";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Soporte Hardware equipos SCADA";2;1;0,5
+"927";"Jhon Ricaurte Otero Loaiza - Usuario INDRA (ACIND048)";"Verficación Inconsistencias CMDB";2;0;0
+"928";"Jhon Wilman Molina Garcia - Usuario INDRA (ACIND015)";"Actualizaciones CMDB";1;1;1
+"929";"Jhon Wilman Molina Garcia - Usuario INDRA (ACIND015)";"Ajustes al Catálogo";12;0;0
+"930";"Jhon Wilman Molina Garcia - Usuario INDRA (ACIND015)";"Análisis de Casos";1;0;0
+"931";"Jhon Wilman Molina Garcia - Usuario INDRA (ACIND015)";"Gestión de Excepciones";4;1;0,25
+"932";"Jhon Wilman Molina Garcia - Usuario INDRA (ACIND015)";"Revisión de Servicio TIC No Catalogado";15;0;0
+"933";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Administración de Servidores Sistema Operativo Unix";19;0;0
+"934";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Crear, modificar o borrar usuarios en BD";53;1;0,0188679245283019
+"935";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Gestión de Alertas";32;1;0,03125
+"936";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Gestión de Bases de Datos";285;4;0,0140350877192982
+"937";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Gestión de Excepciones";35;2;0,0571428571428571
+"938";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Monitoreo y Soporte Base de Datos";24;0;0
+"939";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Monitoreo y soporte Sistema Operativo Unix";24;0;0
+"940";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Monitoreo y soporte Sistema Operativo Windows";2;0;0
+"941";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Respaldo";15;0;0
+"942";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Restablecer Servicio de Hardware de Soporte Central";1;0;0
+"943";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Restablecer Servicio de Motores de Bases de Datos";103;68;0,660194174757282
+"944";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Restablecer Servicio de Sistema Operativo";25;1;0,04
+"945";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Restauración Backup BD";16;0;0
+"946";"Jofre Valencia Rojas - Usuario INDRA (ACIND036)";"Soporte Hardware equipos SCADA";1;0;0
+"947";"John Edmundo Pantoja Zambran";"Actualización Datos Merc Mayorista";18;0;0
+"948";"John Edmundo Pantoja Zambran";"Actualización Datos Sistemas de Generación";22;0;0
+"949";"John Edmundo Pantoja Zambran";"Asesoría/Consulta funcional - Generación";6;0;0
+"950";"John Edmundo Pantoja Zambran";"Asesoría/Consulta funcional - Merc Mayorista";15;2;0,133333333333333
+"951";"John Edmundo Pantoja Zambran";"Asignación de Usuario Merc Mayorista";2;1;0,5
+"952";"John Edmundo Pantoja Zambran";"Asignación de Usuario Sistemas de Generación";9;0;0
+"953";"John Edmundo Pantoja Zambran";"Corrección Errores de Conexión SI de Distribución";3;0;0
+"954";"John Edmundo Pantoja Zambran";"Corrección Errores de Conexión SI de Generación";1;0;0
+"955";"John Edmundo Pantoja Zambran";"Corrección Errores de Conexión SI Merc Mayorista";4;0;0
+"956";"John Edmundo Pantoja Zambran";"Corrección Errores de Funcionalidad SI de Distribución";7;0;0
+"957";"John Edmundo Pantoja Zambran";"Corrección Errores de Funcionalidad SI de Generación";18;2;0,111111111111111
+"958";"John Edmundo Pantoja Zambran";"Corrección Errores de Funcionalidad SI Merc Mayorista";16;1;0,0625
+"959";"John Edmundo Pantoja Zambran";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";3;0;0
+"960";"John Edmundo Pantoja Zambran";"Desbloqueo Usuario/Cambio Contraseña SI de Generación";1;0;0
+"961";"John Edmundo Pantoja Zambran";"Eliminación de Usuario Merc Mayorista";1;0;0
+"962";"John Edmundo Pantoja Zambran";"Eliminación de Usuario Sistemas de Generación";1;0;0
+"963";"John Edmundo Pantoja Zambran";"Modificación de Perfil Merc Mayorista";1;1;1
+"964";"John Edmundo Pantoja Zambran";"Modificación de Usuario Merc Mayorista";1;0;0
+"965";"John Edmundo Pantoja Zambran";"Modificación de Usuario Sistemas de Generación";1;0;0
+"966";"John Edmundo Pantoja Zambran";"Parametrización Merc Mayorista";55;0;0
+"967";"John Edmundo Pantoja Zambran";"Parametrización Sistemas de Generación";11;0;0
+"968";"John Edmundo Pantoja Zambran";"Reportes o Extracción de Información SI de Generación";4;0;0
+"969";"John Edmundo Pantoja Zambran";"Reportes o Extracción de Información SI Merc Mayorista";36;1;0,0277777777777778
+"970";"John Edmundo Pantoja Zambrano";"Actualización Datos Merc Mayorista";1;0;0
+"971";"John Edmundo Pantoja Zambrano";"Actualización Datos Sistemas de Generación";6;0;0
+"972";"John Edmundo Pantoja Zambrano";"Análisis de Lentitud SI de Generación";1;0;0
+"973";"John Edmundo Pantoja Zambrano";"Asignación de Usuario Sistemas de Generación";1;1;1
+"974";"John Edmundo Pantoja Zambrano";"Bloqueo Sistema Merc. Mayorista";4;0;0
+"975";"John Edmundo Pantoja Zambrano";"Corrección Errores de Conexión SI de Generación";1;0;0
+"976";"John Edmundo Pantoja Zambrano";"Corrección Errores de Funcionalidad SI de Distribución";1;0;0
+"977";"John Edmundo Pantoja Zambrano";"Corrección Errores de Funcionalidad SI de Generación";2;0;0
+"978";"John Edmundo Pantoja Zambrano";"Eliminación de Usuario Sistemas de Distribución";1;0;0
+"979";"John Edmundo Pantoja Zambrano";"Parametrización Merc Mayorista";7;0;0
+"980";"John Edmundo Pantoja Zambrano";"Reportes o Extracción de Información SI Merc Mayorista";3;0;0
+"981";"John Jairo Rojas Manzano - Usuario INDRA (ACIND067)";"Postulación Articulo a BD Conocimiento";3;3;1
+"982";"John Javier Lopez Rebolledo";"Asignación Enlace Telecontrol Externo";6;1;0,166666666666667
+"983";"John Javier Lopez Rebolledo";"Asignación Enlace Telemedida";2;2;1
+"984";"John Javier Lopez Rebolledo";"Asignación Equipo de Radio";14;1;0,0714285714285714
+"985";"John Javier Lopez Rebolledo";"Configuración - Telco";2;0;0
+"986";"John Javier Lopez Rebolledo";"Gestión de Excepciones";1;0;0
+"987";"John Javier Lopez Rebolledo";"Monitoreo/Reporte de Tráfico - Telco";1;0;0
+"988";"John Javier Lopez Rebolledo";"Préstamo Radio";10;1;0,1
+"989";"John Javier Lopez Rebolledo";"Reposición Equipo de Radio";11;0;0
+"990";"John Javier Lopez Rebolledo";"Restablecer Servicio de Navegación";1;1;1
+"991";"John Javier Lopez Rebolledo";"Restablecer Servicio de Radio";57;5;0,087719298245614
+"992";"John Javier Lopez Rebolledo";"Restablecer Servicio de Telefonía Fija o Móvil";4;0;0
+"993";"John Javier Lopez Rebolledo";"Restablecer Servicio Red Datos";15;0;0
+"994";"John Javier Lopez Rebolledo";"Restablecer Servicio Telecontrol";99;3;0,0303030303030303
+"995";"John Javier Lopez Rebolledo";"Restablecer Servicio Telecontrol Reconectadores";13;2;0,153846153846154
+"996";"John Javier Lopez Rebolledo";"Restablecer Servicio Telemedida";6;0;0
+"997";"John Javier Lopez Rebolledo";"Restablecer Servicio Videoseguridad";2;0;0
+"998";"John Javier Lopez Rebolledo";"Revisión - Telco";4;0;0
+"999";"John Javier Lopez Rebolledo";"Servicios TI No Catalogados";1;0;0
+"1000";"John Javier Lopez Rebolledo";"Verificación de Inventario";2;0;0
+"1001";"John Mauricio Gonzalez Hernandez - Usuario INDRA (ACIND082)";"Gestión de Excepciones";1;1;1
+"1002";"John Mauricio Gonzalez Hernandez - Usuario INDRA (ACIND082)";"Solicitud de Capacitación Aranda";4;1;0,25
+"1003";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Acceso usuario administrador";2;0;0
+"1004";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Asignación Equipo";278;5;0,0179856115107914
+"1005";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Asignación Equipo Impr o Dig";2;1;0,5
+"1006";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Configuración de Impresión";1;1;1
+"1007";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Daño Equipos de Impresión y Digitalización";4;4;1
+"1008";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Gestion SW Tecnología";2;1;0,5
+"1009";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Instalacion  o adquisiscion  Nuevo SW PC- ARI";1;0;0
+"1010";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Instalación APPLocker";2;0;0
+"1011";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Instalación SW PC";17;0;0
+"1012";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Mantenimiento";101;29;0,287128712871287
+"1013";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Mantenimiento Impresión";1;1;1
+"1014";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Mantenimiento TP";7;6;0,857142857142857
+"1015";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Préstamo Equipo";40;3;0,075
+"1016";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Préstamo TP";1;0;0
+"1017";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Reposición TP";6;4;0,666666666666667
+"1018";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Restablecer APP Locker";49;6;0,122448979591837
+"1019";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Restablecer Servicio Equipos/Periféricos";23;9;0,391304347826087
+"1020";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Restablecer Servicio SW PC";8;0;0
+"1021";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Retiro Equipo";15;0;0
+"1022";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Retiro Equipo Impresión";7;3;0,428571428571429
+"1023";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Soporte Interno Microinformática";91;8;0,0879120879120879
+"1024";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Soporte Videoconferencia";1;0;0
+"1025";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Traslado Equipo Impresión";1;0;0
+"1026";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Traspaso Equipo";1;0;0
+"1027";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Verficación Inconsistencias CMDB";1;0;0
+"1028";"Jonathan Alexander Mina Montoya - Usuario INDRA (ACIND028)";"Verificación de Inventario Informática de Usuario";1;0;0
+"1029";"Jorge Humberto Cespedes Vasco - Usuario INDRA (ACIND045)";"Gestión de Alertas";1;0;0
+"1030";"Jorge Humberto Cespedes Vasco - Usuario INDRA (ACIND045)";"Gestión de Servidores Sistema Operativo Windows";1;1;1
+"1031";"Jorge Humberto Cespedes Vasco - Usuario INDRA (ACIND045)";"Recuperación de Archivos";9;5;0,555555555555556
+"1032";"Jorge Humberto Cespedes Vasco - Usuario INDRA (ACIND045)";"Respaldo";14;5;0,357142857142857
+"1033";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Actualización SW PC";10;6;0,6
+"1034";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Alistamiento Sala de Formación";4;0;0
+"1035";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Configuración";9;1;0,111111111111111
+"1036";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Configuración - Perfil";1;0;0
+"1037";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Configuración de Impresión";2;0;0
+"1038";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Configuración en Windows";57;3;0,0526315789473684
+"1039";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Gestión de Excepciones";1;0;0
+"1040";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Instalación SW PC";33;4;0,121212121212121
+"1041";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Mantenimiento";1;0;0
+"1042";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Restablecer Servicio de Dispositivo Móvil";4;0;0
+"1043";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Restablecer Servicio Equipos/Periféricos";97;27;0,278350515463918
+"1044";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Restablecer Servicio SW PC";105;23;0,219047619047619
+"1045";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Restablecer Servicio Windows";177;35;0,19774011299435
+"1046";"Jorge Nilson Torres Vasquez - Usuario INDRA (ACIND031)";"Soporte Interno Microinformática";176;7;0,0397727272727273
+"1047";"Jorge Zamur - Usuario INDRA (ACIND022)";"Actualizar aplicaciones Granja";4;0;0
+"1048";"Jorge Zamur - Usuario INDRA (ACIND022)";"Desbloqueo Conexión de sesión a Desktop virtual";1;0;0
+"1049";"Jorge Zamur - Usuario INDRA (ACIND022)";"Gestión de Alertas";6;2;0,333333333333333
+"1050";"Jorge Zamur - Usuario INDRA (ACIND022)";"Gestión de Excepciones";3;0;0
+"1051";"Jorge Zamur - Usuario INDRA (ACIND022)";"Gestión de Servidores Sistema Operativo Windows";4;0;0
+"1052";"Jorge Zamur - Usuario INDRA (ACIND022)";"Gestion Permisos Recurso Compartido";35;5;0,142857142857143
+"1053";"Jorge Zamur - Usuario INDRA (ACIND022)";"Gestión Plataforma de Virtualización";16;1;0,0625
+"1054";"Jorge Zamur - Usuario INDRA (ACIND022)";"Monitoreo y soporte Sistema Operativo Windows";1;0;0
+"1055";"Jorge Zamur - Usuario INDRA (ACIND022)";"Monitoreo y soporte Virtualización";14;1;0,0714285714285714
+"1056";"Jorge Zamur - Usuario INDRA (ACIND022)";"Restablecer Servicio Acceso Red";13;1;0,0769230769230769
+"1057";"Jorge Zamur - Usuario INDRA (ACIND022)";"Restablecer Servicio Aplicación Publicada";78;0;0
+"1058";"Jorge Zamur - Usuario INDRA (ACIND022)";"Restablecer Servicio Escritorio Virtual";3;0;0
+"1059";"Jorge Zamur - Usuario INDRA (ACIND022)";"Restablecer Servicio Servidor Virtual";1;0;0
+"1060";"Jose Armando Mora Melo";"Asesoría/Consulta Telefonía";1;0;0
+"1061";"Jose Armando Mora Melo";"Asignación - Cable - Red";4;0;0
+"1062";"Jose Armando Mora Melo";"Asignación Enlace Telecontrol";1;0;0
+"1063";"Jose Armando Mora Melo";"Asignación Perfil o Pin Telefónico";164;5;0,0304878048780488
+"1064";"Jose Armando Mora Melo";"Asignación Telefonía Fija";321;5;0,0155763239875389
+"1065";"Jose Armando Mora Melo";"Asignación Telefonía Móvil";1;0;0
+"1066";"Jose Armando Mora Melo";"Asignación Videoconferencia";3;0;0
+"1067";"Jose Armando Mora Melo";"Cambiar Buzón Fax";3;0;0
+"1068";"Jose Armando Mora Melo";"Cambiar Buzón One Box";2;0;0
+"1069";"Jose Armando Mora Melo";"Cambio Telefonía Fija";3;0;0
+"1070";"Jose Armando Mora Melo";"Cancelación Línea Central Pública";5;0;0
+"1071";"Jose Armando Mora Melo";"Cancelación Línea o Extensión";158;0;0
+"1072";"Jose Armando Mora Melo";"Configuración - Telco";3;1;0,333333333333333
+"1073";"Jose Armando Mora Melo";"Crear Buzón Fax";3;0;0
+"1074";"Jose Armando Mora Melo";"Devolución Equipo de Telefonía Fija";91;4;0,043956043956044
+"1075";"Jose Armando Mora Melo";"Generación - Reporte - Telefonía";121;4;0,0330578512396694
+"1076";"Jose Armando Mora Melo";"Generación - Reporte - Telefonía Movil";13;0;0
+"1077";"Jose Armando Mora Melo";"Instalación Punto de Red";3;1;0,333333333333333
+"1078";"Jose Armando Mora Melo";"Modificación Perfil o Pin Telefónico";41;1;0,024390243902439
+"1079";"Jose Armando Mora Melo";"Monitoreo/Reporte de Tráfico - Telco";2;0;0
+"1080";"Jose Armando Mora Melo";"Reposición Equipo Telefonía Fija";21;1;0,0476190476190476
+"1081";"Jose Armando Mora Melo";"Restablecer Servicio de Extensión Telefónica Lync";5;0;0
+"1082";"Jose Armando Mora Melo";"Restablecer Servicio de Telefonía Fija";68;4;0,0588235294117647
+"1083";"Jose Armando Mora Melo";"Restablecer Servicio de Telefonía Fija o Móvil";794;43;0,0541561712846348
+"1084";"Jose Armando Mora Melo";"Restablecer Servicio Punto de Red";26;0;0
+"1085";"Jose Armando Mora Melo";"Restablecer Servicio Red Datos";19;0;0
+"1086";"Jose Armando Mora Melo";"Restablecer Servicio Red Inalámbrica";7;0;0
+"1087";"Jose Armando Mora Melo";"Restablecer Servicio Telecontrol";32;0;0
+"1088";"Jose Armando Mora Melo";"Restablecer Servicio Telecontrol Reconectadores";1;0;0
+"1089";"Jose Armando Mora Melo";"Restablecer Servicio Telemedida";4;0;0
+"1090";"Jose Armando Mora Melo";"Restablecer Servicio Videoconferencia";4;0;0
+"1091";"Jose Armando Mora Melo";"Restablecer Servicio Videoseguridad";13;0;0
+"1092";"Jose Armando Mora Melo";"Revisión - Telco";3;0;0
+"1093";"Jose Armando Mora Melo";"Servicios TI No Catalogados";1;0;0
+"1094";"Jose Armando Mora Melo";"Soporte Videoconferencia";2;0;0
+"1095";"Jose Armando Mora Melo";"Traslado Punto de Red";1;0;0
+"1096";"Jose Armando Mora Melo";"Traslado Telefonía Fija";99;6;0,0606060606060606
+"1097";"Jose Armando Mora Melo";"Traspaso Telefonía Fija";55;4;0,0727272727272727
+"1098";"Jose Armando Mora Melo";"Verificación de Inventario";46;5;0,108695652173913
+"1099";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación - Cable - Red";15;0;0
+"1100";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación de direccionamiento IP";5;0;0
+"1101";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación Enlace Telecontrol";4;0;0
+"1102";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación Enlace Telecontrol Externo";9;0;0
+"1103";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación Enlace Telemedida";18;0;0
+"1104";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación Enlace Teleprotecciones";9;0;0
+"1105";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación Enlace Videoseguridad";10;0;0
+"1106";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación Internet Móvil";5;0;0
+"1107";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Asignación Telefonía Móvil";2;0;0
+"1108";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Cambio Plan Telefonía Celular";1;0;0
+"1109";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Configuración - Telco";38;0;0
+"1110";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Generación - Reporte - Telefonía";2;0;0
+"1111";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Gestión Cuentas de Red";1;1;1
+"1112";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Gestión de Excepciones";2;0;0
+"1113";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Implementación - Red Inalámbrica";6;0;0
+"1114";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Instalación Punto de Red";5;0;0
+"1115";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Monitoreo Enlace Videoseguridad";6;0;0
+"1116";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Monitoreo/Reporte de Tráfico - Telco";27;0;0
+"1117";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Préstamo - Telco";2;0;0
+"1118";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Acceso Red";4;1;0,25
+"1119";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio de Navegación";1;1;1
+"1120";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio de Telefonía Fija";1;0;0
+"1121";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio de Telefonía Fija o Móvil";6;0;0
+"1122";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio FTP";2;0;0
+"1123";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Punto de Red";25;0;0
+"1124";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Red Datos";329;1;0,00303951367781155
+"1125";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Red Inalámbrica";48;2;0,0416666666666667
+"1126";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Telecontrol";39;0;0
+"1127";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Telecontrol Reconectadores";3;0;0
+"1128";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Telemedida";51;1;0,0196078431372549
+"1129";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Telemedida Externa";1;0;0
+"1130";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Videoconferencia";1;0;0
+"1131";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Restablecer Servicio Videoseguridad";191;0;0
+"1132";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Revisión - Telco";6;0;0
+"1133";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Servicios TI No Catalogados";2;0;0
+"1134";"Jose David Hernandez de la Cruz- Usuario GNFT (ACGNF002)";"Traslado Punto de Red";2;0;0
+"1135";"Juan Carlos Giraldo Vidal - Usuario INDRA (ACIND064)";"Análisis de Casos";2;0;0
+"1136";"Juan Carlos Giraldo Vidal - Usuario INDRA (ACIND064)";"Desinfección de Equipo";82;34;0,414634146341463
+"1137";"Juan Carlos Giraldo Vidal - Usuario INDRA (ACIND064)";"Gestión de Excepciones";111;5;0,045045045045045
+"1138";"Juan Carlos Giraldo Vidal - Usuario INDRA (ACIND064)";"Verificación de Autorización y Permisos";24;4;0,166666666666667
+"1139";"Juan Carlos Giraldo Vidal - Usuario INDRA (ACIND064)";"Verificación y bloqueo de páginas/correo no deseados";217;3;0,0138248847926267
+"1140";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Asignación de Usuario Sistemas de Recursos";47;0;0
+"1141";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Autorizaciones SAP";131;0;0
+"1142";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Bloqueo Sistema Gestión de Recursos";1;0;0
+"1143";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Corrección Errores de Conexión SI de Recursos";2;0;0
+"1144";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Creación de Perfil Sistemas de Recursos";3;0;0
+"1145";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Eliminación de Usuario Sistemas de Recursos";7;0;0
+"1146";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Gestión Basis SAP";112;0;0
+"1147";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Gestión de Alertas";1;0;0
+"1148";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Gestión de Excepciones";1;0;0
+"1149";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Modificación de Perfil Sistemas de Recursos";20;0;0
+"1150";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Modificación de Usuario Sistemas de Recursos";100;0;0
+"1151";"Katherine Osorio Jaramillo - Usuario INDRA (ACIND074)";"Monitoreo y Soporte Basis SAP";7;0;0
+"1152";"Leonardo Villamil Carrasquilla - Usuario INDRA (ACIND085)";"Restablecer Servicio Videoconferencia";10;0;0
+"1153";"Leonardo Villamil Carrasquilla - Usuario INDRA (ACIND085)";"Soporte Videoconferencia";4;0;0
+"1154";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Actualización SW PC";3;0;0
+"1155";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Alistamiento Sala de Reuniones o Auditorio";1;0;0
+"1156";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Configuración";5;0;0
+"1157";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Configuración en Windows";16;1;0,0625
+"1158";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Instalación SW PC";10;0;0
+"1159";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Mantenimiento";16;8;0,5
+"1160";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Restablecer Servicio Citrix";1;1;1
+"1161";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Restablecer Servicio de Dispositivo Móvil";1;0;0
+"1162";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Restablecer Servicio Equipos/Periféricos";33;13;0,393939393939394
+"1163";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Restablecer Servicio SW PC";23;10;0,434782608695652
+"1164";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Restablecer Servicio Windows";45;5;0,111111111111111
+"1165";"Luis Alfonso Cano Quintero - Usuario INDRA (ACIND032)";"Soporte Interno Microinformática";93;12;0,129032258064516
+"1166";"Luis Fernando Mercado - Usuario INDRA (ACIND025)";"Ajustes al Catálogo";3;0;0
+"1167";"Luis Fernando Mercado - Usuario INDRA (ACIND025)";"Análisis de Casos";5;3;0,6
+"1168";"Luis Fernando Mercado - Usuario INDRA (ACIND025)";"Solicitud de Capacitación Aranda";5;0;0
+"1169";"Luis Fernando Salas Moreno";"Asignación de direccionamiento IP";2;2;1
+"1170";"Luis Fernando Salas Moreno";"Asignación Enlace Telecontrol Externo";1;0;0
+"1171";"Luis Fernando Salas Moreno";"Asignación Enlace Telemedida";1;1;1
+"1172";"Luis Fernando Salas Moreno";"Configuración - Telco";1;0;0
+"1173";"Luis Fernando Salas Moreno";"Monitoreo/Reporte de Tráfico - Telco";1;0;0
+"1174";"Luis Fernando Salas Moreno";"Restablecer Servicio Acceso Red";1;0;0
+"1175";"Luis Fernando Salas Moreno";"Restablecer Servicio de Telefonía Fija o Móvil";1;0;0
+"1176";"Luis Fernando Salas Moreno";"Restablecer Servicio Punto de Red";1;0;0
+"1177";"Luis Fernando Salas Moreno";"Restablecer Servicio Red Datos";41;1;0,024390243902439
+"1178";"Luis Fernando Salas Moreno";"Restablecer Servicio Red Inalámbrica";3;1;0,333333333333333
+"1179";"Luis Fernando Salas Moreno";"Restablecer Servicio Telecontrol";40;1;0,025
+"1180";"Luis Fernando Salas Moreno";"Restablecer Servicio Telecontrol Reconectadores";1;0;0
+"1181";"Luis Fernando Salas Moreno";"Restablecer Servicio Videoseguridad";4;0;0
+"1182";"Luis Gonzalo Gomez Orozco";"Actualización Datos Distribución";20;0;0
+"1183";"Luis Gonzalo Gomez Orozco";"Asesoría/Consulta funcional - Distribución";3;0;0
+"1184";"Luis Gonzalo Gomez Orozco";"Asignación de Usuario Distribución";6;1;0,166666666666667
+"1185";"Luis Gonzalo Gomez Orozco";"Corrección Errores de Conexión SI de Distribución";6;2;0,333333333333333
+"1186";"Luis Gonzalo Gomez Orozco";"Corrección Errores de Funcionalidad SI de Distribución";3;0;0
+"1187";"Luis Gonzalo Gomez Orozco";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";2;0;0
+"1188";"Luis Gonzalo Gomez Orozco";"Eliminación de Usuario Sistemas de Distribución";3;1;0,333333333333333
+"1189";"Luis Gonzalo Gomez Orozco";"Parametrización Sistemas de Distribución";6;0;0
+"1190";"Luis Gonzalo Gomez Orozco";"Reportes o Extracción de Información SI de Distribución";7;0;0
+"1191";"Luis Horacio Botero Peña";"Actualización Datos Sistemas de Recursos";61;2;0,0327868852459016
+"1192";"Luis Horacio Botero Peña";"Análisis de Lentitud SI de Recursos";1;0;0
+"1193";"Luis Horacio Botero Peña";"Asesoría/Consulta Funcional - Recursos";31;2;0,0645161290322581
+"1194";"Luis Horacio Botero Peña";"Asignación de Usuario Sistemas de Recursos";1;0;0
+"1195";"Luis Horacio Botero Peña";"Corrección en Autorizaciones SI de Recursos";1;0;0
+"1196";"Luis Horacio Botero Peña";"Corrección Errores de Conexión SI de Recursos";10;0;0
+"1197";"Luis Horacio Botero Peña";"Corrección Errores de Funcionalidad SI de Recursos";102;0;0
+"1198";"Luis Horacio Botero Peña";"Desarrollo de Mejora SI de Recursos";6;0;0
+"1199";"Luis Horacio Botero Peña";"Eliminación de Usuario Sistemas de Recursos";3;0;0
+"1200";"Luis Horacio Botero Peña";"Modificación de Usuario Sistemas de Recursos";7;0;0
+"1201";"Luis Horacio Botero Peña";"Parametrización Sistemas de Recursos";92;1;0,0108695652173913
+"1202";"Luis Horacio Botero Peña";"Reportes o Extracción de Información SI de Recursos";22;0;0
+"1203";"Luis Horacio Botero Peña";"Servicios TI No Catalogados";1;1;1
+"1204";"Luis Horacio Botero Peña";"Soporte Interno SSII de Recursos";5;0;0
+"1205";"Luisa Fernanda Siachoque Romero";"Asesoría/Consulta Telefonía";65;3;0,0461538461538462
+"1206";"Luisa Fernanda Siachoque Romero";"Asignación Enlace Telecontrol Externo";1;0;0
+"1207";"Luisa Fernanda Siachoque Romero";"Asignación Enlace Telemedida";1;0;0
+"1208";"Luisa Fernanda Siachoque Romero";"Asignación Internet Móvil";3;0;0
+"1209";"Luisa Fernanda Siachoque Romero";"Asignación Telefonía Móvil";149;19;0,12751677852349
+"1210";"Luisa Fernanda Siachoque Romero";"Cambio Línea Celular";11;0;0
+"1211";"Luisa Fernanda Siachoque Romero";"Cambio Plan Telefonía Celular";150;0;0
+"1212";"Luisa Fernanda Siachoque Romero";"Cancelación Línea Celular";33;0;0
+"1213";"Luisa Fernanda Siachoque Romero";"Generación - Reporte - Telefonía";28;0;0
+"1214";"Luisa Fernanda Siachoque Romero";"Generación - Reporte - Telefonía Movil";1;0;0
+"1215";"Luisa Fernanda Siachoque Romero";"Implementación - Red Inalámbrica";1;0;0
+"1216";"Luisa Fernanda Siachoque Romero";"Monitoreo/Reporte de Tráfico - Telco";2;0;0
+"1217";"Luisa Fernanda Siachoque Romero";"Préstamo Equipo Telefonía Móvil";4;0;0
+"1218";"Luisa Fernanda Siachoque Romero";"Reposición Equipo de Radio";1;0;0
+"1219";"Luisa Fernanda Siachoque Romero";"Reposición Equipo Telefonía Móvil";360;44;0,122222222222222
+"1220";"Luisa Fernanda Siachoque Romero";"Reposición Internet Móvil";6;3;0,5
+"1221";"Luisa Fernanda Siachoque Romero";"Restablecer Servicio de Telefonía Fija";3;1;0,333333333333333
+"1222";"Luisa Fernanda Siachoque Romero";"Restablecer Servicio de Telefonía Fija o Móvil";85;7;0,0823529411764706
+"1223";"Luisa Fernanda Siachoque Romero";"Restablecer Servicio Red Datos";4;0;0
+"1224";"Luisa Fernanda Siachoque Romero";"Restablecer Servicio Red Inalámbrica";4;0;0
+"1225";"Luisa Fernanda Siachoque Romero";"Restablecer Servicio Telemedida";4;0;0
+"1226";"Luisa Fernanda Siachoque Romero";"Revisión - Telco";2;0;0
+"1227";"Luisa Fernanda Siachoque Romero";"Traspaso Telefonía Móvil";25;1;0,04
+"1228";"Luisa Fernanda Siachoque Romero";"Verificación de Inventario";11;2;0,181818181818182
+"1229";"Luz Dary Moreno Sandoval";"Asesoría/Consulta Telefonía";52;3;0,0576923076923077
+"1230";"Luz Dary Moreno Sandoval";"Asignación Telefonía Móvil";6;0;0
+"1231";"Luz Dary Moreno Sandoval";"Cambio Línea Celular";1;0;0
+"1232";"Luz Dary Moreno Sandoval";"Cambio Plan Telefonía Celular";20;0;0
+"1233";"Luz Dary Moreno Sandoval";"Configuración - Telco";1;0;0
+"1234";"Luz Dary Moreno Sandoval";"Generación - Reporte - Telefonía";29;0;0
+"1235";"Luz Dary Moreno Sandoval";"Generación - Reporte - Telefonía Movil";4;0;0
+"1236";"Luz Dary Moreno Sandoval";"Monitoreo/Reporte de Tráfico - Telco";2;0;0
+"1237";"Luz Dary Moreno Sandoval";"Préstamo Internet Móvil";1;0;0
+"1238";"Luz Dary Moreno Sandoval";"Reposición Equipo Telefonía Móvil";66;8;0,121212121212121
+"1239";"Luz Dary Moreno Sandoval";"Restablecer Servicio de Telefonía Fija o Móvil";9;1;0,111111111111111
+"1240";"Luz Dary Moreno Sandoval";"Traspaso Telefonía Móvil";6;0;0
+"1241";"Luz Elena Moreno Argaez";"Actualización Datos Sistemas de Recursos";19;1;0,0526315789473684
+"1242";"Luz Elena Moreno Argaez";"Análisis de Lentitud SI de Recursos";3;0;0
+"1243";"Luz Elena Moreno Argaez";"Asesoría/Consulta Funcional - Recursos";39;8;0,205128205128205
+"1244";"Luz Elena Moreno Argaez";"Asignación de Usuario Sistemas de Recursos";89;3;0,0337078651685393
+"1245";"Luz Elena Moreno Argaez";"Bloqueo Sistema Gestión de Recursos";6;3;0,5
+"1246";"Luz Elena Moreno Argaez";"Corrección en Autorizaciones SI de Recursos";8;3;0,375
+"1247";"Luz Elena Moreno Argaez";"Corrección Errores de Conexión SI de Recursos";2;0;0
+"1248";"Luz Elena Moreno Argaez";"Corrección Errores de Funcionalidad SI de Recursos";153;9;0,0588235294117647
+"1249";"Luz Elena Moreno Argaez";"Eliminación de Usuario Sistemas de Recursos";97;6;0,0618556701030928
+"1250";"Luz Elena Moreno Argaez";"Modificación de Usuario Sistemas de Recursos";26;1;0,0384615384615385
+"1251";"Luz Elena Moreno Argaez";"Parametrización Sistemas de Recursos";185;17;0,0918918918918919
+"1252";"Luz Elena Moreno Argaez";"Reportes o Extracción de Información SI de Recursos";60;11;0,183333333333333
+"1253";"Luz Elena Moreno Argaez";"Soporte Interno SSII de Recursos";16;1;0,0625
+"1254";"Manuel Alejandro Moncayo - Usuario INDRA (ACIND084)";"Gestión de Excepciones";8;1;0,125
+"1255";"Manuel Alejandro Moncayo - Usuario INDRA (ACIND084)";"Monitoreo Videoconferencia";1;0;0
+"1256";"Manuel Alejandro Moncayo - Usuario INDRA (ACIND084)";"Restablecer Servicio Videoconferencia";57;1;0,0175438596491228
+"1257";"Manuel Alejandro Moncayo - Usuario INDRA (ACIND084)";"Soporte Videoconferencia";29;1;0,0344827586206897
+"1258";"Marco Antonio Niño Bonfante";"Actualización Datos Distribución";2;0;0
+"1259";"Maria Fernanda Sanchez Silva";"Actualización Datos Distribución";5;1;0,2
+"1260";"Maria Fernanda Sanchez Silva";"Actualización Datos Sistemas de Generación";27;17;0,62962962962963
+"1261";"Maria Fernanda Sanchez Silva";"Análisis de Lentitud SI de Generación";2;0;0
+"1262";"Maria Fernanda Sanchez Silva";"Asesoría/Consulta funcional - Generación";1;0;0
+"1263";"Maria Fernanda Sanchez Silva";"Asesoría/Consulta funcional - Merc Mayorista";1;1;1
+"1264";"Maria Fernanda Sanchez Silva";"Asignación de Usuario Distribución";2;1;0,5
+"1265";"Maria Fernanda Sanchez Silva";"Asignación de Usuario Merc Mayorista";2;2;1
+"1266";"Maria Fernanda Sanchez Silva";"Asignación de Usuario Sistemas de Generación";3;1;0,333333333333333
+"1267";"Maria Fernanda Sanchez Silva";"Corrección Errores de Conexión SI de Generación";10;2;0,2
+"1268";"Maria Fernanda Sanchez Silva";"Corrección Errores de Funcionalidad SI de Distribución";27;7;0,259259259259259
+"1269";"Maria Fernanda Sanchez Silva";"Corrección Errores de Funcionalidad SI de Generación";5;0;0
+"1270";"Maria Fernanda Sanchez Silva";"Corrección Errores de Funcionalidad SI Merc Mayorista";6;2;0,333333333333333
+"1271";"Maria Fernanda Sanchez Silva";"Desarrollo de Mejora SI de Generación";1;0;0
+"1272";"Maria Fernanda Sanchez Silva";"Eliminación de Usuario Sistemas de Distribución";1;0;0
+"1273";"Maria Fernanda Sanchez Silva";"Eliminación de Usuario Sistemas de Generación";1;1;1
+"1274";"Maria Fernanda Sanchez Silva";"Evaluación de Nuevo SI de Generación";2;2;1
+"1275";"Maria Fernanda Sanchez Silva";"Modificación de Usuario Sistemas de Distribución";1;0;0
+"1276";"Maria Fernanda Sanchez Silva";"Modificación de Usuario Sistemas de Generación";1;1;1
+"1277";"Maria Fernanda Sanchez Silva";"Parametrización Merc Mayorista";2;2;1
+"1278";"Maria Fernanda Sanchez Silva";"Parametrización Sistemas de Distribución";17;15;0,882352941176471
+"1279";"Maria Fernanda Sanchez Silva";"Parametrización Sistemas de Generación";1;0;0
+"1280";"Maria Fernanda Sanchez Silva";"Verificación de Inventario SSII";1;1;1
+"1281";"Maria Sanchez Fernandez- Usuario INDRA (ACIND075)";"Indra Esp-Atención de Requerimientos";18;18;1
+"1282";"Maria Sanchez Fernandez- Usuario INDRA (ACIND075)";"Indra Esp-Resolución de Incidentes";5;5;1
+"1283";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Análisis de Casos";30;0;0
+"1284";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Asesoría SAU Microinformática";1;0;0
+"1285";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Asesoría/Consulta funcional - Distribución";1;0;0
+"1286";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Asignación de Usuario Sistemas de Recursos";1;0;0
+"1287";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Oportunidad de Mejora";4;0;0
+"1288";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Restablecer Servicio de Kiosko Virtual";1;0;0
+"1289";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Restablecer Servicio de Navegación";1;0;0
+"1290";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Restablecer Servicio Windows";1;0;0
+"1291";"Marlin Eugenia Silva Escobar - Usuario INDRA (ACIND079)";"Soporte Interno Microinformática";1;1;1
+"1292";"MAS2";"Listas de Distribución Correo";1;1;1
+"1293";"MAS2";"Restablecer Servicio SW PC";1;0;0
+"1294";"Mesa de Ayuda y Servicio";"Configuración";1;0;0
+"1295";"Mesa de Ayuda y Servicio";"Configuración en Windows";1;0;0
+"1296";"Mesa de Ayuda y Servicio";"Desbloqueo Usuario/Cambio Contraseña SI de Recursos";1;1;1
+"1297";"Mesa de Ayuda y Servicio";"Gestion Cuentas de Correo";1;1;1
+"1298";"Mesa de Ayuda y Servicio";"Gestión Cuentas de Servicio";1;1;1
+"1299";"Mesa de Ayuda y Servicio";"Gestion Permisos Recurso Compartido";1;1;1
+"1300";"Mesa de Ayuda y Servicio";"Modificación de Usuario Sistemas de Recursos";1;0;0
+"1301";"Mesa de Ayuda y Servicio";"Procedimientos TI";1;1;1
+"1302";"Mileidy Toro Rueda";"Actualización Datos Distribución";24;0;0
+"1303";"Mileidy Toro Rueda";"Actualización Individual  Datos Comercial";39;2;0,0512820512820513
+"1304";"Mileidy Toro Rueda";"Actualización Masiva Datos Comercial";11;0;0
+"1305";"Mileidy Toro Rueda";"Análisis de Lentitud SI Comercial";1;0;0
+"1306";"Mileidy Toro Rueda";"Asesoría/Consulta Funcional - Comercial";22;1;0,0454545454545455
+"1307";"Mileidy Toro Rueda";"Asesoría/Consulta funcional - Distribución";6;0;0
+"1308";"Mileidy Toro Rueda";"Asignación de Usuario Distribución";5;0;0
+"1309";"Mileidy Toro Rueda";"Asignación de Usuario Sistemas Comerciales";66;0;0
+"1310";"Mileidy Toro Rueda";"Bloqueo Sistema Comercial SI Comercial";8;0;0
+"1311";"Mileidy Toro Rueda";"Corrección Errores de Conexión al Sistema SI Comercial";14;0;0
+"1312";"Mileidy Toro Rueda";"Corrección Errores de Conexión SI de Distribución";12;0;0
+"1313";"Mileidy Toro Rueda";"Corrección Errores de Funcionalidad SI Comercial";16;1;0,0625
+"1314";"Mileidy Toro Rueda";"Corrección Errores de Funcionalidad SI de Distribución";6;0;0
+"1315";"Mileidy Toro Rueda";"Creación de Perfil Sistemas Comerciales";1;0;0
+"1316";"Mileidy Toro Rueda";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";7;0;0
+"1317";"Mileidy Toro Rueda";"Eliminación de Usuario Sistemas Comerciales";31;0;0
+"1318";"Mileidy Toro Rueda";"Eliminación de Usuario Sistemas de Distribución";2;1;0,5
+"1319";"Mileidy Toro Rueda";"Errores de Conexión al Sistema SI Comercial";17;0;0
+"1320";"Mileidy Toro Rueda";"Errores de Funcionalidad SI Comercial";34;0;0
+"1321";"Mileidy Toro Rueda";"Modificación de Perfil Sistemas Comerciales";12;0;0
+"1322";"Mileidy Toro Rueda";"Modificación de Usuario Sistemas Comerciales";16;0;0
+"1323";"Mileidy Toro Rueda";"Modificación de Usuario Sistemas de Distribución";1;0;0
+"1324";"Mileidy Toro Rueda";"Parametrización Sistemas Comerciales";105;3;0,0285714285714286
+"1325";"Mileidy Toro Rueda";"Parametrización Sistemas de Distribución";10;0;0
+"1326";"Mileidy Toro Rueda";"Reportes o Extracción de Información SI Comercial";86;6;0,0697674418604651
+"1327";"Mileidy Toro Rueda";"Reportes o Extracción de Información SI de Distribución";4;0;0
+"1328";"Mileidy Toro Rueda";"Soporte Interno SSII de Comercial";62;0;0
+"1329";"Miller Navia - Usuario INDRA (ACIND017)";"Actualización SW PC";2;0;0
+"1330";"Miller Navia - Usuario INDRA (ACIND017)";"Desinstalación SW PC";1;0;0
+"1331";"Miller Navia - Usuario INDRA (ACIND017)";"Gestión de Excepciones";1;0;0
+"1332";"Miller Navia - Usuario INDRA (ACIND017)";"Restablecer APP Locker";1;1;1
+"1333";"Miller Navia - Usuario INDRA (ACIND017)";"Restablecer Servicio Videoconferencia";1;0;0
+"1334";"Miller Navia - Usuario INDRA (ACIND017)";"Restablecer Servicio Windows";2;0;0
+"1335";"Miller Navia - Usuario INDRA (ACIND017)";"Soporte Interno Microinformática";14;2;0,142857142857143
+"1336";"Operador MAS 1 (acind001)";"Acceso Red Visitantes";32;0;0
+"1337";"Operador MAS 1 (acind001)";"Acceso WiFi";6;0;0
+"1338";"Operador MAS 1 (acind001)";"Actualización SW PC";2;0;0
+"1339";"Operador MAS 1 (acind001)";"Asesoría SAU Microinformática";48;3;0,0625
+"1340";"Operador MAS 1 (acind001)";"Asesoría SAU Red y Correo";85;2;0,0235294117647059
+"1341";"Operador MAS 1 (acind001)";"Asesoría SAU Sistemas de Informacion";67;4;0,0597014925373134
+"1342";"Operador MAS 1 (acind001)";"Asesoría SAU Telefonía y Teleconferencia";3;0;0
+"1343";"Operador MAS 1 (acind001)";"Asignación Equipo";2;0;0
+"1344";"Operador MAS 1 (acind001)";"Asignación Telefonía Fija";1;0;0
+"1345";"Operador MAS 1 (acind001)";"Avance de Requerimientos";12;0;0
+"1346";"Operador MAS 1 (acind001)";"Bloqueos Frecuentes";4;1;0,25
+"1347";"Operador MAS 1 (acind001)";"Cambio Plan Telefonía Celular";5;0;0
+"1348";"Operador MAS 1 (acind001)";"Conexión Terceros";1;0;0
+"1349";"Operador MAS 1 (acind001)";"Configuración de Impresión";2;0;0
+"1350";"Operador MAS 1 (acind001)";"Configuración en Windows";7;2;0,285714285714286
+"1351";"Operador MAS 1 (acind001)";"Daño Equipos de Impresión y Digitalización";6;0;0
+"1352";"Operador MAS 1 (acind001)";"Desbloqueo Cuenta Red";321;11;0,0342679127725857
+"1353";"Operador MAS 1 (acind001)";"Desbloqueo Cuenta SSII SAU";185;3;0,0162162162162162
+"1354";"Operador MAS 1 (acind001)";"Gestion Cuentas de Correo";1;0;0
+"1355";"Operador MAS 1 (acind001)";"Gestión Cuentas de Red";28;3;0,107142857142857
+"1356";"Operador MAS 1 (acind001)";"Gestión de Servicios básicos de Redes";5;1;0,2
+"1357";"Operador MAS 1 (acind001)";"Gestion puesto de trabajo";4;2;0,5
+"1358";"Operador MAS 1 (acind001)";"Instalación SW PC";14;1;0,0714285714285714
+"1359";"Operador MAS 1 (acind001)";"Listas de Distribución Correo";12;4;0,333333333333333
+"1360";"Operador MAS 1 (acind001)";"Otros Procedimientos";16;0;0
+"1361";"Operador MAS 1 (acind001)";"Procedimientos TI";34;1;0,0294117647058824
+"1362";"Operador MAS 1 (acind001)";"Reporte de Elementos a Cargo";1;0;0
+"1363";"Operador MAS 1 (acind001)";"Reposición Equipo Telefonía Móvil";9;0;0
+"1364";"Operador MAS 1 (acind001)";"Restablecer Servicio Aplicación Publicada";138;3;0,0217391304347826
+"1365";"Operador MAS 1 (acind001)";"Restablecer Servicio de Telefonía Fija o Móvil";1;0;0
+"1366";"Operador MAS 1 (acind001)";"Restablecer Servicio Equipos/Periféricos";5;1;0,2
+"1367";"Operador MAS 1 (acind001)";"Restablecer Servicio Escritorio Virtual";1;0;0
+"1368";"Operador MAS 1 (acind001)";"Restablecer Servicio SW PC";266;7;0,0263157894736842
+"1369";"Operador MAS 1 (acind001)";"Restablecer Servicio Windows";80;6;0,075
+"1370";"Operador MAS 1 (acind001)";"Restablecimiento de Red";7;0;0
+"1371";"Operador MAS 1 (acind001)";"Soporte en línea SSII";13;0;0
+"1372";"Operador MAS 1 (acind001)";"Soporte en Línea SW";1;0;0
+"1373";"Operador MAS 2 (acind002)";"Asesoría SAU Red y Correo";2;1;0,5
+"1374";"Operador MAS 2 (acind002)";"Asesoría SAU Sistemas de Informacion";2;0;0
+"1375";"Operador MAS 2 (acind002)";"Asignación Telefonía Fija";2;0;0
+"1376";"Operador MAS 2 (acind002)";"Configuración en Windows";1;0;0
+"1377";"Operador MAS 2 (acind002)";"Desbloqueo Cuenta Red";1;0;0
+"1378";"Operador MAS 2 (acind002)";"Desbloqueo Cuenta SSII SAU";1;0;0
+"1379";"Operador MAS 2 (acind002)";"Desinstalación SW PC";1;0;0
+"1380";"Operador MAS 2 (acind002)";"Gestion Cuentas de Correo";1;0;0
+"1381";"Operador MAS 2 (acind002)";"Gestión Cuentas de Red";20;8;0,4
+"1382";"Operador MAS 2 (acind002)";"Gestión de Servicios básicos de Redes";4;0;0
+"1383";"Operador MAS 2 (acind002)";"Gestion puesto de trabajo";2;1;0,5
+"1384";"Operador MAS 2 (acind002)";"Liberar Puesto de Trabajo";5;0;0
+"1385";"Operador MAS 2 (acind002)";"Listas de Distribución Correo";1;0;0
+"1386";"Operador MAS 2 (acind002)";"Modificación de Usuario Sistemas de Recursos";1;0;0
+"1387";"Operador MAS 2 (acind002)";"Notificación Cambio Sede/Área";1;1;1
+"1388";"Operador MAS 2 (acind002)";"Otros Procedimientos";1;1;1
+"1389";"Operador MAS 2 (acind002)";"Procedimientos TI";7;1;0,142857142857143
+"1390";"Operador MAS 2 (acind002)";"Reporte de Elementos a Cargo";1;1;1
+"1391";"Operador MAS 2 (acind002)";"Restablecer Servicio Equipos/Periféricos";1;1;1
+"1392";"Operador MAS 2 (acind002)";"Restablecer Servicio SW PC";1;1;1
+"1393";"Operador MAS 2 (acind002)";"Servicios TI No Catalogados";1;1;1
+"1394";"Operador MAS 3 (acind003)";"Acceso Red Visitantes";17;1;0,0588235294117647
+"1395";"Operador MAS 3 (acind003)";"Acceso WiFi";4;0;0
+"1396";"Operador MAS 3 (acind003)";"Actualización SW PC";1;0;0
+"1397";"Operador MAS 3 (acind003)";"Asesoría SAU Microinformática";27;0;0
+"1398";"Operador MAS 3 (acind003)";"Asesoría SAU Red y Correo";34;0;0
+"1399";"Operador MAS 3 (acind003)";"Asesoría SAU Sistemas de Informacion";9;0;0
+"1400";"Operador MAS 3 (acind003)";"Asesoría SAU Telefonía y Teleconferencia";1;0;0
+"1401";"Operador MAS 3 (acind003)";"Avance de Requerimientos";8;1;0,125
+"1402";"Operador MAS 3 (acind003)";"Bloqueos Frecuentes";1;0;0
+"1403";"Operador MAS 3 (acind003)";"Cambio Plan Telefonía Celular";2;0;0
+"1404";"Operador MAS 3 (acind003)";"Configuración de Impresión";2;0;0
+"1405";"Operador MAS 3 (acind003)";"Configuración en Windows";1;0;0
+"1406";"Operador MAS 3 (acind003)";"Daño Equipos de Impresión y Digitalización";4;0;0
+"1407";"Operador MAS 3 (acind003)";"Desbloqueo Cuenta Red";94;11;0,117021276595745
+"1408";"Operador MAS 3 (acind003)";"Desbloqueo Cuenta SSII SAU";63;2;0,0317460317460317
+"1409";"Operador MAS 3 (acind003)";"Gestión Cuentas de Red";1;0;0
+"1410";"Operador MAS 3 (acind003)";"Gestión de Servicios básicos de Redes";7;0;0
+"1411";"Operador MAS 3 (acind003)";"Gestion Permisos Recurso Compartido";1;0;0
+"1412";"Operador MAS 3 (acind003)";"Instalación SW PC";13;1;0,0769230769230769
+"1413";"Operador MAS 3 (acind003)";"Listas de Distribución Correo";8;0;0
+"1414";"Operador MAS 3 (acind003)";"Otros Procedimientos";3;2;0,666666666666667
+"1415";"Operador MAS 3 (acind003)";"Procedimientos TI";2;0;0
+"1416";"Operador MAS 3 (acind003)";"Reposición Equipo Telefonía Móvil";2;0;0
+"1417";"Operador MAS 3 (acind003)";"Restablecer Servicio Aplicación Publicada";17;0;0
+"1418";"Operador MAS 3 (acind003)";"Restablecer Servicio Equipos/Periféricos";1;0;0
+"1419";"Operador MAS 3 (acind003)";"Restablecer Servicio SW PC";94;1;0,0106382978723404
+"1420";"Operador MAS 3 (acind003)";"Restablecer Servicio Windows";37;0;0
+"1421";"Operador MAS 3 (acind003)";"Restablecimiento de Red";1;0;0
+"1422";"Operador MAS 3 (acind003)";"Soporte en línea SSII";4;1;0,25
+"1423";"Operador MAS 4 (acind004)";"Acceso Red Visitantes";55;1;0,0181818181818182
+"1424";"Operador MAS 4 (acind004)";"Acceso WiFi";11;0;0
+"1425";"Operador MAS 4 (acind004)";"Actualización SW PC";5;0;0
+"1426";"Operador MAS 4 (acind004)";"Asesoría SAU Microinformática";96;4;0,0416666666666667
+"1427";"Operador MAS 4 (acind004)";"Asesoría SAU Red y Correo";37;2;0,0540540540540541
+"1428";"Operador MAS 4 (acind004)";"Asesoría SAU Sistemas de Informacion";35;3;0,0857142857142857
+"1429";"Operador MAS 4 (acind004)";"Asesoría SAU Telefonía y Teleconferencia";2;0;0
+"1430";"Operador MAS 4 (acind004)";"Asignación de Usuario Sistemas de Recursos";35;2;0,0571428571428571
+"1431";"Operador MAS 4 (acind004)";"Avance de Requerimientos";11;0;0
+"1432";"Operador MAS 4 (acind004)";"Bloqueos Frecuentes";10;0;0
+"1433";"Operador MAS 4 (acind004)";"Configuración de Impresión";2;0;0
+"1434";"Operador MAS 4 (acind004)";"Configuración en Windows";8;2;0,25
+"1435";"Operador MAS 4 (acind004)";"Daño Equipos de Impresión y Digitalización";3;0;0
+"1436";"Operador MAS 4 (acind004)";"Desbloqueo Cuenta Red";317;17;0,0536277602523659
+"1437";"Operador MAS 4 (acind004)";"Desbloqueo Cuenta SSII SAU";206;9;0,0436893203883495
+"1438";"Operador MAS 4 (acind004)";"Desbloqueo Usuario/Cambio Contraseña SI de Recursos";2;0;0
+"1439";"Operador MAS 4 (acind004)";"Eliminación de Usuario Sistemas de Recursos";5;0;0
+"1440";"Operador MAS 4 (acind004)";"Filtro Correo Corporativo";1;0;0
+"1441";"Operador MAS 4 (acind004)";"Gestion Cuentas de Correo";1;1;1
+"1442";"Operador MAS 4 (acind004)";"Gestión Cuentas de Red";9;2;0,222222222222222
+"1443";"Operador MAS 4 (acind004)";"Gestión de Servicios básicos de Redes";6;0;0
+"1444";"Operador MAS 4 (acind004)";"Gestión permisos Navegación";1;0;0
+"1445";"Operador MAS 4 (acind004)";"Instalación SW PC";18;2;0,111111111111111
+"1446";"Operador MAS 4 (acind004)";"Listas de Distribución Correo";8;0;0
+"1447";"Operador MAS 4 (acind004)";"Modificación de Usuario Sistemas de Recursos";1;1;1
+"1448";"Operador MAS 4 (acind004)";"Monitoreo Enlace Videoseguridad";1;0;0
+"1449";"Operador MAS 4 (acind004)";"Otros Procedimientos";12;0;0
+"1450";"Operador MAS 4 (acind004)";"Procedimientos TI";37;3;0,0810810810810811
+"1451";"Operador MAS 4 (acind004)";"Reporte de Elementos a Cargo";1;0;0
+"1452";"Operador MAS 4 (acind004)";"Reposición Equipo Telefonía Móvil";5;0;0
+"1453";"Operador MAS 4 (acind004)";"Restablecer Servicio Aplicación Publicada";103;2;0,0194174757281553
+"1454";"Operador MAS 4 (acind004)";"Restablecer Servicio Equipos/Periféricos";8;0;0
+"1455";"Operador MAS 4 (acind004)";"Restablecer Servicio Escritorio Virtual";2;0;0
+"1456";"Operador MAS 4 (acind004)";"Restablecer Servicio SW PC";263;9;0,0342205323193916
+"1457";"Operador MAS 4 (acind004)";"Restablecer Servicio Windows";188;9;0,0478723404255319
+"1458";"Operador MAS 4 (acind004)";"Soporte en línea SSII";30;0;0
+"1459";"Operador MAS 4 (acind004)";"Soporte en Línea SW";2;1;0,5
+"1460";"Operador MAS 4 (acind004)";"Soporte en Línea Telefonía";2;1;0,5
+"1461";"Operador MAS 5 (acind005)";"Acceso Red Visitantes";53;0;0
+"1462";"Operador MAS 5 (acind005)";"Acceso WiFi";8;0;0
+"1463";"Operador MAS 5 (acind005)";"Actualización SW PC";6;0;0
+"1464";"Operador MAS 5 (acind005)";"Alistamiento Sala de Formación";1;0;0
+"1465";"Operador MAS 5 (acind005)";"Asesoría SAU Microinformática";84;0;0
+"1466";"Operador MAS 5 (acind005)";"Asesoría SAU Red y Correo";85;0;0
+"1467";"Operador MAS 5 (acind005)";"Asesoría SAU Sistemas de Informacion";80;1;0,0125
+"1468";"Operador MAS 5 (acind005)";"Asesoría SAU Telefonía y Teleconferencia";9;0;0
+"1469";"Operador MAS 5 (acind005)";"Asignación de Usuario Sistemas de Recursos";1;0;0
+"1470";"Operador MAS 5 (acind005)";"Asignación Equipo";4;0;0
+"1471";"Operador MAS 5 (acind005)";"Asignación Telefonía Móvil";1;0;0
+"1472";"Operador MAS 5 (acind005)";"Avance de Requerimientos";34;0;0
+"1473";"Operador MAS 5 (acind005)";"Bloqueos Frecuentes";10;1;0,1
+"1474";"Operador MAS 5 (acind005)";"Configuración";1;0;0
+"1475";"Operador MAS 5 (acind005)";"Configuración de Impresión";2;0;0
+"1476";"Operador MAS 5 (acind005)";"Configuración en Windows";11;3;0,272727272727273
+"1477";"Operador MAS 5 (acind005)";"Daño Equipos de Impresión y Digitalización";5;1;0,2
+"1478";"Operador MAS 5 (acind005)";"Desbloqueo Cuenta Red";557;12;0,0215439856373429
+"1479";"Operador MAS 5 (acind005)";"Desbloqueo Cuenta SSII SAU";282;5;0,0177304964539007
+"1480";"Operador MAS 5 (acind005)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";2;0;0
+"1481";"Operador MAS 5 (acind005)";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";1;0;0
+"1482";"Operador MAS 5 (acind005)";"Gestión Cuentas de Red";16;2;0,125
+"1483";"Operador MAS 5 (acind005)";"Gestión de Servicios básicos de Redes";9;0;0
+"1484";"Operador MAS 5 (acind005)";"Gestión Permisos VPN";1;0;0
+"1485";"Operador MAS 5 (acind005)";"Gestion puesto de trabajo";2;0;0
+"1486";"Operador MAS 5 (acind005)";"Instalación SW PC";25;0;0
+"1487";"Operador MAS 5 (acind005)";"Listas de Distribución Correo";16;0;0
+"1488";"Operador MAS 5 (acind005)";"Mantenimiento Kiosko Virtual";2;0;0
+"1489";"Operador MAS 5 (acind005)";"Monitoreo y soporte Virtualización";4;0;0
+"1490";"Operador MAS 5 (acind005)";"Otros Procedimientos";14;0;0
+"1491";"Operador MAS 5 (acind005)";"Procedimientos TI";31;0;0
+"1492";"Operador MAS 5 (acind005)";"Reporte de Elementos a Cargo";5;0;0
+"1493";"Operador MAS 5 (acind005)";"Reposición Equipo Telefonía Móvil";8;0;0
+"1494";"Operador MAS 5 (acind005)";"Restablecer Servicio Aplicación Publicada";133;6;0,0451127819548872
+"1495";"Operador MAS 5 (acind005)";"Restablecer Servicio Equipos/Periféricos";3;1;0,333333333333333
+"1496";"Operador MAS 5 (acind005)";"Restablecer Servicio Escritorio Virtual";3;1;0,333333333333333
+"1497";"Operador MAS 5 (acind005)";"Restablecer Servicio SW PC";328;6;0,0182926829268293
+"1498";"Operador MAS 5 (acind005)";"Restablecer Servicio Windows";150;3;0,02
+"1499";"Operador MAS 5 (acind005)";"Restablecimiento de Red";17;0;0
+"1500";"Operador MAS 5 (acind005)";"Soporte en línea SSII";20;1;0,05
+"1501";"Operador MAS 6 (acind006)";"Acceso Red Visitantes";69;11;0,159420289855072
+"1502";"Operador MAS 6 (acind006)";"Acceso WiFi";29;1;0,0344827586206897
+"1503";"Operador MAS 6 (acind006)";"Actualización SW PC";19;0;0
+"1504";"Operador MAS 6 (acind006)";"Alistamiento Sala de Reuniones o Auditorio";1;0;0
+"1505";"Operador MAS 6 (acind006)";"Asesoría Office";1;0;0
+"1506";"Operador MAS 6 (acind006)";"Asesoría SAU Microinformática";92;4;0,0434782608695652
+"1507";"Operador MAS 6 (acind006)";"Asesoría SAU Red y Correo";106;5;0,0471698113207547
+"1508";"Operador MAS 6 (acind006)";"Asesoría SAU Sistemas de Informacion";90;6;0,0666666666666667
+"1509";"Operador MAS 6 (acind006)";"Asignación Equipo";7;0;0
+"1510";"Operador MAS 6 (acind006)";"Asignación Telefonía Fija";2;0;0
+"1511";"Operador MAS 6 (acind006)";"Avance de Requerimientos";18;0;0
+"1512";"Operador MAS 6 (acind006)";"Bloqueos Frecuentes";34;0;0
+"1513";"Operador MAS 6 (acind006)";"Cambio Plan Telefonía Celular";8;0;0
+"1514";"Operador MAS 6 (acind006)";"Comunicación Unificada (Lync)";1;0;0
+"1515";"Operador MAS 6 (acind006)";"Configuración";2;1;0,5
+"1516";"Operador MAS 6 (acind006)";"Configuración de Impresión";20;0;0
+"1517";"Operador MAS 6 (acind006)";"Configuración en Windows";41;3;0,0731707317073171
+"1518";"Operador MAS 6 (acind006)";"Daño Equipos de Impresión y Digitalización";12;1;0,0833333333333333
+"1519";"Operador MAS 6 (acind006)";"Desbloqueo Cuenta Red";480;12;0,025
+"1520";"Operador MAS 6 (acind006)";"Desbloqueo Cuenta SSII SAU";341;19;0,0557184750733138
+"1521";"Operador MAS 6 (acind006)";"Filtro Correo Corporativo";1;0;0
+"1522";"Operador MAS 6 (acind006)";"Gestion Cuentas de Correo";3;0;0
+"1523";"Operador MAS 6 (acind006)";"Gestión Cuentas de Red";279;17;0,0609318996415771
+"1524";"Operador MAS 6 (acind006)";"Gestión de Servicios básicos de Redes";11;0;0
+"1525";"Operador MAS 6 (acind006)";"Gestión permisos Navegación";1;0;0
+"1526";"Operador MAS 6 (acind006)";"Gestión Permisos VPN";2;0;0
+"1527";"Operador MAS 6 (acind006)";"Gestion puesto de trabajo";138;0;0
+"1528";"Operador MAS 6 (acind006)";"Instalación SW PC";53;2;0,0377358490566038
+"1529";"Operador MAS 6 (acind006)";"Liberar Puesto de Trabajo";47;0;0
+"1530";"Operador MAS 6 (acind006)";"Listas de Distribución Correo";101;0;0
+"1531";"Operador MAS 6 (acind006)";"Notificación Cambio Sede/Área";5;0;0
+"1532";"Operador MAS 6 (acind006)";"Otros Procedimientos";17;0;0
+"1533";"Operador MAS 6 (acind006)";"Procedimientos TI";35;2;0,0571428571428571
+"1534";"Operador MAS 6 (acind006)";"Reporte de Elementos a Cargo";2;0;0
+"1535";"Operador MAS 6 (acind006)";"Reposición Equipo Telefonía Fija";4;0;0
+"1536";"Operador MAS 6 (acind006)";"Reposición Equipo Telefonía Móvil";12;0;0
+"1537";"Operador MAS 6 (acind006)";"Restablecer Servicio Aplicación Publicada";114;2;0,0175438596491228
+"1538";"Operador MAS 6 (acind006)";"Restablecer Servicio de Telefonía Fija";1;0;0
+"1539";"Operador MAS 6 (acind006)";"Restablecer Servicio de Telefonía Fija o Móvil";2;0;0
+"1540";"Operador MAS 6 (acind006)";"Restablecer Servicio Equipos/Periféricos";5;0;0
+"1541";"Operador MAS 6 (acind006)";"Restablecer Servicio Escritorio Virtual";1;0;0
+"1542";"Operador MAS 6 (acind006)";"Restablecer Servicio SW PC";280;3;0,0107142857142857
+"1543";"Operador MAS 6 (acind006)";"Restablecer Servicio Windows";159;2;0,0125786163522013
+"1544";"Operador MAS 6 (acind006)";"Restablecimiento de Red";2;0;0
+"1545";"Operador MAS 6 (acind006)";"Servicios TI No Catalogados";1;0;0
+"1546";"Operador MAS 6 (acind006)";"Soporte en línea SSII";57;1;0,0175438596491228
+"1547";"Operador MAS 6 (acind006)";"Soporte en Línea SW";13;0;0
+"1548";"Operador MAS 6 (acind006)";"Traslado Equipo";1;0;0
+"1549";"Operador MAS 6 (acind006)";"Traslado Telefonía Fija";1;0;0
+"1550";"Operador MAS 6 (acind006)";"Traspaso Telefonía Móvil";2;0;0
+"1551";"Operador MAS 7 (acind007)";"Acceso Red Visitantes";76;2;0,0263157894736842
+"1552";"Operador MAS 7 (acind007)";"Acceso WiFi";11;0;0
+"1553";"Operador MAS 7 (acind007)";"Actualización SW PC";11;0;0
+"1554";"Operador MAS 7 (acind007)";"Alistamiento Sala de Formación";1;0;0
+"1555";"Operador MAS 7 (acind007)";"Asesoría SAU Microinformática";111;3;0,027027027027027
+"1556";"Operador MAS 7 (acind007)";"Asesoría SAU Red y Correo";53;0;0
+"1557";"Operador MAS 7 (acind007)";"Asesoría SAU Sistemas de Informacion";99;4;0,0404040404040404
+"1558";"Operador MAS 7 (acind007)";"Asesoría/Consulta Funcional - Recursos";1;0;0
+"1559";"Operador MAS 7 (acind007)";"Asignación Equipo";3;0;0
+"1560";"Operador MAS 7 (acind007)";"Asignación Telefonía Móvil";2;0;0
+"1561";"Operador MAS 7 (acind007)";"Avance de Requerimientos";22;2;0,0909090909090909
+"1562";"Operador MAS 7 (acind007)";"Bloqueos Frecuentes";12;0;0
+"1563";"Operador MAS 7 (acind007)";"Cambio Plan Telefonía Celular";5;0;0
+"1564";"Operador MAS 7 (acind007)";"Configuración";4;1;0,25
+"1565";"Operador MAS 7 (acind007)";"Configuración de Impresión";1;0;0
+"1566";"Operador MAS 7 (acind007)";"Configuración en Windows";45;2;0,0444444444444444
+"1567";"Operador MAS 7 (acind007)";"Corrección Errores de Conexión SI de Recursos";2;0;0
+"1568";"Operador MAS 7 (acind007)";"Daño Equipos de Impresión y Digitalización";2;0;0
+"1569";"Operador MAS 7 (acind007)";"Desbloqueo Cuenta Red";524;28;0,0534351145038168
+"1570";"Operador MAS 7 (acind007)";"Desbloqueo Cuenta SSII SAU";280;9;0,0321428571428571
+"1571";"Operador MAS 7 (acind007)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";2;0;0
+"1572";"Operador MAS 7 (acind007)";"Eliminación de Usuario Sistemas de Recursos";2;0;0
+"1573";"Operador MAS 7 (acind007)";"Gestion Cuentas de Correo";2;0;0
+"1574";"Operador MAS 7 (acind007)";"Gestión Cuentas de Red";45;2;0,0444444444444444
+"1575";"Operador MAS 7 (acind007)";"Gestión de Servicios básicos de Redes";10;3;0,3
+"1576";"Operador MAS 7 (acind007)";"Gestión permisos Navegación";1;0;0
+"1577";"Operador MAS 7 (acind007)";"Gestion Permisos Recurso Compartido";4;1;0,25
+"1578";"Operador MAS 7 (acind007)";"Gestión Permisos VPN";1;1;1
+"1579";"Operador MAS 7 (acind007)";"Gestion puesto de trabajo";1;0;0
+"1580";"Operador MAS 7 (acind007)";"Instalación SW PC";18;1;0,0555555555555556
+"1581";"Operador MAS 7 (acind007)";"Liberar Puesto de Trabajo";147;0;0
+"1582";"Operador MAS 7 (acind007)";"Listas de Distribución Correo";19;3;0,157894736842105
+"1583";"Operador MAS 7 (acind007)";"Mantenimiento Kiosko Virtual";2;0;0
+"1584";"Operador MAS 7 (acind007)";"Monitoreo y soporte Virtualización";1;1;1
+"1585";"Operador MAS 7 (acind007)";"Otros Procedimientos";22;1;0,0454545454545455
+"1586";"Operador MAS 7 (acind007)";"Procedimientos TI";42;2;0,0476190476190476
+"1587";"Operador MAS 7 (acind007)";"Reporte de Elementos a Cargo";3;0;0
+"1588";"Operador MAS 7 (acind007)";"Reposición Equipo Telefonía Móvil";5;0;0
+"1589";"Operador MAS 7 (acind007)";"Restablecer Servicio Aplicación Publicada";134;0;0
+"1590";"Operador MAS 7 (acind007)";"Restablecer Servicio Equipos/Periféricos";6;0;0
+"1591";"Operador MAS 7 (acind007)";"Restablecer Servicio Escritorio Virtual";17;0;0
+"1592";"Operador MAS 7 (acind007)";"Restablecer Servicio Red Datos";1;0;0
+"1593";"Operador MAS 7 (acind007)";"Restablecer Servicio Red Inalámbrica";1;0;0
+"1594";"Operador MAS 7 (acind007)";"Restablecer Servicio SW PC";293;6;0,0204778156996587
+"1595";"Operador MAS 7 (acind007)";"Restablecer Servicio Telecontrol";1;0;0
+"1596";"Operador MAS 7 (acind007)";"Restablecer Servicio Windows";245;9;0,036734693877551
+"1597";"Operador MAS 7 (acind007)";"Restablecimiento de Red";1;0;0
+"1598";"Operador MAS 7 (acind007)";"Soporte en Línea HW";8;0;0
+"1599";"Operador MAS 7 (acind007)";"Soporte en línea SSII";41;1;0,024390243902439
+"1600";"Operador MAS 7 (acind007)";"Soporte en Línea SW";9;0;0
+"1601";"Operador MAS 7 (acind007)";"Soporte en Línea Telefonía";2;0;0
+"1602";"Operador SAU 1 (acind001)";"Acceso Red Visitantes";63;3;0,0476190476190476
+"1603";"Operador SAU 1 (acind001)";"Acceso WiFi";13;0;0
+"1604";"Operador SAU 1 (acind001)";"Actualización SW PC";20;0;0
+"1605";"Operador SAU 1 (acind001)";"Alistamiento Sala de Formación";1;0;0
+"1606";"Operador SAU 1 (acind001)";"Asesoría Office";5;0;0
+"1607";"Operador SAU 1 (acind001)";"Asesoría SAU Microinformática";170;11;0,0647058823529412
+"1608";"Operador SAU 1 (acind001)";"Asesoría SAU Red y Correo";219;19;0,0867579908675799
+"1609";"Operador SAU 1 (acind001)";"Asesoría SAU Sistemas de Informacion";252;19;0,0753968253968254
+"1610";"Operador SAU 1 (acind001)";"Asesoría SAU Telefonía y Teleconferencia";13;0;0
+"1611";"Operador SAU 1 (acind001)";"Asignación Equipo";9;0;0
+"1612";"Operador SAU 1 (acind001)";"Asignación Telefonía Fija";3;0;0
+"1613";"Operador SAU 1 (acind001)";"Asignación Telefonía Móvil";1;0;0
+"1614";"Operador SAU 1 (acind001)";"Avance de Requerimientos";61;5;0,0819672131147541
+"1615";"Operador SAU 1 (acind001)";"Bloqueos Frecuentes";7;0;0
+"1616";"Operador SAU 1 (acind001)";"Cambio Plan Telefonía Celular";5;0;0
+"1617";"Operador SAU 1 (acind001)";"Conexión Terceros";2;0;0
+"1618";"Operador SAU 1 (acind001)";"Configuración";3;0;0
+"1619";"Operador SAU 1 (acind001)";"Configuración de Impresión";3;1;0,333333333333333
+"1620";"Operador SAU 1 (acind001)";"Configuración en Windows";62;1;0,0161290322580645
+"1621";"Operador SAU 1 (acind001)";"Corrección en Autorizaciones SI Comercial";1;0;0
+"1622";"Operador SAU 1 (acind001)";"Daño Equipos de Impresión y Digitalización";12;1;0,0833333333333333
+"1623";"Operador SAU 1 (acind001)";"Desbloqueo Cuenta Red";558;33;0,0591397849462366
+"1624";"Operador SAU 1 (acind001)";"Desbloqueo Cuenta SSII SAU";367;20;0,0544959128065395
+"1625";"Operador SAU 1 (acind001)";"Desbloqueo en Calidad de Jefe";4;1;0,25
+"1626";"Operador SAU 1 (acind001)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";1;0;0
+"1627";"Operador SAU 1 (acind001)";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";1;0;0
+"1628";"Operador SAU 1 (acind001)";"Gestion Cuentas de Correo";4;0;0
+"1629";"Operador SAU 1 (acind001)";"Gestión Cuentas de Red";49;2;0,0408163265306122
+"1630";"Operador SAU 1 (acind001)";"Gestión de Servicios básicos de Redes";12;1;0,0833333333333333
+"1631";"Operador SAU 1 (acind001)";"Gestión permisos Navegación";3;0;0
+"1632";"Operador SAU 1 (acind001)";"Gestion Permisos Recurso Compartido";1;0;0
+"1633";"Operador SAU 1 (acind001)";"Gestión Permisos VPN";4;0;0
+"1634";"Operador SAU 1 (acind001)";"Gestion puesto de trabajo";5;1;0,2
+"1635";"Operador SAU 1 (acind001)";"Instalación SW PC";49;5;0,102040816326531
+"1636";"Operador SAU 1 (acind001)";"Liberar Puesto de Trabajo";17;0;0
+"1637";"Operador SAU 1 (acind001)";"Listas de Distribución Correo";25;3;0,12
+"1638";"Operador SAU 1 (acind001)";"Monitoreo y soporte Virtualización";14;2;0,142857142857143
+"1639";"Operador SAU 1 (acind001)";"Notificación Cambio Sede/Área";3;2;0,666666666666667
+"1640";"Operador SAU 1 (acind001)";"Otros Procedimientos";22;0;0
+"1641";"Operador SAU 1 (acind001)";"Procedimientos TI";159;11;0,0691823899371069
+"1642";"Operador SAU 1 (acind001)";"Reporte de Elementos a Cargo";9;4;0,444444444444444
+"1643";"Operador SAU 1 (acind001)";"Reposición Equipo Telefonía Móvil";11;0;0
+"1644";"Operador SAU 1 (acind001)";"Restablecer Servicio Aplicación Publicada";229;13;0,0567685589519651
+"1645";"Operador SAU 1 (acind001)";"Restablecer Servicio Equipos de Impresión y Digitalización";13;1;0,0769230769230769
+"1646";"Operador SAU 1 (acind001)";"Restablecer Servicio Equipos/Periféricos";15;0;0
+"1647";"Operador SAU 1 (acind001)";"Restablecer Servicio Escritorio Virtual";6;0;0
+"1648";"Operador SAU 1 (acind001)";"Restablecer Servicio SW PC";381;19;0,0498687664041995
+"1649";"Operador SAU 1 (acind001)";"Restablecer Servicio Windows";218;11;0,0504587155963303
+"1650";"Operador SAU 1 (acind001)";"Restablecimiento de Red";45;4;0,0888888888888889
+"1651";"Operador SAU 1 (acind001)";"Soporte en línea SSII";14;0;0
+"1652";"Operador SAU 1 (acind001)";"Traslado Equipo";1;0;0
+"1653";"Operador SAU 1 (acind001)";"Traslado Telefonía Fija";2;0;0
+"1654";"Operador SAU 1 (acind001)";"Traspaso Licencia";2;0;0
+"1655";"Operador SAU 2 (acind002)";"Acceso Red Visitantes";1;1;1
+"1656";"Operador SAU 2 (acind002)";"Actualización SW PC";1;0;0
+"1657";"Operador SAU 2 (acind002)";"Asesoría SAU Red y Correo";7;1;0,142857142857143
+"1658";"Operador SAU 2 (acind002)";"Asesoría SAU Sistemas de Informacion";1;0;0
+"1659";"Operador SAU 2 (acind002)";"Asignación de Usuario Sistemas Comerciales";1;0;0
+"1660";"Operador SAU 2 (acind002)";"Asignación Equipo";3;0;0
+"1661";"Operador SAU 2 (acind002)";"Avance de Requerimientos";7;1;0,142857142857143
+"1662";"Operador SAU 2 (acind002)";"Desbloqueo Cuenta Red";2;0;0
+"1663";"Operador SAU 2 (acind002)";"Desbloqueo Cuenta SSII SAU";4;0;0
+"1664";"Operador SAU 2 (acind002)";"Desbloqueo en Calidad de Jefe";1;1;1
+"1665";"Operador SAU 2 (acind002)";"Generación - Reporte - Telefonía";1;0;0
+"1666";"Operador SAU 2 (acind002)";"Gestion Cuentas de Correo";2;0;0
+"1667";"Operador SAU 2 (acind002)";"Gestión Cuentas de Red";25;5;0,2
+"1668";"Operador SAU 2 (acind002)";"Gestión de Servicios básicos de Redes";10;3;0,3
+"1669";"Operador SAU 2 (acind002)";"Gestión permisos Navegación";1;0;0
+"1670";"Operador SAU 2 (acind002)";"Gestión Permisos VPN";2;0;0
+"1671";"Operador SAU 2 (acind002)";"Gestion puesto de trabajo";8;2;0,25
+"1672";"Operador SAU 2 (acind002)";"Instalación SW PC";5;1;0,2
+"1673";"Operador SAU 2 (acind002)";"Liberar Puesto de Trabajo";15;0;0
+"1674";"Operador SAU 2 (acind002)";"Listas de Distribución Correo";6;1;0,166666666666667
+"1675";"Operador SAU 2 (acind002)";"Monitoreo y soporte Virtualización";1;0;0
+"1676";"Operador SAU 2 (acind002)";"Notificación Cambio Sede/Área";3;0;0
+"1677";"Operador SAU 2 (acind002)";"Otros Procedimientos";3;2;0,666666666666667
+"1678";"Operador SAU 2 (acind002)";"Postulación Articulo a BD Conocimiento";1;1;1
+"1679";"Operador SAU 2 (acind002)";"Procedimientos TI";8;1;0,125
+"1680";"Operador SAU 2 (acind002)";"Reporte de Elementos a Cargo";3;3;1
+"1681";"Operador SAU 2 (acind002)";"Reposición Equipo Telefonía Móvil";1;0;0
+"1682";"Operador SAU 2 (acind002)";"Restablecer Servicio Equipos/Periféricos";2;1;0,5
+"1683";"Operador SAU 2 (acind002)";"Restablecer Servicio SW PC";1;0;0
+"1684";"Operador SAU 2 (acind002)";"Servicios TI No Catalogados";4;0;0
+"1685";"Operador SAU 2 (acind002)";"Soporte en línea SSII";3;1;0,333333333333333
+"1686";"Operador SAU 2 (acind002)";"Traspaso Telefonía Fija";1;1;1
+"1687";"Operador SAU 4 (acind004)";"Acceso Red Visitantes";54;5;0,0925925925925926
+"1688";"Operador SAU 4 (acind004)";"Acceso WiFi";21;1;0,0476190476190476
+"1689";"Operador SAU 4 (acind004)";"Actualización SW PC";6;0;0
+"1690";"Operador SAU 4 (acind004)";"Alistamiento Sala de Reuniones o Auditorio";1;0;0
+"1691";"Operador SAU 4 (acind004)";"Asesoría SAU Microinformática";157;7;0,0445859872611465
+"1692";"Operador SAU 4 (acind004)";"Asesoría SAU Red y Correo";125;11;0,088
+"1693";"Operador SAU 4 (acind004)";"Asesoría SAU Sistemas de Informacion";157;8;0,0509554140127389
+"1694";"Operador SAU 4 (acind004)";"Asesoría SAU Telefonía y Teleconferencia";1;1;1
+"1695";"Operador SAU 4 (acind004)";"Asignación de Usuario Sistemas de Recursos";1;0;0
+"1696";"Operador SAU 4 (acind004)";"Asignación Equipo";2;0;0
+"1697";"Operador SAU 4 (acind004)";"Asignación Telefonía Móvil";8;0;0
+"1698";"Operador SAU 4 (acind004)";"Avance de Requerimientos";32;4;0,125
+"1699";"Operador SAU 4 (acind004)";"Bloqueo Sistema Comercial SI Comercial";1;0;0
+"1700";"Operador SAU 4 (acind004)";"Bloqueos Frecuentes";7;2;0,285714285714286
+"1701";"Operador SAU 4 (acind004)";"Cambio Plan Telefonía Celular";2;0;0
+"1702";"Operador SAU 4 (acind004)";"Conexión Terceros";1;0;0
+"1703";"Operador SAU 4 (acind004)";"Configuración de Impresión";8;1;0,125
+"1704";"Operador SAU 4 (acind004)";"Configuración en Windows";32;2;0,0625
+"1705";"Operador SAU 4 (acind004)";"Daño Equipos de Impresión y Digitalización";2;0;0
+"1706";"Operador SAU 4 (acind004)";"Desbloqueo Cuenta Red";441;48;0,108843537414966
+"1707";"Operador SAU 4 (acind004)";"Desbloqueo Cuenta SSII SAU";300;26;0,0866666666666667
+"1708";"Operador SAU 4 (acind004)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";5;0;0
+"1709";"Operador SAU 4 (acind004)";"Desinstalación SW PC";3;0;0
+"1710";"Operador SAU 4 (acind004)";"Errores de Conexión al Sistema SI Comercial";1;0;0
+"1711";"Operador SAU 4 (acind004)";"Gestion Cuentas de Correo";2;1;0,5
+"1712";"Operador SAU 4 (acind004)";"Gestión Cuentas de Red";42;5;0,119047619047619
+"1713";"Operador SAU 4 (acind004)";"Gestión de Servicios básicos de Redes";13;0;0
+"1714";"Operador SAU 4 (acind004)";"Gestión Permisos VPN";3;1;0,333333333333333
+"1715";"Operador SAU 4 (acind004)";"Gestion puesto de trabajo";1;0;0
+"1716";"Operador SAU 4 (acind004)";"Instalación SW PC";41;10;0,24390243902439
+"1717";"Operador SAU 4 (acind004)";"Listas de Distribución Correo";30;0;0
+"1718";"Operador SAU 4 (acind004)";"Mantenimiento Kiosko Virtual";1;0;0
+"1719";"Operador SAU 4 (acind004)";"Monitoreo y soporte Virtualización";6;0;0
+"1720";"Operador SAU 4 (acind004)";"Otros Procedimientos";49;2;0,0408163265306122
+"1721";"Operador SAU 4 (acind004)";"Procedimientos TI";90;8;0,0888888888888889
+"1722";"Operador SAU 4 (acind004)";"Reporte de Elementos a Cargo";3;0;0
+"1723";"Operador SAU 4 (acind004)";"Reposición Equipo Telefonía Fija";1;0;0
+"1724";"Operador SAU 4 (acind004)";"Reposición Equipo Telefonía Móvil";12;0;0
+"1725";"Operador SAU 4 (acind004)";"Restablecer Servicio Aplicación Publicada";130;7;0,0538461538461538
+"1726";"Operador SAU 4 (acind004)";"Restablecer Servicio Equipos de Impresión y Digitalización";2;1;0,5
+"1727";"Operador SAU 4 (acind004)";"Restablecer Servicio Equipos/Periféricos";14;0;0
+"1728";"Operador SAU 4 (acind004)";"Restablecer Servicio Escritorio Virtual";4;0;0
+"1729";"Operador SAU 4 (acind004)";"Restablecer Servicio SW PC";275;12;0,0436363636363636
+"1730";"Operador SAU 4 (acind004)";"Restablecer Servicio Windows";176;7;0,0397727272727273
+"1731";"Operador SAU 4 (acind004)";"Restablecimiento de Red";11;1;0,0909090909090909
+"1732";"Operador SAU 4 (acind004)";"Restablecimiento de Red (Segundo Nivel)";1;0;0
+"1733";"Operador SAU 4 (acind004)";"Servicios TI No Catalogados";7;0;0
+"1734";"Operador SAU 4 (acind004)";"Soporte en línea SSII";5;1;0,2
+"1735";"Operador SAU 4 (acind004)";"Soporte en Línea SW";3;0;0
+"1736";"Operador SAU 4 (acind004)";"Soporte en Línea Telefonía";1;0;0
+"1737";"Operador SAU 4 (acind004)";"Traslado Equipo";1;0;0
+"1738";"Operador SAU 5 (acind005)";"Acceso Red Visitantes";70;4;0,0571428571428571
+"1739";"Operador SAU 5 (acind005)";"Acceso WiFi";18;0;0
+"1740";"Operador SAU 5 (acind005)";"Actualización SW PC";3;0;0
+"1741";"Operador SAU 5 (acind005)";"Asesoría SAU Microinformática";71;0;0
+"1742";"Operador SAU 5 (acind005)";"Asesoría SAU Red y Correo";100;2;0,02
+"1743";"Operador SAU 5 (acind005)";"Asesoría SAU Sistemas de Informacion";183;2;0,0109289617486339
+"1744";"Operador SAU 5 (acind005)";"Asesoría SAU Telefonía y Teleconferencia";13;0;0
+"1745";"Operador SAU 5 (acind005)";"Asignación Equipo";2;0;0
+"1746";"Operador SAU 5 (acind005)";"Asignación Telefonía Fija";2;0;0
+"1747";"Operador SAU 5 (acind005)";"Asignación Telefonía Móvil";1;0;0
+"1748";"Operador SAU 5 (acind005)";"Avance de Requerimientos";85;1;0,0117647058823529
+"1749";"Operador SAU 5 (acind005)";"Bloqueos Frecuentes";11;1;0,0909090909090909
+"1750";"Operador SAU 5 (acind005)";"Cambio Plan Telefonía Celular";5;0;0
+"1751";"Operador SAU 5 (acind005)";"Comunicación Unificada (Lync)";1;0;0
+"1752";"Operador SAU 5 (acind005)";"Conexión Terceros";2;0;0
+"1753";"Operador SAU 5 (acind005)";"Configuración de Impresión";18;6;0,333333333333333
+"1754";"Operador SAU 5 (acind005)";"Configuración en Windows";36;2;0,0555555555555556
+"1755";"Operador SAU 5 (acind005)";"Daño Equipos de Impresión y Digitalización";4;0;0
+"1756";"Operador SAU 5 (acind005)";"Desbloqueo Cuenta Red";569;21;0,0369068541300527
+"1757";"Operador SAU 5 (acind005)";"Desbloqueo Cuenta SSII SAU";427;8;0,0187353629976581
+"1758";"Operador SAU 5 (acind005)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";1;0;0
+"1759";"Operador SAU 5 (acind005)";"Filtro Correo Corporativo";1;0;0
+"1760";"Operador SAU 5 (acind005)";"Gestion Cuentas de Correo";4;1;0,25
+"1761";"Operador SAU 5 (acind005)";"Gestión Cuentas de Red";44;7;0,159090909090909
+"1762";"Operador SAU 5 (acind005)";"Gestión de Servicios básicos de Redes";9;0;0
+"1763";"Operador SAU 5 (acind005)";"Gestión Permisos FTP";4;0;0
+"1764";"Operador SAU 5 (acind005)";"Gestión permisos Navegación";1;0;0
+"1765";"Operador SAU 5 (acind005)";"Gestión Permisos VPN";3;1;0,333333333333333
+"1766";"Operador SAU 5 (acind005)";"Gestion puesto de trabajo";2;0;0
+"1767";"Operador SAU 5 (acind005)";"Instalación SW PC";31;2;0,0645161290322581
+"1768";"Operador SAU 5 (acind005)";"Liberar Puesto de Trabajo";3;0;0
+"1769";"Operador SAU 5 (acind005)";"Listas de Distribución Correo";18;1;0,0555555555555556
+"1770";"Operador SAU 5 (acind005)";"Mantenimiento Kiosko Virtual";1;0;0
+"1771";"Operador SAU 5 (acind005)";"Monitoreo y soporte Virtualización";5;0;0
+"1772";"Operador SAU 5 (acind005)";"Notificación Cambio Sede/Área";1;1;1
+"1773";"Operador SAU 5 (acind005)";"Otros Procedimientos";25;1;0,04
+"1774";"Operador SAU 5 (acind005)";"Procedimientos TI";47;2;0,0425531914893617
+"1775";"Operador SAU 5 (acind005)";"Reporte de Elementos a Cargo";6;1;0,166666666666667
+"1776";"Operador SAU 5 (acind005)";"Reposición Equipo Telefonía Fija";1;0;0
+"1777";"Operador SAU 5 (acind005)";"Reposición Equipo Telefonía Móvil";7;0;0
+"1778";"Operador SAU 5 (acind005)";"Reposición Internet Móvil";2;0;0
+"1779";"Operador SAU 5 (acind005)";"Restablecer Servicio Aplicación Publicada";131;16;0,122137404580153
+"1780";"Operador SAU 5 (acind005)";"Restablecer Servicio de Dispositivo Móvil";1;0;0
+"1781";"Operador SAU 5 (acind005)";"Restablecer Servicio Equipos de Impresión y Digitalización";2;0;0
+"1782";"Operador SAU 5 (acind005)";"Restablecer Servicio Equipos/Periféricos";5;3;0,6
+"1783";"Operador SAU 5 (acind005)";"Restablecer Servicio Escritorio Virtual";2;0;0
+"1784";"Operador SAU 5 (acind005)";"Restablecer Servicio SW PC";270;68;0,251851851851852
+"1785";"Operador SAU 5 (acind005)";"Restablecer Servicio Windows";249;33;0,132530120481928
+"1786";"Operador SAU 5 (acind005)";"Restablecimiento de Red";3;0;0
+"1787";"Operador SAU 5 (acind005)";"Soporte en línea SSII";11;0;0
+"1788";"Operador SAU 5 (acind005)";"Traslado Equipo";1;0;0
+"1789";"Operador SAU 5 (acind005)";"Traslado Telefonía Fija";1;0;0
+"1790";"Operador SAU 5 (acind005)";"Traspaso Telefonía Fija";1;0;0
+"1791";"Operador SAU 6 (acind006)";"Acceso Red Visitantes";74;4;0,0540540540540541
+"1792";"Operador SAU 6 (acind006)";"Acceso WiFi";36;2;0,0555555555555556
+"1793";"Operador SAU 6 (acind006)";"Actualización SW PC";7;0;0
+"1794";"Operador SAU 6 (acind006)";"Asesoría Office";10;0;0
+"1795";"Operador SAU 6 (acind006)";"Asesoría SAU Microinformática";287;22;0,0766550522648084
+"1796";"Operador SAU 6 (acind006)";"Asesoría SAU Red y Correo";124;4;0,032258064516129
+"1797";"Operador SAU 6 (acind006)";"Asesoría SAU Sistemas de Informacion";248;17;0,0685483870967742
+"1798";"Operador SAU 6 (acind006)";"Asesoría SAU Telefonía y Teleconferencia";10;1;0,1
+"1799";"Operador SAU 6 (acind006)";"Asignación Equipo";4;0;0
+"1800";"Operador SAU 6 (acind006)";"Asignación Telefonía Fija";2;0;0
+"1801";"Operador SAU 6 (acind006)";"Asignación Telefonía Móvil";1;0;0
+"1802";"Operador SAU 6 (acind006)";"Avance de Requerimientos";65;3;0,0461538461538462
+"1803";"Operador SAU 6 (acind006)";"Bloqueos Frecuentes";42;2;0,0476190476190476
+"1804";"Operador SAU 6 (acind006)";"Cambio Plan Telefonía Celular";9;0;0
+"1805";"Operador SAU 6 (acind006)";"Configuración";5;0;0
+"1806";"Operador SAU 6 (acind006)";"Configuración de Impresión";25;1;0,04
+"1807";"Operador SAU 6 (acind006)";"Configuración en Windows";115;4;0,0347826086956522
+"1808";"Operador SAU 6 (acind006)";"Corrección Errores de Conexión al Sistema SI Comercial";2;0;0
+"1809";"Operador SAU 6 (acind006)";"Corrección Errores de Conexión SI de Recursos";1;0;0
+"1810";"Operador SAU 6 (acind006)";"Corrección Errores de Funcionalidad SI Comercial";2;0;0
+"1811";"Operador SAU 6 (acind006)";"Daño Equipos de Impresión y Digitalización";14;0;0
+"1812";"Operador SAU 6 (acind006)";"Desbloqueo Cuenta Red";554;48;0,0866425992779783
+"1813";"Operador SAU 6 (acind006)";"Desbloqueo Cuenta SSII SAU";455;22;0,0483516483516484
+"1814";"Operador SAU 6 (acind006)";"Desbloqueo Usuario/Cambio Contraseña SI de Recursos";1;0;0
+"1815";"Operador SAU 6 (acind006)";"Eliminación de Usuario Sistemas de Distribución";1;0;0
+"1816";"Operador SAU 6 (acind006)";"Filtro Correo Corporativo";1;0;0
+"1817";"Operador SAU 6 (acind006)";"Gestion Cuentas de Correo";2;0;0
+"1818";"Operador SAU 6 (acind006)";"Gestión Cuentas de Red";317;24;0,0757097791798107
+"1819";"Operador SAU 6 (acind006)";"Gestión de Servicios básicos de Redes";18;1;0,0555555555555556
+"1820";"Operador SAU 6 (acind006)";"Gestion puesto de trabajo";148;1;0,00675675675675676
+"1821";"Operador SAU 6 (acind006)";"Instalación SW PC";53;2;0,0377358490566038
+"1822";"Operador SAU 6 (acind006)";"Liberar Puesto de Trabajo";170;1;0,00588235294117647
+"1823";"Operador SAU 6 (acind006)";"Listas de Distribución Correo";128;13;0,1015625
+"1824";"Operador SAU 6 (acind006)";"Mantenimiento Kiosko Virtual";2;0;0
+"1825";"Operador SAU 6 (acind006)";"Monitoreo y soporte Virtualización";3;0;0
+"1826";"Operador SAU 6 (acind006)";"Notificación Cambio Sede/Área";20;0;0
+"1827";"Operador SAU 6 (acind006)";"Otros Procedimientos";50;2;0,04
+"1828";"Operador SAU 6 (acind006)";"Préstamo Internet Móvil";1;0;0
+"1829";"Operador SAU 6 (acind006)";"Procedimientos TI";99;1;0,0101010101010101
+"1830";"Operador SAU 6 (acind006)";"Reporte de Elementos a Cargo";2;0;0
+"1831";"Operador SAU 6 (acind006)";"Reposición Equipo Telefonía Fija";1;0;0
+"1832";"Operador SAU 6 (acind006)";"Reposición Equipo Telefonía Móvil";1;0;0
+"1833";"Operador SAU 6 (acind006)";"Restablecer Servicio Aplicación Publicada";184;11;0,0597826086956522
+"1834";"Operador SAU 6 (acind006)";"Restablecer Servicio de Dispositivo Móvil";2;0;0
+"1835";"Operador SAU 6 (acind006)";"Restablecer Servicio de Navegación";5;0;0
+"1836";"Operador SAU 6 (acind006)";"Restablecer Servicio Equipos de Impresión y Digitalización";2;0;0
+"1837";"Operador SAU 6 (acind006)";"Restablecer Servicio Equipos/Periféricos";8;1;0,125
+"1838";"Operador SAU 6 (acind006)";"Restablecer Servicio Escritorio Virtual";17;4;0,235294117647059
+"1839";"Operador SAU 6 (acind006)";"Restablecer Servicio Red Inalámbrica";3;0;0
+"1840";"Operador SAU 6 (acind006)";"Restablecer Servicio SW PC";328;17;0,0518292682926829
+"1841";"Operador SAU 6 (acind006)";"Restablecer Servicio Windows";331;29;0,0876132930513595
+"1842";"Operador SAU 6 (acind006)";"Restablecimiento de Red";15;0;0
+"1843";"Operador SAU 6 (acind006)";"Soporte en Línea HW";3;0;0
+"1844";"Operador SAU 6 (acind006)";"Soporte en línea SSII";86;4;0,0465116279069767
+"1845";"Operador SAU 6 (acind006)";"Soporte en Línea SW";79;4;0,0506329113924051
+"1846";"Operador SAU 6 (acind006)";"Traspaso Telefonía Fija";1;0;0
+"1847";"Operador SAU 7 (acind007)";"Acceso Red Visitantes";56;0;0
+"1848";"Operador SAU 7 (acind007)";"Acceso WiFi";20;0;0
+"1849";"Operador SAU 7 (acind007)";"Actualización SW PC";1;0;0
+"1850";"Operador SAU 7 (acind007)";"Asesoría Office";8;1;0,125
+"1851";"Operador SAU 7 (acind007)";"Asesoría SAU Microinformática";153;4;0,0261437908496732
+"1852";"Operador SAU 7 (acind007)";"Asesoría SAU Red y Correo";117;0;0
+"1853";"Operador SAU 7 (acind007)";"Asesoría SAU Sistemas de Informacion";145;4;0,0275862068965517
+"1854";"Operador SAU 7 (acind007)";"Asesoría SAU Telefonía y Teleconferencia";22;1;0,0454545454545455
+"1855";"Operador SAU 7 (acind007)";"Asesoría/Consulta Funcional - Recursos";1;0;0
+"1856";"Operador SAU 7 (acind007)";"Asignación Equipo";2;0;0
+"1857";"Operador SAU 7 (acind007)";"Avance de Requerimientos";26;1;0,0384615384615385
+"1858";"Operador SAU 7 (acind007)";"Bloqueos Frecuentes";3;0;0
+"1859";"Operador SAU 7 (acind007)";"Cambio Plan Telefonía Celular";2;0;0
+"1860";"Operador SAU 7 (acind007)";"Conexión Terceros";1;0;0
+"1861";"Operador SAU 7 (acind007)";"Configuración";6;0;0
+"1862";"Operador SAU 7 (acind007)";"Configuración de Impresión";14;1;0,0714285714285714
+"1863";"Operador SAU 7 (acind007)";"Configuración en Windows";60;3;0,05
+"1864";"Operador SAU 7 (acind007)";"Corrección Errores de Conexión SI de Distribución";1;0;0
+"1865";"Operador SAU 7 (acind007)";"Corrección Errores de Conexión SI de Recursos";2;0;0
+"1866";"Operador SAU 7 (acind007)";"Daño Equipos de Impresión y Digitalización";1;0;0
+"1867";"Operador SAU 7 (acind007)";"Desbloqueo Cuenta Red";489;23;0,0470347648261759
+"1868";"Operador SAU 7 (acind007)";"Desbloqueo Cuenta SSII SAU";366;12;0,0327868852459016
+"1869";"Operador SAU 7 (acind007)";"Desbloqueo Usuario/Cambio Contraseña SI Comercial";4;0;0
+"1870";"Operador SAU 7 (acind007)";"Filtro Correo Corporativo";1;0;0
+"1871";"Operador SAU 7 (acind007)";"Generación - Reporte - Telefonía";1;0;0
+"1872";"Operador SAU 7 (acind007)";"Gestion Cuentas de Correo";3;0;0
+"1873";"Operador SAU 7 (acind007)";"Gestión Cuentas de Red";30;5;0,166666666666667
+"1874";"Operador SAU 7 (acind007)";"Gestión de Servicios básicos de Redes";5;0;0
+"1875";"Operador SAU 7 (acind007)";"Gestión permisos Navegación";2;0;0
+"1876";"Operador SAU 7 (acind007)";"Gestión Permisos VPN";3;0;0
+"1877";"Operador SAU 7 (acind007)";"Gestión Plataforma de Virtualización";1;0;0
+"1878";"Operador SAU 7 (acind007)";"Gestion puesto de trabajo";1;0;0
+"1879";"Operador SAU 7 (acind007)";"Instalación SW PC";33;7;0,212121212121212
+"1880";"Operador SAU 7 (acind007)";"Liberar Puesto de Trabajo";49;0;0
+"1881";"Operador SAU 7 (acind007)";"Listas de Distribución Correo";27;3;0,111111111111111
+"1882";"Operador SAU 7 (acind007)";"Monitoreo y soporte Virtualización";1;0;0
+"1883";"Operador SAU 7 (acind007)";"Notificación Cambio Sede/Área";1;0;0
+"1884";"Operador SAU 7 (acind007)";"Otros Procedimientos";42;1;0,0238095238095238
+"1885";"Operador SAU 7 (acind007)";"Procedimientos TI";90;8;0,0888888888888889
+"1886";"Operador SAU 7 (acind007)";"Reposición Equipo Telefonía Fija";1;0;0
+"1887";"Operador SAU 7 (acind007)";"Reposición Equipo Telefonía Móvil";2;0;0
+"1888";"Operador SAU 7 (acind007)";"Restablecer APP Locker";1;1;1
+"1889";"Operador SAU 7 (acind007)";"Restablecer Servicio Aplicación Publicada";170;20;0,117647058823529
+"1890";"Operador SAU 7 (acind007)";"Restablecer Servicio Equipos de Impresión y Digitalización";6;1;0,166666666666667
+"1891";"Operador SAU 7 (acind007)";"Restablecer Servicio Equipos/Periféricos";5;0;0
+"1892";"Operador SAU 7 (acind007)";"Restablecer Servicio Escritorio Virtual";2;0;0
+"1893";"Operador SAU 7 (acind007)";"Restablecer Servicio Red Inalámbrica";6;0;0
+"1894";"Operador SAU 7 (acind007)";"Restablecer Servicio SW PC";273;34;0,124542124542125
+"1895";"Operador SAU 7 (acind007)";"Restablecer Servicio Videoseguridad";1;0;0
+"1896";"Operador SAU 7 (acind007)";"Restablecer Servicio Windows";173;15;0,0867052023121387
+"1897";"Operador SAU 7 (acind007)";"Restablecimiento de Red";7;0;0
+"1898";"Operador SAU 7 (acind007)";"Soporte en línea SSII";14;3;0,214285714285714
+"1899";"Operador SAU 7 (acind007)";"Soporte en Línea SW";6;0;0
+"1900";"Operador SAU 7 (acind007)";"Soporte en Línea Telefonía";1;0;0
+"1901";"Operadores CPD Yumbo";"Actualizar aplicaciones Granja";18;2;0,111111111111111
+"1902";"Operadores CPD Yumbo";"Gestión de Excepciones";1;0;0
+"1903";"Operadores CPD Yumbo";"Gestión de Servidores Sistema Operativo Windows";1;0;0
+"1904";"Operadores CPD Yumbo";"Respaldo";18;0;0
+"1905";"Operadores CPD Yumbo";"Restauración Backup BD";5;0;0
+"1906";"Pablo Fernando Mendoza Perez - Usuario INDRA (ACIND044)";"Actualización SW PC";4;0;0
+"1907";"Pablo Fernando Mendoza Perez - Usuario INDRA (ACIND044)";"Asignación Videoconferencia";5;5;1
+"1908";"Pablo Fernando Mendoza Perez - Usuario INDRA (ACIND044)";"Gestión de Excepciones";1;1;1
+"1909";"Pablo Fernando Mendoza Perez - Usuario INDRA (ACIND044)";"Restablecer Servicio SW PC";41;32;0,780487804878049
+"1910";"Pablo Fernando Mendoza Perez - Usuario INDRA (ACIND044)";"Restablecer Servicio Windows";53;52;0,981132075471698
+"1911";"Pablo Fernando Mendoza Perez - Usuario INDRA (ACIND044)";"Soporte Interno Microinformática";5;5;1
+"1912";"Rafael Nicolas Estrada Gutierrez - Usuario INDRA (ACIND027)";"Análisis de Casos";2;0;0
+"1913";"Rafael Nicolas Estrada Gutierrez - Usuario INDRA (ACIND027)";"Aplicar políticas de uso aceptable";1;0;0
+"1914";"Rafael Nicolas Estrada Gutierrez - Usuario INDRA (ACIND027)";"Desinfección de Equipo";7;4;0,571428571428571
+"1915";"Rafael Nicolas Estrada Gutierrez - Usuario INDRA (ACIND027)";"Gestión de Excepciones";1;0;0
+"1916";"Rafael Nicolas Estrada Gutierrez - Usuario INDRA (ACIND027)";"Verificación de Autorización y Permisos";1;0;0
+"1917";"Rafael Nicolas Estrada Gutierrez - Usuario INDRA (ACIND027)";"Verificación y bloqueo de páginas/correo no deseados";22;0;0
+"1918";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Asignación de Usuario Sistemas de Recursos";60;0;0
+"1919";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Autorizaciones SAP";210;0;0
+"1920";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Corrección Errores de Conexión SI de Recursos";1;0;0
+"1921";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Creación de Perfil Sistemas de Recursos";6;0;0
+"1922";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Eliminación de Usuario Sistemas de Recursos";20;0;0
+"1923";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Gestión Basis SAP";225;0;0
+"1924";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Gestión de Alertas";4;0;0
+"1925";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Gestión de Excepciones";2;0;0
+"1926";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Modificación de Perfil Sistemas de Recursos";19;0;0
+"1927";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Modificación de Usuario Sistemas de Recursos";186;0;0
+"1928";"Rafael Salazar Zarta  - Usuario INDRA (ACIND041)";"Monitoreo y Soporte Basis SAP";5;0;0
+"1929";"Raquel Sanchez Serrano - Usuario INDRA (ACIND088)";"Indra Esp-Atención de Requerimientos";2;2;1
+"1930";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Actualización SW PC";2;1;0,5
+"1931";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Alistamiento Sala de Formación";5;0;0
+"1932";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Alistamiento Sala de Reuniones o Auditorio";4;3;0,75
+"1933";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Configuración de Impresión";2;2;1
+"1934";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Configuración en Windows";21;4;0,19047619047619
+"1935";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Instalación SW PC";4;1;0,25
+"1936";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Mantenimiento";5;2;0,4
+"1937";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Restablecer Servicio de Dispositivo Móvil";2;0;0
+"1938";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Restablecer Servicio Equipos/Periféricos";17;8;0,470588235294118
+"1939";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Restablecer Servicio SW PC";21;5;0,238095238095238
+"1940";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Restablecer Servicio Windows";40;18;0,45
+"1941";"Ronald Buitrago Cardona - Usuario INDRA (ACIND030)";"Soporte Interno Microinformática";59;22;0,372881355932203
+"1942";"Rosana Alexa Salazar - Usuario INDRA (ACIND009)";"Actualizaciones CMDB";56;3;0,0535714285714286
+"1943";"Rosana Alexa Salazar - Usuario INDRA (ACIND009)";"Análisis de Casos";1;0;0
+"1944";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Actualización SW PC";4;0;0
+"1945";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Alistamiento Sala de Formación";5;0;0
+"1946";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Alistamiento Sala de Reuniones o Auditorio";7;0;0
+"1947";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Configuración";8;1;0,125
+"1948";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Configuración - Perfil";1;0;0
+"1949";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Configuración de Impresión";5;3;0,6
+"1950";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Configuración en Windows";64;4;0,0625
+"1951";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Daño Equipos de Impresión y Digitalización";1;0;0
+"1952";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Desinstalación SW PC";1;0;0
+"1953";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Gestión de Excepciones";1;0;0
+"1954";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Instalación SW PC";29;1;0,0344827586206897
+"1955";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Mantenimiento";16;1;0,0625
+"1956";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Restablecer APP Locker";1;0;0
+"1957";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Restablecer Servicio de Dispositivo Móvil";6;0;0
+"1958";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Restablecer Servicio Equipos/Periféricos";103;10;0,0970873786407767
+"1959";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Restablecer Servicio SW PC";157;6;0,0382165605095541
+"1960";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Restablecer Servicio Windows";313;15;0,0479233226837061
+"1961";"Santiago Vargas Candela - Usuario INDRA (ACIND070)";"Soporte Interno Microinformática";242;5;0,0206611570247934
+"1962";"Shigeo Armando Nishi Lozano";"Actualización Datos Distribución";164;0;0
+"1963";"Shigeo Armando Nishi Lozano";"Actualización Individual  Datos Comercial";5;4;0,8
+"1964";"Shigeo Armando Nishi Lozano";"Análisis de Lentitud SI de Distribución";5;3;0,6
+"1965";"Shigeo Armando Nishi Lozano";"Asesoría/Consulta funcional - Distribución";44;0;0
+"1966";"Shigeo Armando Nishi Lozano";"Asignación de Usuario Distribución";47;0;0
+"1967";"Shigeo Armando Nishi Lozano";"Bloqueo Sistema Distribución";9;0;0
+"1968";"Shigeo Armando Nishi Lozano";"Corrección en Autorizaciones SI Comercial";1;0;0
+"1969";"Shigeo Armando Nishi Lozano";"Corrección Errores de Conexión SI de Distribución";12;0;0
+"1970";"Shigeo Armando Nishi Lozano";"Corrección Errores de Funcionalidad SI de Distribución";41;0;0
+"1971";"Shigeo Armando Nishi Lozano";"Corrección Errores de Funcionalidad SI de Recursos";4;0;0
+"1972";"Shigeo Armando Nishi Lozano";"Creación de Perfil Sistemas Comerciales";1;0;0
+"1973";"Shigeo Armando Nishi Lozano";"Desarrollo de Mejora SI de Distribución";1;0;0
+"1974";"Shigeo Armando Nishi Lozano";"Desbloqueo Usuario/Cambio Contraseña SI de Distribución";13;1;0,0769230769230769
+"1975";"Shigeo Armando Nishi Lozano";"Eliminación de Usuario Sistemas de Distribución";36;2;0,0555555555555556
+"1976";"Shigeo Armando Nishi Lozano";"Eliminación de Usuario Sistemas de Recursos";2;0;0
+"1977";"Shigeo Armando Nishi Lozano";"Gestión de Excepciones";1;0;0
+"1978";"Shigeo Armando Nishi Lozano";"Modificación de Usuario Sistemas de Distribución";15;3;0,2
+"1979";"Shigeo Armando Nishi Lozano";"Parametrización Sistemas de Distribución";46;0;0
+"1980";"Shigeo Armando Nishi Lozano";"Parametrización Sistemas de Recursos";1;0;0
+"1981";"Shigeo Armando Nishi Lozano";"Reportes o Extracción de Información SI de Distribución";55;0;0
+"1982";"Shigeo Armando Nishi Lozano";"Soporte Interno SSII de Distribución";11;0;0
+"1983";"Shigeo Armando Nishi Lozano";"Verificación de Inventario SSII";1;0;0
+"1984";"Tulio Enrique Sanchez Ortega";"Asignación - Cable - Red";2;0;0
+"1985";"Tulio Enrique Sanchez Ortega";"Asignación Enlace Telecontrol";3;0;0
+"1986";"Tulio Enrique Sanchez Ortega";"Asignación Enlace Telemedida";1;0;0
+"1987";"Tulio Enrique Sanchez Ortega";"Asignación Enlace Teleprotecciones";1;1;1
+"1988";"Tulio Enrique Sanchez Ortega";"Asignación Enlace Videoseguridad";1;0;0
+"1989";"Tulio Enrique Sanchez Ortega";"Configuración - Telco";11;0;0
+"1990";"Tulio Enrique Sanchez Ortega";"Generación - Reporte - Telefonía";1;0;0
+"1991";"Tulio Enrique Sanchez Ortega";"Implementación - Red Inalámbrica";3;0;0
+"1992";"Tulio Enrique Sanchez Ortega";"Monitoreo Enlace Videoseguridad";2;0;0
+"1993";"Tulio Enrique Sanchez Ortega";"Monitoreo/Reporte de Tráfico - Telco";2;0;0
+"1994";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio de Telefonía Fija";3;0;0
+"1995";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio de Telefonía Fija o Móvil";4;0;0
+"1996";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio Red Datos";13;1;0,0769230769230769
+"1997";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio Red Inalámbrica";19;0;0
+"1998";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio Telecontrol";15;0;0
+"1999";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio Telecontrol Reconectadores";3;1;0,333333333333333
+"2000";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio Telemedida";4;0;0
+"2001";"Tulio Enrique Sanchez Ortega";"Restablecer Servicio Videoseguridad";9;0;0
+"2002";"Tulio Enrique Sanchez Ortega";"Revisión - Telco";2;0;0
+"2003";"Tulio Enrique Sanchez Ortega";"Verificación de Inventario";15;11;0,733333333333333
+"2004";"Usuario INDRA (ACIND031)";"Actualización SW PC";6;0;0
+"2005";"Usuario INDRA (ACIND031)";"Alistamiento Sala de Formación";3;0;0
+"2006";"Usuario INDRA (ACIND031)";"Alistamiento Sala de Reuniones o Auditorio";5;0;0
+"2007";"Usuario INDRA (ACIND031)";"Configuración";10;0;0
+"2008";"Usuario INDRA (ACIND031)";"Configuración - Perfil";1;0;0
+"2009";"Usuario INDRA (ACIND031)";"Configuración de Impresión";6;1;0,166666666666667
+"2010";"Usuario INDRA (ACIND031)";"Configuración en Windows";68;1;0,0147058823529412
+"2011";"Usuario INDRA (ACIND031)";"Daño Equipos de Impresión y Digitalización";1;0;0
+"2012";"Usuario INDRA (ACIND031)";"Gestión de Alertas";1;0;0
+"2013";"Usuario INDRA (ACIND031)";"Gestión de Excepciones";1;0;0
+"2014";"Usuario INDRA (ACIND031)";"Instalación APPLocker";1;0;0
+"2015";"Usuario INDRA (ACIND031)";"Instalación SW PC";24;0;0
+"2016";"Usuario INDRA (ACIND031)";"Mantenimiento";3;0;0
+"2017";"Usuario INDRA (ACIND031)";"Restablecer APP Locker";1;0;0
+"2018";"Usuario INDRA (ACIND031)";"Restablecer Servicio Equipos/Periféricos";37;5;0,135135135135135
+"2019";"Usuario INDRA (ACIND031)";"Restablecer Servicio SW PC";62;7;0,112903225806452
+"2020";"Usuario INDRA (ACIND031)";"Restablecer Servicio Windows";149;14;0,0939597315436242
+"2021";"Usuario INDRA (ACIND031)";"Retiro Equipo";1;0;0
+"2022";"Usuario INDRA (ACIND031)";"Soporte Interno Microinformática";169;0;0
+"2023";"Usuario INDRA (ACIND061)";"Indra Esp-Atención de Requerimientos";4;4;1
+"2024";"Usuario INDRA (ACIND062)";"Indra Esp-Atención de Requerimientos";59;43;0,728813559322034
+"2025";"Usuario INDRA (ACIND062)";"Indra Esp-Resolución de Incidentes";31;15;0,483870967741935
+"2026";"Yovanni Ortiz Hernandez";"Actualización Datos Sistemas de Recursos";23;0;0
+"2027";"Yovanni Ortiz Hernandez";"Actualización Masiva Datos Comercial";2;0;0
+"2028";"Yovanni Ortiz Hernandez";"Análisis de Lentitud SI de Recursos";42;1;0,0238095238095238
+"2029";"Yovanni Ortiz Hernandez";"Asesoría/Consulta Funcional - Recursos";19;0;0
+"2030";"Yovanni Ortiz Hernandez";"Asignación de Usuario Sistemas Comerciales";3;0;0
+"2031";"Yovanni Ortiz Hernandez";"Asignación de Usuario Sistemas de Recursos";6;0;0
+"2032";"Yovanni Ortiz Hernandez";"Bloqueo Sistema Gestión de Recursos";27;0;0
+"2033";"Yovanni Ortiz Hernandez";"Corrección en Autorizaciones SI de Recursos";5;0;0
+"2034";"Yovanni Ortiz Hernandez";"Corrección Errores de Conexión SI de Recursos";56;0;0
+"2035";"Yovanni Ortiz Hernandez";"Corrección Errores de Funcionalidad SI de Recursos";86;1;0,0116279069767442
+"2036";"Yovanni Ortiz Hernandez";"Creación de Perfil Sistemas de Recursos";1;0;0
+"2037";"Yovanni Ortiz Hernandez";"Eliminación de Usuario Sistemas de Recursos";7;0;0
+"2038";"Yovanni Ortiz Hernandez";"Modificación de Usuario Sistemas Comerciales";1;0;0
+"2039";"Yovanni Ortiz Hernandez";"Modificación de Usuario Sistemas de Recursos";6;1;0,166666666666667
+"2040";"Yovanni Ortiz Hernandez";"Parametrización Sistemas Comerciales";1;0;0
+"2041";"Yovanni Ortiz Hernandez";"Parametrización Sistemas de Recursos";38;0;0
+"2042";"Yovanni Ortiz Hernandez";"Reportes o Extracción de Información SI de Recursos";1;0;0
+"2043";"Yovanni Ortiz Hernandez";"Soporte Interno SSII de Recursos";1;0;0
+"2044";"Yovanni Ortiz Hernandez";"Verificación de Inventario SSII";2;0;0
