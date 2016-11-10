@@ -19,10 +19,8 @@ RUN apt-get update && apt-get install -y \
     libmpfr-dev
 
 # basic shiny functionality
-RUN R -e "install.packages(c('shiny', 'rmarkdown','tidyverse','lubridate','shinydashboard','ggplot2','ggvis','googleVis','rpivotTable','DT','xts','dygraphs','rpivotTable'), repos='https://cloud.r-project.org/')"
+RUN R -e "install.packages(c('shiny', 'rmarkdown','tidyverse','lubridate','shinydashboard','ggplot2','ggvis','googleVis','rpivotTable','DT','xts','dygraphs','rpivotTable','Rmpfr'), repos='https://cloud.r-project.org/')"
 
-# install dependencies of the euler app
-RUN R -e "install.packages('Rmpfr', repos='https://cloud.r-project.org/')"
 
 # copy the app to the image
 RUN mkdir /root/euler
@@ -34,4 +32,5 @@ COPY Rprofile.site /usr/lib/R/etc/
 
 EXPOSE 3838
 
-CMD ["R", "-e shiny::runApp('/root/euler')"]
+#CMD ["R", "-e shiny::runApp('/root/euler')"]
+#CMD ["R", "-e shiny::runApp('/root/dash')"]
