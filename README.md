@@ -1,5 +1,5 @@
 
-# ShinyProxy Template
+# Shiny-web Template
 
 This repository provides a template to deploy your own Shiny apps on [ShinyProxy](http://www.shinyproxy.io).
 
